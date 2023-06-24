@@ -1,0 +1,2319 @@
+Place,Time,Athlete,Country,Date of Birth,City,Event Date
+1,29:01.03,Letesenbet Gidey,ETH,20.03.98,Hengelo,08.06.2021
+2,29:06.82,Sifan Hassan,NED,01.01.93,Hengelo,06.06.2021
+3,29:17.45,Almaz Ayana,ETH,21.11.91,Rio de Janeiro,12.08.2016
+4,29:31.78,Wang Junxia,CHN,09.01.73,Beijing,08.09.1993
+5,29:32.53,Vivian Cheruiyot,KEN,11.09.83,Rio de Janeiro,12.08.2016
+6,29:36.67,Sifan Hassan,NED,01.01.93,Hengelo,10.10.2020
+7,29:39.42,Gudaf Tsegay,ETH,23.06.97,Maia,08.05.2021
+8,29:42.56,Tirunesh Dibaba,ETH,01.10.85,Rio de Janeiro,12.08.2016
+9,29:50.77,Kalkidan Gezahegne,BRN,08.05.91,Maia,08.05.2021
+10,29:53.51,Alice Nawowuna,KEN,02.01.94,Rio de Janeiro,12.08.2016
+11,29:53.80,Meselech Melkamu,ETH,19.04.85,Utrecht,14.06.2009
+12,29:54.66,Tirunesh Dibaba,ETH,01.10.85,Beijing,15.08.2008
+13,29:55.32,Sifan Hassan,NED,01.01.93,Tokyo,07.08.2021
+14,29:56.18,Kalkidan Gezahegne,BRN,08.05.91,Tokyo,07.08.2021
+15,29:59.20,Meseret Defar,ETH,19.11.83,Birmingham,11.07.2009
+16,30:00.86,Eilish McColgan,GBR,25.11.90,San Juan Capistrano,04.03.2023
+17,30:01.09,Paula Radcliffe,GBR,17.12.73,München,06.08.2002
+18,30:01.72,Letesenbet Gidey,ETH,20.03.98,Tokyo,07.08.2021
+19,30:03.82,Alicia Monson,USA,13.05.98,San Juan Capistrano,04.03.2023
+20,30:04.18,Berhane Adere,ETH,21.07.73,Saint-Denis,23.08.2003
+21,30:06.01,Tsigie Gebreselama,ETH,30.09.00,Hengelo,08.06.2021
+22,30:07.00,Almaz Ayana,ETH,21.11.91,Hengelo,29.06.2016
+23,30:07.15,Werknesh Kidane,ETH,21.11.81,Saint-Denis,23.08.2003
+24,30:07.20,Sun Yingjie,CHN,03.10.77,Saint-Denis,23.08.2003
+25,30:07.78,Betsy Saina,KEN,30.06.88,Rio de Janeiro,12.08.2016
+26,30:08.06,Meseret Defar,ETH,19.11.83,Sollentuna,27.06.2013
+27,30:09.94,Letesenbet Gidey,ETH,20.03.98,Eugene,16.07.2022
+28,30:10.02,Helen Obiri,KEN,13.12.89,Eugene,16.07.2022
+29,30:10.07,Margaret Kipkemboi,KEN,09.02.93,Eugene,16.07.2022
+30,30:10.56,Sifan Hassan,NED,01.01.93,Eugene,16.07.2022
+31,30:11.53,Florence Kiplagat,KEN,27.02.87,Utrecht,14.06.2009
+32,30:11.87,Ayalew Wude,ETH,04.07.87,Utrecht,14.06.2009
+33,30:12.15,Rahel Daniel,ERI,16.11.01,Eugene,16.07.2022
+34,30:12.45,Ejgayehu Taye,ETH,10.02.00,Eugene,16.07.2022
+35,30:12.53,Lornah Kiplagat,NED,01.05.74,Saint-Denis,23.08.2003
+36,30:13.17,Molly Huddle,USA,31.08.84,Rio de Janeiro,12.08.2016
+37,30:13.37,Zhong Huandi,CHN,28.06.67,Beijing,08.09.1993
+38,30:13.74,Ingrid Kristiansen,NOR,21.03.56,Oslo,05.07.1986
+39,30:14.66,Elise Cranny,USA,09.05.96,San Juan Capistrano,06.03.2022
+40,30:15.67,Tirunesh Dibaba,ETH,01.10.85,Sollentuna,28.06.2005
+41,30:16.32,Almaz Ayana,ETH,21.11.91,London,05.08.2017
+42,30:17.15,Paula Radcliffe,GBR,17.12.73,Gateshead,27.06.2004
+43,30:17.49,Derartu Tulu,ETH,21.03.72,Sydney,30.09.2000
+44,30:17.62,Sifan Hassan,NED,01.01.93,Ad-Dawhah,28.09.2019
+45,30:17.64,Caroline Kipkurui,KAZ,26.05.94,Eugene,16.07.2022
+46,30:17.77,Bosena Mulate,ETH,21.11.01,Eugene,16.07.2022
+47,30:18.05,Karissa Schweizer,USA,04.05.96,Eugene,16.07.2022
+48,30:18.39,Ejegayehu Dibaba,ETH,21.03.82,Sollentuna,28.06.2005
+49,30:19.02,Eilish McColgan,GBR,25.11.90,Hengelo,06.06.2022
+50,30:19.29,Tsehay Gemechu,ETH,12.12.98,Hengelo,08.06.2021
+51,30:19.39,Werknesh Kidane,ETH,21.11.81,Palo Alto,29.05.2005
+52,30:20.44,Hitomi Niiya,JPN,26.02.88,Osaka,04.12.2020
+53,30:20.75,Tirunesh Dibaba,ETH,01.10.85,London,03.08.2012
+54,30:20.77,Yalemzerf Yehualaw,ETH,03.08.99,Hengelo,08.06.2021
+55,30:21.23,Letesenbet Gidey,ETH,20.03.98,Ad-Dawhah,28.09.2019
+56,30:21.67,Elvan Abeylegesse,TUR,11.09.82,Antalya,15.04.2006
+57,30:22.22,Shalane Flanagan,USA,07.08.81,Beijing,15.08.2008
+58,30:22.48,Getenesh Wami,ETH,11.12.74,Sydney,30.09.2000
+59,30:22.88,Fernanda Ribeiro,POR,23.06.69,Sydney,30.09.2000
+60,30:23.07,Alla Zhilyayeva,RUS,05.02.69,Saint-Denis,23.08.2003
+61,30:23.25,Ingrid Kristiansen,NOR,21.03.56,Stuttgart,30.08.1986
+62,30:24.02,Tirunesh Dibaba,ETH,01.10.85,Helsinki,06.08.2005
+63,30:24.27,Helen Obiri,KEN,13.12.89,Tokyo,07.08.2021
+64,30:24.36,Xing Huina,CHN,25.02.84,Athínai,27.08.2004
+65,30:24.39,Tirunesh Dibaba,ETH,01.10.85,Eugene,01.06.2012
+66,30:24.56,Getenesh Wami,ETH,11.12.74,Sevilla,26.08.1999
+67,30:24.85,Florence Kiplagat,KEN,27.02.87,Eugene,01.06.2012
+68,30:24.98,Ejegayehu Dibaba,ETH,21.03.82,Athínai,27.08.2004
+69,30:25.20,Agnes Tirop,KEN,23.10.95,Ad-Dawhah,28.09.2019
+70,30:25.41,Berhane Adere,ETH,21.07.73,Helsinki,06.08.2005
+71,30:26.00,Ejegayehu Dibaba,ETH,21.03.82,Helsinki,06.08.2005
+72,30:26.20,Galina Bogomalova,RUS,15.10.77,Saint-Denis,23.08.2003
+73,30:26.37,Sally Kipyego,KEN,19.12.85,London,03.08.2012
+74,30:26.41,Yasemin Can,TUR,11.12.96,Rio de Janeiro,12.08.2016
+75,30:26.42,Derartu Tulu,ETH,21.03.72,Athínai,27.08.2004
+76,30:26.50,Linet Masai,KEN,05.12.89,Beijing,15.08.2008
+77,30:26.66,Gelete Burka,ETH,23.01.86,Rio de Janeiro,12.08.2016
+78,30:26.67,Tirunesh Dibaba,ETH,01.10.85,Ostrava,27.06.2013
+79,30:26.70,Beleynesh Oljira,ETH,26.06.90,Eugene,01.06.2012
+80,30:26.94,Alice Nawowuna,KEN,02.01.94,Durban,25.06.2016
+81,30:26.97,Paula Radcliffe,GBR,17.12.73,Sydney,30.09.2000
+82,30:27.13,Paula Radcliffe,GBR,17.12.73,Sevilla,26.08.1999
+83,30:27.18,Xing Huina,CHN,25.02.84,Helsinki,06.08.2005
+84,30:28.26,Sun Yingjie,CHN,03.10.77,Busan,08.10.2002
+85,30:28.30,Werknesh Kidane,ETH,21.11.81,Athínai,27.08.2004
+86,30:28.47,Gelete Burka,ETH,23.01.86,Hengelo,29.06.2016
+87,30:28.53,Tirunesh Dibaba,ETH,01.10.85,Hengelo,29.06.2016
+88,30:29.23,Gladys Cherono,KEN,12.05.83,Ostrava,27.06.2013
+89,30:29.36,Liliya Shobukhova,RUS,13.11.77,Cheboksary,23.07.2009
+90,30:30.26,Edith Masai,KEN,04.04.67,Helsinki,06.08.2005
+91,30:30.44,Vivian Cheruiyot,KEN,11.09.83,London,03.08.2012
+92,30:31.03,Mariya Konovalova,RUS,14.08.74,Cheboksary,23.07.2009
+93,30:31.42,Inga Abitova,RUS,06.03.82,Göteborg,07.08.2006
+94,30:31.44,Beleynesh Oljira,ETH,26.06.90,Ostrava,27.06.2013
+95,30:31.55,Xing Huina,CHN,25.02.84,Saint-Denis,23.08.2003
+96,30:31.92,Lornah Kiplagat,NED,01.05.74,Athínai,27.08.2004
+97,30:32.03,Tegla Loroupe,KEN,09.05.73,Sevilla,26.08.1999
+98,30:32.36,Susanne Wigene,NOR,12.02.78,Göteborg,07.08.2006
+99,30:32.47,Werknesh Kidane,ETH,21.11.81,Helsinki,06.08.2005
+100,30:32.57,Yasemin Can,TUR,11.12.96,München,15.08.2022
+101,30:32.72,Lidiya Grigoryeva,RUS,21.01.74,Göteborg,07.08.2006
+102,30:33.53,Sun Yingjie,CHN,03.10.77,Helsinki,06.08.2005
+103,30:33.75,Galina Bogomalova,RUS,15.10.77,Helsinki,06.08.2005
+104,30:34.49,Shalane Flanagan,USA,07.08.81,Palo Alto,04.05.2008
+105,30:34.60,Eilish McColgan,GBR,25.11.90,Eugene,16.07.2022
+106,30:35.54,Kimberley Smith,NZL,19.11.81,Palo Alto,04.05.2008
+107,30:35.75,Rosemary Wanjiru,KEN,21.09.94,Ad-Dawhah,28.09.2019
+108,30:35.82,Helen Obiri,KEN,13.12.89,Ad-Dawhah,28.09.2019
+109,30:35.84,Mariya Konovalova,RUS,14.08.74,Beijing,15.08.2008
+110,30:35.90,Galina Bogomalova,RUS,15.10.77,Göteborg,07.08.2006
+111,30:35.91,Ababel Yeshaneh,ETH,22.07.91,Ostrava,27.06.2013
+112,30:35.93,Jessica Judd,GBR,07.01.95,Eugene,16.07.2022
+113,30:36.75,Netsanet Gudeta,ETH,12.02.91,Hengelo,29.06.2016
+114,30:37.24,Irene Kimais,KEN,10.10.98,Hengelo,06.06.2021
+115,30:37.26,Tegla Loroupe,KEN,09.05.73,Sydney,30.09.2000
+115,30:37.26,Lornah Kiplagat,NED,01.05.74,Göteborg,07.08.2006
+117,30:37.31,Daisy Cherotich,KEN,30.06.97,Hengelo,06.06.2021
+118,30:37.38,Genet Yalew,ETH,31.12.92,Hengelo,29.06.2016
+119,30:37.68,Benita Willis,AUS,06.05.79,Saint-Denis,23.08.2003
+120,30:37.89,Letesenbet Gidey,ETH,20.03.98,Hengelo,17.07.2019
+121,30:38.09,Dong Yanmei,CHN,16.02.77,Shanghai,19.10.1997
+122,30:38.18,Rosemary Wanjiru,KEN,21.09.94,Abashiri,15.07.2020
+123,30:38.33,Mestawat Tufa,ETH,14.09.83,Nijmegen,26.06.2008
+124,30:38.35,Sally Kipyego,KEN,19.12.85,Palo Alto,01.05.2011
+125,30:38.78,Jelena Prokopcuka,LAT,21.09.76,Göteborg,07.08.2006
+126,30:39.38,Werknesh Kidane,ETH,21.11.81,London,03.08.2012
+127,30:39.41,Lan Lixin,CHN,14.02.79,Shanghai,19.10.1997
+128,30:39.57,Shalane Flanagan,USA,07.08.81,Palo Alto,01.05.2011
+129,30:39.71,Ririka Hironaka,JPN,24.11.00,Eugene,16.07.2022
+130,30:39.96,Lucy Kabuu,KEN,24.03.84,Beijing,15.08.2008
+131,30:39.98,Yin Lili,CHN,11.11.79,Shanghai,19.10.1997
+132,30:40.27,Lornah Kiplagat,NED,01.05.74,Beijing,15.08.2008
+133,30:40.59,Senbere Teferi,ETH,03.05.95,Hengelo,29.06.2016
+134,30:40.70,Paula Radcliffe,GBR,17.12.73,Barakaldo,10.04.1999
+135,30:40.85,Netsanet Gudeta,ETH,12.02.91,Hengelo,17.07.2019
+136,30:40.87,Gelete Burka,ETH,23.01.86,Hengelo,10.06.2017
+137,30:41.05,Eilish McColgan,GBR,25.11.90,München,15.08.2022
+138,30:41.40,Werknesh Kidane,ETH,21.11.81,Palo Alto,07.06.2003
+139,30:41.68,Senbere Teferi,ETH,03.05.95,Hengelo,10.06.2017
+140,30:41.85,Pauline Kamulu,KEN,16.04.95,Fukagawa,11.07.2018
+141,30:41.93,Francine Niyonsaba,BDI,05.05.93,Tokyo,07.08.2021
+142,30:42.26,Sally Kipyego,KEN,19.12.85,Palo Alto,04.05.2014
+143,30:42.75,Paula Radcliffe,GBR,17.12.73,Helsinki,06.08.2005
+144,30:43.35,Tirunesh Dibaba,ETH,01.10.85,Moskva,11.08.2013
+145,30:43.39,Ejegayehu Dibaba,ETH,21.03.82,Barakaldo,10.07.2004
+146,30:44.00,Irene Cheptai,KEN,04.02.92,Tokyo,07.08.2021
+147,30:44.23,Senbere Teferi,ETH,03.05.95,Ad-Dawhah,28.09.2019
+148,30:44.27,Letesenbet Gidey,ETH,20.03.98,Hengelo,06.06.2022
+149,30:44.57,Beleynesh Oljira,ETH,26.06.90,Hengelo,10.06.2017
+150,30:44.68,Ejgayehu Taye,ETH,10.02.00,Hengelo,06.06.2022
+151,30:45.00,Margaret Kipkemboi,KEN,09.02.93,Hengelo,06.06.2022
+152,30:45.14,Senbere Teferi,ETH,03.05.95,Hengelo,17.07.2019
+153,30:45.17,Gladys Cherono,KEN,12.05.83,Moskva,11.08.2013
+154,30:45.21,Seira Fuwa,JPN,25.03.03,Kyoto,11.12.2021
+155,30:45.56,Beleynesh Oljira,ETH,26.06.90,London,03.08.2012
+156,30:45.81,Sheila Chepkirui,KEN,27.12.90,Stockholm,04.05.2021
+157,30:46.24,Zeineba Yimer,ETH,17.06.98,Hengelo,17.07.2019
+158,30:46.37,Lonah Chemtai Salpeter,ISR,12.12.88,München,15.08.2022
+159,30:46.48,Galina Bogomalova,RUS,15.10.77,Tula,03.08.2003
+160,30:46.51,Joan Melly Chelimo,KEN,10.11.90,Stockholm,04.05.2021
+161,30:46.70,Inga Abitova,RUS,06.03.82,Kazan,17.07.2008
+162,30:46.98,Beleynesh Oljira,ETH,26.06.90,Moskva,11.08.2013
+163,30:47.02,Emily Chebet,KEN,18.02.86,Moskva,11.08.2013
+164,30:47.20,Sylvia Kibet,KEN,28.03.84,Utrecht,14.06.2009
+165,30:47.22,Dong Zhaoxia,CHN,13.11.74,Shanghai,19.10.1997
+166,30:47.25,Shitaye Eshete,BRN,21.05.90,London,03.08.2012
+167,30:47.42,Elise Cranny,USA,09.05.96,San Juan Capistrano,20.02.2021
+168,30:47.55,Betlehem Mulate,ETH,21.03.01,Hengelo,06.06.2022
+169,30:47.59,Sonia O'Sullivan,IRL,28.11.69,München,06.08.2002
+169,30:47.59,Molly Huddle,USA,31.08.84,Palo Alto,04.05.2014
+171,30:47.72,Wang Dongmei,CHN,03.12.73,Shanghai,19.10.1997
+171,30:47.72,Girmawit Gebrzihair,ETH,21.11.01,Hengelo,06.06.2022
+173,30:47.99,Karissa Schweizer,USA,04.05.96,San Juan Capistrano,20.02.2021
+173,30:47.99,Karissa Schweizer,USA,04.05.96,Eugene,27.05.2022
+175,30:48.06,Fernanda Ribeiro,POR,23.06.69,Lisboa,04.04.1998
+176,30:48.26,Aberu Kebede,ETH,12.09.89,Utrecht,14.06.2009
+176,30:48.26,Elly Henes,USA,13.10.98,San Juan Capistrano,04.03.2023
+178,30:48.48,Almaz Ayana,ETH,21.11.91,Hengelo,06.06.2022
+179,30:48.51,Ingrid Kristiansen,NOR,21.03.56,Oslo,01.07.1989
+180,30:48.58,Paula Radcliffe,GBR,17.12.73,Lisboa,04.04.1998
+181,30:48.60,Eilish McColgan,GBR,25.11.90,Birmingham,03.08.2022
+182,30:48.69,Natosha Rogers,USA,07.05.91,San Juan Capistrano,04.03.2023
+183,30:48.89,Yoko Shibui,JPN,14.03.79,Palo Alto,03.05.2002
+184,30:48.98,Vivian Cheruiyot,KEN,11.09.83,Daegu,27.08.2011
+185,30:49.23,Eva Cherono,KEN,15.08.96,Stockholm,04.05.2021
+186,30:49.30,Wang Junxia,CHN,09.01.73,Stuttgart,21.08.1993
+187,30:49.52,Irene Cheptai,KEN,04.02.92,Birmingham,03.08.2022
+188,30:49.57,Emily Sisson,USA,12.10.91,Palo Alto,29.03.2019
+189,30:49.68,Gelete Burka,ETH,23.01.86,Hengelo,17.06.2015
+190,30:50.04,Sally Kipyego,KEN,19.12.85,Daegu,27.08.2011
+191,30:50.16,Werknesh Kidane,ETH,21.11.81,Eugene,01.06.2012
+192,30:50.25,Beleynesh Oljira,ETH,26.06.90,Hengelo,29.06.2016
+193,30:50.32,Deena Kastor,USA,14.02.73,Palo Alto,03.05.2002
+194,30:50.34,Wang Junxia,CHN,09.01.73,Hiroshima,15.10.1994
+195,30:50.83,Alemitu Heroye,ETH,09.05.95,Hengelo,17.06.2015
+196,30:50.84,Karoline Bjerkeli Grøvdal,NOR,14.06.90,Oslo,08.05.2021
+197,30:51.00,Kimberley Smith,NZL,19.11.81,Beijing,15.08.2008
+198,30:51.07,Derartu Tulu,ETH,21.03.72,Barakaldo,10.07.2004
+199,30:51.30,Berhane Adere,ETH,21.07.73,Heusden-Zolder,05.08.2000
+200,30:51.34,Meselech Melkamu,ETH,19.04.85,Berlin,15.08.2009
+201,30:51.39,Irene Cheptai,KEN,04.02.92,Stockholm,04.05.2021
+202,30:51.69,Marta Domínguez,ESP,03.11.75,Göteborg,07.08.2006
+203,30:51.81,Kayoko Fukushi,JPN,25.03.82,Busan,08.10.2002
+204,30:51.86,Dera Dida,ETH,26.10.96,Hengelo,17.07.2019
+205,30:51.92,Hilda Kibet,NED,27.03.81,Utrecht,14.06.2009
+206,30:51.99,Edith Masai,KEN,04.04.67,Utrecht,17.06.2005
+207,30:52.37,Meseret Defar,ETH,19.11.83,Berlin,15.08.2009
+208,30:52.51,Elana Meyer,RSA,10.10.66,London,10.09.1994
+209,30:53.11,Tsehay Gemechu,ETH,12.12.98,Hengelo,17.07.2019
+210,30:53.20,Joanne Pavey,GBR,20.09.73,London,03.08.2012
+211,30:53.32,Gete Alemayehu,ETH,27.08.98,Hengelo,17.07.2019
+212,30:53.37,Sonia O'Sullivan,IRL,28.11.69,Sydney,30.09.2000
+213,30:53.53,Girmawit Gebrzihair,ETH,21.11.01,Hengelo,17.07.2019
+214,30:53.59,Linet Masai,KEN,05.12.89,Daegu,27.08.2011
+215,30:53.60A,Helen Obiri,KEN,13.12.89,Nairobi,19.06.2021
+216,30:53.69,Beleynesh Oljira,ETH,26.06.90,Hengelo,17.06.2015
+217,30:54.12,Ababel Yeshaneh,ETH,22.07.91,Hengelo,29.06.2016
+218,30:54.28,Yalemzerf Yehualaw,ETH,03.08.99,Hengelo,06.06.2022
+219,30:54.29,Kayoko Fukushi,JPN,25.03.82,Palo Alto,01.05.2011
+220,30:54.37,Sun Yingjie,CHN,03.10.77,Athínai,27.08.2004
+221,30:54.46,Daisy Cherotich,KEN,30.06.97,Stockholm,04.05.2021
+222,30:54.61,Tadelech Bekele,ETH,11.04.91,Hengelo,29.06.2016
+223,30:55.05,Fiona O'Keeffe,USA,24.05.98,San Juan Capistrano,04.03.2023
+224,30:55.16,Kara Goucher,USA,09.07.78,Beijing,15.08.2008
+225,30:55.50,Sula Utura,ETH,08.02.90,Ostrava,27.06.2013
+226,30:55.56,Mamitu Daska,ETH,16.10.83,Hengelo,17.06.2015
+227,30:55.63,Julia Bleasdale,GBR,09.09.81,London,03.08.2012
+228,30:55.67,Irene Kwambai,KEN,25.10.78,Utrecht,17.06.2005
+229,30:55.80,Paula Radcliffe,GBR,17.12.73,Barakaldo,07.04.2001
+229,30:55.80,Irene Kwambai,KEN,25.10.78,Helsinki,06.08.2005
+231,30:55.83,Liu Shixiang,CHN,13.01.71,Shanghai,19.10.1997
+232,30:55.90,Dorcas Kimeli,KEN,05.07.97,Stockholm,04.05.2021
+233,30:56.26,Netsanet Gudeta,ETH,12.02.91,Herzogenaurach,13.05.2016
+234,30:56.4,Derartu Tulu,ETH,21.03.72,Gijón,12.08.2000
+235,30:56.43,Priscah Cherono,KEN,27.06.80,Daegu,27.08.2011
+236,30:56.48,Dera Dida,ETH,26.10.96,Hengelo,10.06.2017
+237,30:56.55,Meselech Melkamu,ETH,19.04.85,Daegu,27.08.2011
+238,30:56.70,Hitomi Niiya,JPN,26.02.88,Moskva,11.08.2013
+239,30:56.94,Pauline Kamulu,KEN,16.04.95,Osaka,21.09.2018
+240,30:57.07,Elizabeth McColgan,GBR,24.05.64,Hengelo,25.06.1991
+241,30:57.14,Alla Zhilyayeva,RUS,05.02.69,Tula,03.08.2003
+242,30:57.21,Olga Bondarenko,RUS,02.06.60,Stuttgart,30.08.1986
+243,30:57.30,Betsy Saina,KEN,30.06.88,Palo Alto,04.05.2014
+244,30:57.54,Tsigie Gebreselama,ETH,30.09.00,Hengelo,17.07.2019
+245,30:57.70,Leah Malot,KEN,07.06.72,Heusden-Zolder,05.08.2000
+246,30:57.73,Tsehay Gemechu,ETH,12.12.98,Hengelo,10.10.2020
+247,30:57.8,Peninah Arusei,KEN,23.02.79,Steenwijk,18.07.2008
+248,30:57.83,Lidiya Grigoryeva,RUS,21.01.74,Tula,03.08.2003
+249,30:57.90,Kayoko Fukushi,JPN,25.03.82,Oita,30.09.2006
+250,30:58.03,Ayalew Wude,ETH,04.07.87,Hengelo,17.06.2015
+251,30:58.26,Genet Yalew,ETH,31.12.92,Herzogenaurach,13.05.2016
+252,30:58.46,Molly Huddle,USA,31.08.84,Palo Alto,29.03.2019
+253,30:58.48,Hilda Kibet,NED,27.03.81,Utrecht,30.05.2008
+254,30:58.94,Eilish McColgan,GBR,25.11.90,San Juan Capistrano,20.02.2021
+255,30:59.01,Joyce Chepkemoi,KEN,03.05.95,Hengelo,06.06.2021
+256,30:59.19,Hitomi Niiya,JPN,26.02.88,London,03.08.2012
+257,30:59.20,Yasemin Can,TUR,11.12.96,Hengelo,17.07.2019
+258,30:59.35,Mariya Konovalova,RUS,14.08.74,Kazan,17.07.2008
+259,30:59.42,Ingrid Kristiansen,NOR,21.03.56,Oslo,27.07.1985
+260,30:59.75,Rahel Daniel,ERI,16.11.01,Hengelo,06.06.2022
+261,30:59.85,Alicia Monson,USA,13.05.98,Eugene,16.07.2022
+262,30:59.92,Merima Hashim,ETH,81,Heusden-Zolder,05.08.2000
+263,30:59.97,Shalane Flanagan,USA,07.08.81,Eugene,23.06.2011
+264,31:00.10,Dominique Scott,RSA,24.06.92,San Juan Capistrano,06.03.2022
+265,31:00.26,Tsehay Gemechu,ETH,12.12.98,Hengelo,06.06.2022
+266,31:00.27,Mestawat Tufa,ETH,14.09.83,Valkenswaard,26.06.2007
+267,31:00.64,Kayoko Fukushi,JPN,25.03.82,Helsinki,26.07.2006
+268,31:00.71,Ririka Hironaka,JPN,24.11.00,Tokyo,07.08.2021
+269,31:00.73,Xing Huina,CHN,25.02.84,Nanjing,17.10.2005
+270,31:01.04,Stella Chesang,UGA,01.12.96,Eugene,16.07.2022
+271,31:01.07,Ejegayehu Dibaba,ETH,21.03.82,Saint-Denis,23.08.2003
+272,31:01.14,Kayoko Fukushi,JPN,25.03.82,Beijing,15.08.2008
+273,31:01.15,Lidiya Grigoryeva,RUS,21.01.74,Tula,25.06.2004
+274,31:01.54,Bosena Mulate,ETH,21.11.01,Hengelo,08.06.2021
+275,31:01.63,Fernanda Ribeiro,POR,23.06.69,Atlanta,02.08.1996
+276,31:01.71,Konstanze Klosterhalfen,GER,18.02.97,Austin,27.02.2021
+277,31:01.76,Wang Junxia,CHN,09.01.73,Nanjing,07.05.1996
+278,31:01.97,Konstanze Klosterhalfen,GER,18.02.97,Tokyo,07.08.2021
+279,31:02.58,Wang Junxia,CHN,09.01.73,Atlanta,02.08.1996
+280,31:02.69,Tirunesh Dibaba,ETH,01.10.85,London,05.08.2017
+281,31:02.70A,Caroline Nyaga,KEN,10.07.93,Nairobi,24.06.2022
+282,31:02.72,Ejegayehu Dibaba,ETH,21.03.82,Palo Alto,07.06.2003
+283,31:02.89,Linet Masai,KEN,05.12.89,Ostrava,27.06.2013
+284,31:03.32,Degitu Azimeraw,ETH,24.01.99,Hengelo,17.07.2019
+284,31:03.32,Hawi Feysa,ETH,01.02.99,Hengelo,06.06.2022
+286,31:03.37,Tirunesh Dibaba,ETH,01.10.85,Ostrava,12.06.2008
+287,31:03.50,Agnes Tirop,KEN,23.10.95,London,05.08.2017
+288,31:03.60,Marleen Renders,BEL,24.12.68,Heusden-Zolder,05.08.2000
+289,31:03.62,Kathrin Weßel,GER,14.08.67,Frankfurt,30.06.1991
+290,31:03.75,Kayoko Fukushi,JPN,25.03.82,Helsinki,06.08.2005
+291,31:03.82,Emily Sisson,USA,12.10.91,Eugene,26.06.2021
+292,31:04.00,Lyudmila Biktasheva,RUS,25.07.74,München,06.08.2002
+293,31:04.04,Lornah Kiplagat,NED,01.05.74,Nijmegen,26.06.2008
+294,31:04.05,Ejegayehu Dibaba,ETH,21.03.82,Ostrava,12.06.2008
+295,31:04.08,Laura Galván,MEX,05.10.91,San Juan Capistrano,04.03.2023
+296,31:04.10,Jelena Prokopcuka,LAT,21.09.76,Athínai,27.08.2004
+297,31:04.25,Fernanda Ribeiro,POR,23.06.69,London,10.09.1994
+298,31:04.34,Jane Wanjiku,KEN,14.06.79,Kobe,25.04.2004
+299,31:04.46,Eilish McColgan,GBR,25.11.90,Tokyo,07.08.2021
+300,31:04.49,Derebe Alemu,ETH,05.06.83,Uden,03.07.2004
+301,31:04.52,Meselech Melkamu,ETH,19.04.85,Ostrava,27.05.2010
+302,31:04.55,Jelena Prokopcuka,LAT,21.09.76,Helsinki,06.08.2005
+303,31:04.59,Beleynesh Oljira,ETH,26.06.90,Dubai,23.04.2016
+304,31:04.61,Galina Bogomalova,RUS,15.10.77,Tula,14.06.2005
+305,31:04.62,Lidiya Grigoryeva,RUS,21.01.74,Athínai,27.08.2004
+306,31:04.85,Shalane Flanagan,USA,07.08.81,Palo Alto,29.03.2013
+307,31:04.88,Tatyana Aryasova,RUS,02.04.79,Kazan,17.07.2008
+307,31:04.88,Tsigie Gebreselama,ETH,30.09.00,Hengelo,06.06.2022
+309,31:04.93,Meselech Melkamu,ETH,19.04.85,Ostrava,12.06.2008
+310,31:04.99,Fernanda Ribeiro,POR,23.06.69,Göteborg,09.08.1995
+311,31:05.05,Meseret Defar,ETH,19.11.83,Nuoro,13.07.2011
+312,31:05.14,Rahma Tusa,ETH,14.09.93,Hengelo,10.06.2017
+313,31:05.21,Olga Bondarenko,RUS,02.06.60,Seoul,30.09.1988
+313,31:05.21,Konstanze Klosterhalfen,GER,18.02.97,München,15.08.2022
+315,31:05.40,Susan Krumins,NED,08.07.86,Ad-Dawhah,28.09.2019
+316,31:05.57,Maura Viceconte,ITA,03.10.67,Heusden-Zolder,05.08.2000
+317,31:05.68,Kayoko Fukushi,JPN,25.03.82,Kobe,25.04.2004
+318,31:05.71,Marielle Hall,USA,28.01.92,Ad-Dawhah,28.09.2019
+319,31:05.85,Ingrid Kristiansen,NOR,21.03.56,Roma,04.09.1987
+320,31:05.90,Lucy Kabuu,KEN,24.03.84,Athínai,27.08.2004
+321,31:05.99,Chikako Mori,JPN,25.11.92,Yamaguchi,09.12.2017
+322,31:06.02,Derartu Tulu,ETH,21.03.72,Barcelona,07.08.1992
+323,31:06.14,Jelena Prokopcuka,LAT,21.09.76,Saint-Denis,23.08.2003
+324,31:06.20,Lucy Kabuu,KEN,24.03.84,Okayama,27.09.2003
+324,31:06.20,Florence Jebet Kiplagat,KEN,27.02.87,Utrecht,17.05.2007
+326,31:06.29,Pauline Korikwiang,KEN,01.03.88,Ostrava,27.05.2010
+327,31:06.46,Sarah Chelangat,UGA,05.06.01,Hengelo,10.10.2020
+328,31:06.53,Netsanet Gudeta,ETH,12.02.91,Hengelo,17.06.2015
+329,31:06.63,Helena Javornik,SLO,26.03.66,Athínai,27.08.2004
+330,31:06.65,Getenesh Wami,ETH,11.12.74,Atlanta,02.08.1996
+331,31:06.67,Hitomi Niiya,JPN,26.02.88,Tokyo,07.06.2013
+332,31:06.84,Ayalew Wude,ETH,04.07.87,Ostrava,12.06.2008
+333,31:06.86A,Irene Cheptai,KEN,04.02.92,Nairobi,19.06.2021
+334,31:06.93,Aheza Kiros Abeye,ETH,16.10.85,Ostrava,12.06.2008
+335,31:06.94,Li Ji,CHN,19.09.79,Sydney,30.09.2000
+336,31:06.99,Elizabeth McColgan,GBR,24.05.64,Oslo,02.07.1988
+337,31:07.02,Vivian Cheruiyot,KEN,11.09.83,Pontevedra,02.04.2011
+338,31:07.24,Molly Huddle,USA,31.08.84,Ad-Dawhah,28.09.2019
+339,31:07.34,Meseret Defar,ETH,19.11.83,Stockholm,30.05.2009
+340,31:07.56,Veronica Nyaruai Wanjiru,KEN,29.10.89,Hengelo,10.06.2017
+341,31:07.58,Alla Zhilyayeva,RUS,05.02.69,Tula,25.06.2004
+342,31:07.88,Jill Hunter,GBR,14.10.66,Frankfurt,30.06.1991
+343,31:08.05,Meraf Bahta,SWE,24.06.89,Stockholm,04.05.2021
+344,31:08.09,Eveline Chirchir,KEN,10.05.98,Hengelo,10.10.2020
+345,31:08.10,Derartu Tulu,ETH,21.03.72,Göteborg,09.08.1995
+346,31:08.13,Stephanie Twell,GBR,17.08.89,London,06.07.2019
+347,31:08.16,Gelete Burka,ETH,23.01.86,Palo Alto,03.04.2015
+348,31:08.23,Afera Godfay,ETH,25.09.91,Sollentuna,27.06.2013
+349,31:08.24,Grace Momanyi,KEN,03.03.82,Ostrava,12.06.2008
+350,31:08.27,Derartu Tulu,ETH,21.03.72,Brunswick,01.07.2000
+351,31:08.41,Catherina McKiernan,IRL,30.11.69,Villeneuve d'Ascq,17.06.1995
+352,31:08.42,Wang Junxia,CHN,09.01.73,Jinan,02.06.1993
+353,31:08.44,Elizabeth McColgan,GBR,24.05.64,Seoul,30.09.1988
+354,31:08.51,Francine Niyonsaba,BDI,05.05.93,Hengelo,08.06.2021
+355,31:08.53,Kseniya Agafonova,RUS,25.06.83,Cheboksary,23.07.2009
+356,31:08.57,Emily Infeld,USA,21.03.90,San Juan Capistrano,20.02.2021
+357,31:08.75,Fernanda Ribeiro,POR,23.06.69,Helsinki,13.08.1994
+358,31:08.82,Genet Yalew,ETH,31.12.92,Hengelo,17.06.2015
+359,31:08.89,Natalya Berkut,UKR,30.05.75,Tula,25.06.2004
+360,31:08.92,Werknesh Kidane,ETH,21.11.81,Birmingham,30.07.2011
+361,31:09.02,Shalane Flanagan,USA,07.08.81,Palo Alto,03.04.2015
+362,31:09.03,Zhou Chunxiu,CHN,15.11.78,Nanjing,17.10.2005
+363,31:09.25,Zhang Lirong,CHN,03.03.73,Beijing,08.09.1993
+364,31:09.28,Aberu Kebede,ETH,12.09.89,Eugene,01.06.2012
+365,31:09.34,Sun Yingjie,CHN,03.10.77,Benxi,10.06.2002
+366,31:09.40,Yelena Vyazova,UKR,18.04.60,Roma,04.09.1987
+367,31:09.42,Vibian Chepkurui,KEN,05.06.94,Stockholm,04.05.2021
+368,31:09.46,Yuko Kawakami,JPN,01.08.75,Brunswick,01.07.2000
+368,31:09.46,Sheila Chepkirui,KEN,27.12.90,Birmingham,03.08.2022
+370,31:09.56,Sutume Asefa,ETH,11.12.94,Hengelo,08.06.2021
+371,31:09.58,Emily Sisson,USA,12.10.91,Tokyo,07.08.2021
+372,31:09.65,Deena Kastor,USA,14.02.73,Sacramento,16.07.2004
+373,31:09.79,Rachel Schneider,USA,18.07.91,San Juan Capistrano,05.12.2020
+374,31:10.02,Rino Goshima,JPN,29.10.97,Kyoto,10.12.2021
+375,31:10.05,Yasemin Can,TUR,11.12.96,Tokyo,07.08.2021
+376,31:10.08,Weini Kelati Frezghi,ERI,01.12.96,San Juan Capistrano,05.12.2020
+377,31:10.12,Adriana Fernández,MEX,04.04.71,Brunswick,01.07.2000
+378,31:10.20,Fancy Chemutai,KEN,20.03.95,Stockholm,04.05.2021
+379,31:10.23,Elvan Abeylegesse,TUR,11.09.82,Barcelona,28.07.2010
+380,31:10.25,Alia Mohamed Saeed,UAE,18.05.91,Dubai,23.04.2016
+381,31:10.27A,Sheila Chelangat,KEN,11.04.98,Nairobi,19.06.2021
+382,31:10.35,Kayoko Fukushi,JPN,25.03.82,London,03.08.2012
+383,31:10.46,Ma Liyan,CHN,03.11.68,Beijing,08.09.1993
+383,31:10.46,Derartu Tulu,ETH,21.03.72,Atlanta,02.08.1996
+385,31:10.57,Kayoko Fukushi,JPN,25.03.82,Saint-Denis,23.08.2003
+385,31:10.57,Natosha Rogers,USA,07.05.91,Eugene,16.07.2022
+387,31:10.68,Bezunesh Bekele,ETH,29.01.83,Utrecht,17.06.2005
+388,31:10.69,Amy Cragg,USA,21.01.84,London,03.08.2012
+389,31:10.84,Alicia Monson,USA,13.05.98,San Juan Capistrano,05.12.2020
+389,31:10.84,Alicia Monson,USA,13.05.98,Eugene,27.05.2022
+391,31:11.07,Sharon Lokedi,KEN,10.03.94,San Juan Capistrano,05.12.2020
+392,31:11.09,Violah Lagat,KEN,13.03.89,Stockholm,04.05.2021
+393,31:11.11A,Nancy Koech,KEN,86,Nairobi,19.06.2021
+393,31:11.11,Weini Kelati Frezghi,USA,01.12.96,San Juan Capistrano,06.05.2022
+395,31:11.12,Sarah Lahti,SWE,18.02.95,Stockholm,04.05.2021
+396,31:11.24,Mihaela Botezan,ROU,21.11.76,Athínai,27.08.2004
+397,31:11.26,Song Liqing,CHN,20.01.80,Shanghai,19.10.1997
+398,31:11.34,Kathrin Weßel,GER,14.08.67,Roma,04.09.1987
+399,31:11.56,Mao Ichiyama,JPN,29.05.97,Osaka,04.12.2020
+400,31:11.59,Wang Junxia,CHN,09.01.73,Nanjing,08.05.1996
+401,31:11.61,Kayoko Fukushi,JPN,25.03.82,Okayama,27.09.2003
+402,31:11.72,Lisa Ondieki,AUS,12.05.60,Helsinki,30.06.1992
+403,31:11.75,Elana Meyer,RSA,10.10.66,Barcelona,07.08.1992
+403,31:11.75,Ririka Hironaka,JPN,24.11.00,Fukuroi,03.05.2021
+405,31:11.79,Rosemary Wanjiru,KEN,21.09.94,Kobe,21.04.2019
+406,31:11.86,Alice Nawowuna,KEN,02.01.94,London,05.08.2017
+407,31:12.28,Natosha Rogers,USA,07.05.91,San Juan Capistrano,05.12.2020
+408,31:12.30,Joanne Pavey,GBR,20.09.73,Beijing,15.08.2008
+409,31:12.55,Zhong Huandi,CHN,28.06.67,Stuttgart,21.08.1993
+410,31:12.56,Emily Sisson,USA,12.10.91,Ad-Dawhah,28.09.2019
+411,31:12.57,Yelena Samokhvalova,RUS,21.11.80,Tula,14.06.2005
+412,31:12.58,Wang Mingxia,CHN,06.06.71,Shanghai,19.10.1997
+413,31:12.68,Janet Bawcom,USA,22.08.78,London,03.08.2012
+414,31:12.80,Lisa Uhl,USA,31.08.87,London,03.08.2012
+415,31:12.86,Yasemin Can,TUR,11.12.96,Amsterdam,06.07.2016
+415,31:12.86,Dolshi Tesfu,ERI,17.06.99,Hengelo,08.06.2021
+417,31:12.93,Sara Moreira,POR,17.10.85,Huelva,11.04.2015
+418,31:12.99,Hitomi Niiya,JPN,26.02.88,Ad-Dawhah,28.09.2019
+419,31:13.04,Gloria Kite,KEN,29.12.98,Hengelo,06.06.2021
+420,31:13.06,Meraf Bahta,SWE,24.06.89,Palo Alto,05.05.2017
+421,31:13.18,Caroline Kipkurui,KAZ,26.05.94,Hengelo,06.06.2022
+422,31:13.21,Ren Xiujuan,CHN,14.09.74,Nanjing,08.05.1996
+422,31:13.21,Camille Buscomb,NZL,11.07.90,Ad-Dawhah,28.09.2019
+424,31:13.29,Vivian Cheruiyot,KEN,11.09.83,Bruxelles,05.07.2015
+425,31:13.42,Fernanda Ribeiro,POR,23.06.69,Athínai,12.04.2003
+426,31:13.50,Viktoriya Klimina,RUS,01.03.76,Kazan,17.07.2008
+427,31:13.53,Aberash Minsewo,ETH,22.02.01,Hengelo,06.06.2022
+428,31:13.58,Inês Monteiro,POR,18.05.80,Marseille,05.06.2010
+429,31:13.67,Teyiba Erkasso,ETH,30.10.82,Utrecht,17.05.2007
+430,31:13.72,Stella Chesang,UGA,01.12.96,Hengelo,06.06.2022
+431,31:13.75,Adriana Fernández,MEX,04.04.71,Palo Alto,02.05.2003
+432,31:13.78,Olga Bondarenko,RUS,02.06.60,Kyiv,24.06.1984
+432,31:13.78,Amy Yoder-Begley,USA,11.01.78,Berlin,15.08.2009
+434,31:13.79,Shitaye Eshete,BRN,21.05.90,Moskva,11.08.2013
+435,31:13.94,Andrea Seccafien,CAN,27.08.90,Irvine,13.05.2021
+436,31:13.96,Mihaela Botezan,ROU,21.11.76,München,06.08.2002
+437,31:14.00,Dominique Scott,RSA,24.06.92,San Juan Capistrano,04.03.2023
+438,31:14.07,Karoline Bjerkeli Grøvdal,NOR,14.06.90,Rio de Janeiro,12.08.2016
+439,31:14.08,Evelyn Wambui,KEN,04.04.86,Yamagata,26.09.2008
+440,31:14.14,Stella Chesang,UGA,01.12.96,Birmingham,03.08.2022
+441,31:14.21,Sabrina Mockenhaupt,GER,06.12.80,Beijing,15.08.2008
+442,31:14.27,Alla Zhilyayeva,RUS,05.02.69,Tula,14.06.2005
+443,31:14.28,Lornah Kiplagat,NED,01.05.74,Utrecht,20.06.2003
+444,31:14.31,Elizabeth McColgan,GBR,24.05.64,Tokyo,30.08.1991
+445,31:14.41,Sharon Lokedi,KEN,10.03.94,San Juan Capistrano,06.05.2022
+446,31:14.51,Julia Vaquero,ESP,18.09.70,Barakaldo,05.04.1997
+447,31:14.52,Gotytom Gebreslase,ETH,15.01.95,Hengelo,29.06.2016
+448,31:14.70,Elana Meyer,RSA,10.10.66,Sydney,30.09.2000
+449,31:14.80,Benita Willis,AUS,06.05.79,Helsinki,26.07.2006
+450,31:14.83,Meselech Melkamu,ETH,19.04.85,Ostrava,31.05.2011
+451,31:14.94,Eloise Wellings,AUS,09.11.82,Rio de Janeiro,12.08.2016
+452,31:14.98,Linet Masai,KEN,05.12.89,Ostrava,12.06.2008
+453,31:15.00,Galina Zakharova,RUS,07.09.56,Kyiv,24.06.1984
+454,31:15.05,Mercy Chelangat,KEN,11.07.97,Hengelo,06.06.2021
+455,31:15.07,Yoko Shibui,JPN,14.03.79,Kawasaki,27.06.2008
+456,31:15.34,Tomoko Hatori,JPN,28.05.81,Kobe,25.04.2004
+456,31:15.34,Yukiko Akaba,JPN,18.10.79,Kawasaki,27.06.2008
+458,31:15.38,Sally Barsosio,KEN,21.03.78,Stuttgart,21.08.1993
+458,31:15.38,Irene Cheptai,KEN,04.02.92,Palo Alto,01.05.2016
+460,31:15.62,Shitaye Eshete,BRN,21.05.90,Ad-Dawhah,23.04.2019
+461,31:15.65,Kellyn Taylor,USA,22.07.86,San Juan Capistrano,05.12.2020
+462,31:15.66,Ingrid Kristiansen,NOR,21.03.56,Oslo,04.07.1987
+463,31:15.78,Lonah Chemtai Salpeter,ISR,12.12.88,London,06.07.2019
+463,31:15.78,Andrea Seccafien,CAN,27.08.90,San Juan Capistrano,06.03.2022
+465,31:15.79,Jane Kiptoo,KEN,08.08.82,Ostrava,12.06.2008
+466,31:15.95,Berhane Adere,ETH,21.07.73,Marseille,30.05.2003
+467,31:15.97,Betsy Saina,KEN,30.06.88,Palo Alto,29.04.2012
+468,31:16.28,Zhang Linli,CHN,06.03.73,Beijing,08.09.1993
+469,31:16.38,Caroline Kipkirui,KEN,26.05.94,Palo Alto,01.05.2016
+470,31:16.39,Yang Siju,CHN,19.04.73,Shanghai,19.10.1997
+471,31:16.42,Maria Conceição Ferreira,POR,13.03.62,Helsinki,30.06.1992
+472,31:16.44,Sara Moreira,POR,17.10.85,London,03.08.2012
+473,31:16.48,Minami Yamanouchi,JPN,21.12.92,Yamaguchi,08.12.2018
+474,31:16.50,Everline Kimwei,KEN,25.08.87,Kobe,21.10.2006
+475,31:16.52,Karissa Schweizer,USA,04.05.96,Eugene,26.06.2021
+476,31:16.65,Priscah Cherono,KEN,27.06.80,Ostrava,31.05.2011
+476,31:16.65,Kara Goucher,USA,09.07.78,Eugene,23.06.2011
+478,31:16.68,Ayalew Wude,ETH,04.07.87,Ostrava,27.06.2013
+479,31:16.76,Eilish McColgan,GBR,25.11.90,London,06.07.2019
+480,31:16.89,Natosha Rogers,USA,07.05.91,San Juan Capistrano,06.03.2022
+481,31:16.93,Eva Cherono,KEN,15.08.96,Hengelo,06.06.2022
+482,31:16.94,Asmae Leghzaoui,MAR,30.08.76,Tunis,12.09.2001
+483,31:17.12,Kara Goucher,USA,09.07.78,Helsinki,26.07.2006
+484,31:17.20,Amy Cragg,USA,21.01.84,Palo Alto,05.05.2017
+485,31:17.28,Grace Kimanzi,KEN,01.03.92,Yamaguchi,08.12.2018
+486,31:17.30,Zhang Yingning,CHN,04.01.90,Wuhan,02.11.2007
+487,31:17.31,Jennifer Rhines,USA,01.07.74,Palo Alto,29.04.2007
+488,31:17.40,Tabitha Kamau,KEN,03.06.00,Gifu,23.09.2022
+489,31:17.62,Bai Xue,CHN,13.12.88,Jinan,26.10.2009
+490,31:17.66,Tegla Loroupe,KEN,09.05.73,Göteborg,09.08.1995
+491,31:17.72,Jelena Prokopcuka,LAT,21.09.76,München,06.08.2002
+492,31:17.80,Beleynesh Oljira,ETH,26.06.90,Ostrava,31.05.2011
+493,31:17.86,Deena Kastor,USA,14.02.73,Saint-Denis,23.08.2003
+494,31:17.97,Alla Zhilyayeva,RUS,05.02.69,Helsinki,06.08.2005
+495,31:18.07,Lisa Uhl,USA,31.08.87,Palo Alto,26.03.2010
+496,31:18.12,Sifan Hassan,NED,01.01.93,Palo Alto,02.05.2019
+497,31:18.16,Ayuko Suzuki,JPN,08.10.91,Palo Alto,01.05.2016
+498,31:18.18,Viorica Ghican,ROU,09.06.65,Helsinki,27.06.1990
+498,31:18.18,Yuka Ando,JPN,16.03.94,Fukuroi,03.05.2021
+500,31:18.35,Rochelle Kanuho,USA,04.07.90,Portland,09.06.2018
+501,31:18.38,Olga Bondarenko,RUS,02.06.60,Roma,04.09.1987
+502,31:18.47,Jessica Judd,GBR,07.01.95,Birmingham,03.08.2022
+503,31:18.54,Rose Davies,AUS,21.12.99,San Juan Capistrano,06.05.2022
+504,31:18.55,Alicia Monson,USA,13.05.98,Eugene,26.06.2021
+505,31:18.72,Sally Barsosio,KEN,21.03.78,Palo Alto,30.04.2004
+506,31:18.73,Ayuko Suzuki,JPN,08.10.91,Nagoya,24.06.2016
+507,31:18.79,Kayoko Fukushi,JPN,25.03.82,Kawasaki,27.06.2008
+508,31:18.85,Philes Ongori,KEN,19.07.86,Oita,30.09.2006
+509,31:18.89,Ellie Pashley,AUS,10.12.88,Ad-Dawhah,28.09.2019
+510,31:18.96,Amy Rudolph,USA,18.09.73,Palo Alto,01.05.2005
+511,31:18.97,Ejegayehu Dibaba,ETH,21.03.82,Barakaldo,14.07.2007
+512,31:19.00,Werknesh Kidane,ETH,21.11.81,Stockholm,30.05.2009
+512,31:19.00,Desi Jisa Mokonin,BRN,12.07.97,Hengelo,10.06.2017
+514,31:19.03,Ana Dulce Félix,POR,23.10.82,Amsterdam,06.07.2016
+515,31:19.11,Catherina McKiernan,IRL,30.11.69,Dublin,12.06.1994
+516,31:19.15,Jessica Augusto,POR,08.11.81,Ostrava,27.05.2010
+517,31:19.2A,Betlehem Mulate,ETH,21.03.01,Hawassa,29.03.2022
+518,31:19.35,Eilish McColgan,GBR,25.11.90,Birmingham,05.06.2021
+519,31:19.40,Hiromi Suzuki,JPN,06.12.68,Osaka,09.06.1996
+520,31:19.50,Selamawit Teferi,ISR,24.03.94,Birmingham,05.06.2021
+521,31:19.54,Marina Ivanova,RUS,19.01.82,Kazan,17.07.2008
+522,31:19.73,Philes Ongori,KEN,19.07.86,Kobe,27.04.2008
+522,31:19.73,Yoko Shibui,JPN,14.03.79,Kobe,27.04.2008
+524,31:19.74,Mihaela Botezan,ROU,21.11.76,Camaiore,06.04.2002
+525,31:19.76,Ulrike Bruns,GDR,17.11.53,Stuttgart,30.08.1986
+526,31:19.82,Elizabeth McColgan,GBR,24.05.64,Roma,04.09.1987
+526,31:19.82,Yelena Vyazova,UKR,18.04.60,Seoul,30.09.1988
+528,31:19.86,Molly Huddle,USA,31.08.84,Sacramento,22.06.2017
+529,31:19.87,Amy Cragg,USA,21.01.84,Palo Alto,29.04.2012
+529,31:19.87,Alina Reh,GER,23.05.97,Essen,08.06.2019
+531,31:19.89,Lynn Jennings,USA,01.07.60,Barcelona,07.08.1992
+531,31:19.89,Dominique Scott,RSA,24.06.92,Hengelo,06.06.2021
+533,31:19.92,Winfridah Kebaso,KEN,16.04.85,Oita,30.09.2006
+533,31:19.92,Millie Paladino,USA,18.10.95,San Juan Capistrano,06.03.2022
+535,31:19.96,Karissa Schweizer,USA,04.05.96,Tokyo,07.08.2021
+536,31:20.02,Pauline Kamulu,KEN,16.04.95,Gifu,23.09.2022
+537,31:20.18,Yasemin Can,TUR,11.12.96,Pacé,28.05.2022
+538,31:20.19,Yuko Kawakami,JPN,01.08.75,Osaka,09.06.1996
+539,31:20.24,Susan Krumins,NED,08.07.86,London,05.08.2017
+540,31:20.28,Ingrid Kristiansen,NOR,21.03.56,Hechtel,10.08.1991
+541,31:20.38,Tigist Kiros,ETH,08.06.92,Ostrava,31.05.2011
+542,31:20.45,Emily Infeld,USA,21.03.90,London,05.08.2017
+543,31:20.46,Masako Chiba,JPN,18.07.76,Osaka,09.06.1996
+544,31:20.53,Tegla Loroupe,KEN,09.05.73,Troisdorf,17.08.1997
+545,31:20.58,Lidiya Grigoryeva,RUS,21.01.74,Tula,14.06.2005
+546,31:20.62,Kathrin Weßel,GER,14.08.67,Jena,28.05.1992
+546,31:20.62,Masako Chiba,JPN,18.07.76,Atlanta,02.08.1996
+548,31:20.63,Kimberley Smith,NZL,19.11.81,Palo Alto,29.04.2007
+549,31:20.66,Aheza Kiros Abeye,ETH,16.10.85,Barakaldo,14.07.2007
+550,31:20.96,Jessica Judd,GBR,07.01.95,Birmingham,05.06.2021
+551,31:21.00,Kimberley Smith,NZL,19.11.81,Palo Alto,01.05.2005
+552,31:21.03,Mizuki Noguchi,JPN,03.07.78,Kobe,25.04.2004
+553,31:21.08,Zhong Huandi,CHN,28.06.67,Barcelona,07.08.1992
+554,31:21.11,Irene Cheptai,KEN,04.02.92,London,05.08.2017
+555,31:21.20,Tegla Loroupe,KEN,09.05.73,Warstein,06.07.1993
+555,31:21.20,Katie McGregor,USA,02.09.77,Helsinki,06.08.2005
+557,31:21.22,Aheza Kiros Abeye,ETH,16.10.85,Birmingham,11.07.2009
+558,31:21.25,Xie Fang,CHN,26.12.89,Wuhan,02.11.2007
+559,31:21.27,Lidiya Grigoryeva,RUS,21.01.74,Sydney,30.09.2000
+560,31:21.28,Sabrina Mockenhaupt,GER,06.12.80,Barakaldo,02.04.2005
+561,31:21.36,Uta Pippig,GER,07.09.65,Jena,28.05.1992
+561,31:21.36,Alicia Monson,USA,13.05.98,Tokyo,07.08.2021
+563,31:21.42,Kimberley Smith,NZL,19.11.81,Berlin,15.08.2009
+564,31:21.53,Samantha Harrison,GBR,01.02.95,Birmingham,03.08.2022
+565,31:21.57,Shitaye Eshete,BRN,21.05.90,Daegu,27.08.2011
+566,31:21.65,Ednah Kurgat,USA,15.06.91,Irvine,13.05.2021
+567,31:21.75,Sarah Lancester,USA,01.12.87,San Juan Capistrano,06.03.2022
+568,31:21.78,Marielle Hall,USA,28.01.92,San Juan Capistrano,20.02.2021
+569,31:21.90,Sara Hall,USA,15.04.83,Irvine,13.05.2021
+570,31:21.92,Elva Dryer,USA,26.09.71,Palo Alto,01.05.2005
+570,31:21.92,Yoko Shibui,JPN,14.03.79,Kumagaya,17.05.2008
+572,31:22.11,Sally Chepyego,KEN,03.10.85,Moskva,11.08.2013
+573,31:22.18,Ejegayehu Dibaba,ETH,21.03.82,Beijing,15.08.2008
+574,31:22.24,Jessica Judd,GBR,07.01.95,London,14.05.2022
+575,31:22.34,Narumi Kobayashi,JPN,17.04.00,Abashiri,10.07.2021
+576,31:22.37,Lucy Kabuu,KEN,24.03.84,Kobe,24.04.2005
+577,31:22.38,Rino Goshima,JPN,29.10.97,Kyoto,10.12.2022
+578,31:22.55,Paige Stoner,USA,31.01.96,San Juan Capistrano,06.03.2022
+579,31:22.63,Hitomi Niiya,JPN,26.02.88,Ad-Dawhah,23.04.2019
+580,31:22.67,Emily Infeld,USA,21.03.90,Sacramento,22.06.2017
+581,31:22.68,Everline Kimwei,KEN,25.08.87,Oita,30.09.2006
+582,31:22.69,Amy Begley,USA,11.01.78,Eugene,25.06.2009
+583,31:22.72,Harumi Hiroyama,JPN,02.09.68,Tokyo,05.10.1997
+584,31:22.76,Natalya Berkut,UKR,30.05.75,Kyiv,02.07.2001
+585,31:22.80,Nathalie De,Vos,BEL,3 Utrecht,17.05.2007
+586,31:22.86,Danielle Shanahan,USA,13.08.94,San Juan Capistrano,05.12.2020
+587,31:22.89,Helen Lobun,KEN,18.03.99,Kobe,24.04.2022
+588,31:22.92,Hanami Sekine,JPN,26.02.96,Nagoya,24.06.2016
+589,31:23.07,Chen Huirong,CHN,01.06.88,Wuhan,02.11.2007
+590,31:23.13,Courtney Frerichs,USA,18.01.93,San Juan Capistrano,06.03.2022
+591,31:23.15,Lyudmila Biktasheva,RUS,25.07.74,Cheboksary,11.07.2002
+592,31:23.22,Tegla Loroupe,KEN,09.05.73,Atlanta,02.08.1996
+593,31:23.23,Yuko Kawakami,JPN,01.08.75,Atlanta,02.08.1996
+594,31:23.24,Wang Junxia,CHN,09.01.73,Changchun,07.09.1995
+595,31:23.27,Yukiko Akaba,JPN,18.10.79,Yokohama,23.12.2007
+596,31:23.30,Mao Ichiyama,JPN,29.05.97,Abashiri,15.07.2020
+597,31:23.35,Sabrina Mockenhaupt,GER,06.12.80,Walnut,17.04.2004
+598,31:23.43,Shalane Flanagan,USA,07.08.81,Eugene,25.06.2009
+599,31:23.45,Karoline Bjerkeli Grøvdal,NOR,14.06.90,Amsterdam,06.07.2016
+600,31:23.49,Kayoko Fukushi,JPN,25.03.82,Berlin,15.08.2009
+601,31:23.51,Sara Moreira,POR,17.10.85,Bilbao,03.06.2012
+602,31:23.55,Terumi Asoshina,JPN,02.08.82,Kobe,24.04.2005
+603,31:23.60,Ababel Yeshaneh,ETH,22.07.91,Hengelo,17.06.2015
+604,31:23.81,Susan Krumins,NED,08.07.86,Palo Alto,02.05.2019
+605,31:23.86,Sabrina Mockenhaupt,GER,06.12.80,Marseille,05.06.2010
+606,31:23.92,Liu Jingying,CHN,19.11.71,Beijing,08.09.1993
+607,31:23.96,Elana Meyer,RSA,10.10.66,Stellenbosch,11.02.1995
+608,31:23.99,Alice Timbilil,KEN,01.02.83,Utrecht,18.06.2004
+609,31:24.00,Kazue Ogoshi,JPN,02.03.81,Okayama,27.09.2003
+610,31:24.03,Selamawit Teferi,ISR,24.03.94,München,15.08.2022
+611,31:24.08,Julia Vaquero,ESP,18.09.70,Leiria,06.04.1996
+612,31:24.09,Ayalew Wude,ETH,04.07.87,Ostrava,31.05.2011
+613,31:24.12,Silvia Sommaggio,ITA,20.11.69,Heusden-Zolder,05.08.2000
+614,31:24.16,Jennifer Rhines,USA,01.07.74,Helsinki,26.07.2006
+615,31:24.18,Alice Nawowuna,KEN,02.01.94,Brazzaville,16.09.2015
+616,31:24.20,Lineth Chepkurui,KEN,23.02.88,Palo Alto,01.05.2011
+617,31:24.29,Kimberley Smith,NZL,19.11.81,Helsinki,06.08.2005
+618,31:24.33,Yumiko Hara,JPN,09.01.82,Kobe,24.04.2005
+619,31:24.36,Fernanda Ribeiro,POR,23.06.69,Barakaldo,09.07.2000
+620,31:24.47,Stephanie Bruce,USA,14.01.84,San Juan Capistrano,05.12.2020
+621,31:24.7A,Helen Obiri,KEN,13.12.89,Nairobi,13.03.2021
+622,31:24.78,Molly Huddle,USA,31.08.84,London,05.08.2017
+623,31:24.82,Emily Lipari,USA,19.11.92,San Juan Capistrano,06.03.2022
+624,31:25.00A,Agnes Tirop,KEN,23.10.95,Nairobi,22.08.2019
+625,31:25.15,Elvan Abeylegesse,TUR,11.09.82,Ferrara,07.04.2007
+626,31:25.17,Gloria Kite,KEN,29.12.98,Hengelo,10.10.2020
+627,31:25.18,Olga Bondarenko,RUS,02.06.60,Moskva,09.06.1985
+627,31:25.18,Dominique Scott,RSA,24.06.92,Birmingham,03.08.2022
+629,31:25.19,Makena Morely,USA,21.11.96,Irvine,13.05.2021
+630,31:25.33,Dulce María Rodríguez,MEX,14.08.72,Palo Alto,01.05.2005
+631,31:25.38A,Helen Obiri,KEN,13.12.89,Nairobi,22.08.2019
+632,31:25.45,Sally Kipyego,KEN,19.12.85,Palo Alto,04.05.2008
+633,31:25.46,Eyerusalem Kuma,ETH,04.11.81,Utrecht,18.06.2004
+634,31:25.49,Sinead Diver,AUS,17.02.77,Ad-Dawhah,28.09.2019
+635,31:25.57,Shalane Flanagan,USA,07.08.81,Daegu,27.08.2011
+635,31:25.57,Amy-Eloise Markovc,GBR,05.08.95,London,14.05.2022
+637,31:25.61,Gotytom Gebreslase,ETH,15.01.95,Palo Alto,05.05.2017
+638,31:25.64,Emily Sisson,USA,12.10.91,Sacramento,22.06.2017
+639,31:25.77,Jessica Augusto,POR,08.11.81,Barcelona,28.07.2010
+640,31:25.91,Amy-Eloise Markovc,GBR,05.08.95,Irvine,13.05.2021
+641,31:25.94,Katie McGregor,USA,02.09.77,Palo Alto,01.05.2005
+642,31:25.98,Jessica Judd,GBR,07.01.95,Irvine,13.05.2021
+643,31:26.05,Mestawat Tufa,ETH,14.09.83,El Djezair,21.07.2007
+644,31:26.08,Inga Abitova,RUS,06.03.82,Zhukovskiy,14.07.2007
+645,31:26.10,Joyce Chepkirui,KEN,20.08.88,Melbourne,10.12.2011
+646,31:26.11,Elizabeth McColgan,GBR,24.05.64,Barcelona,07.08.1992
+647,31:26.22A,Rosemary Wanjiru,KEN,21.09.94,Nairobi,22.08.2019
+648,31:26.34,Susie Power,AUS,26.03.75,Melbourne,06.12.2001
+649,31:26.36,Emily Sisson,USA,12.10.91,London,05.08.2017
+650,31:26.46,Iulia Olteanu,ROU,26.01.67,Atlanta,02.08.1996
+651,31:26.48,Kara Goucher,USA,09.07.78,Portland,31.05.2008
+652,31:26.55,Sara Moreira,POR,17.10.85,Marseille,05.06.2010
+653,31:26.66,Jennifer Rhines,USA,01.07.74,Helsinki,06.08.2005
+654,31:26.67,Yuko Kawakami,JPN,01.08.75,Tokyo,05.10.1997
+655,31:26.79,Kathrin Weßel,GER,14.08.67,Potsdam,08.06.1988
+656,31:26.84,Harumi Hiroyama,JPN,02.09.68,Sevilla,26.08.1999
+657,31:26.88,Elva Dryer,USA,26.09.71,Palo Alto,02.05.2003
+658,31:26.94,Joanne Pavey,GBR,20.09.73,Watford,30.06.2007
+658,31:26.94,Emily Infeld,USA,21.03.90,Rio de Janeiro,12.08.2016
+660,31:27.00,Wang Xiuting,CHN,16.02.65,Guangzhou,29.11.1987
+661,31:27.05,Sabrina Mockenhaupt,GER,06.12.80,Palo Alto,04.05.2008
+662,31:27.07,Julia Vaquero,ESP,18.09.70,Atlanta,02.08.1996
+663,31:27.12,Molly Huddle,USA,31.08.84,Palo Alto,04.05.2008
+664,31:27.30,Ayako Suzuki,JPN,17.12.80,London,05.08.2017
+665,31:27.35,Bao Guiying,CHN,20.01.86,Nanjing,17.10.2005
+666,31:27.44,Yuko Kawakami,JPN,01.08.75,Sydney,30.09.2000
+667,31:27.57,Chiemi Takahashi,JPN,16.02.76,Sendai,16.05.1998
+668,31:27.58,Raisa Sadreydinova,RUS,09.05.50,Odessa,07.09.1983
+668,31:27.58,Derartu Tulu,ETH,21.03.72,Mito,07.05.1995
+670,31:27.62,Chiemi Takahashi,JPN,16.02.76,Sevilla,26.08.1999
+671,31:27.73,Jackline Chepngeno,KEN,16.01.93,Durban,25.06.2016
+672,31:27.80,Tiki Gelana,ETH,22.10.87,Ostrava,12.06.2008
+673,31:27.82,Maria Guida,ITA,23.01.66,Göteborg,09.08.1995
+674,31:27.83,Salina Kosgei,KEN,16.11.76,Manchester,30.07.2002
+675,31:27.86,Jelena Prokopcuka,LAT,21.09.76,Lisboa,01.04.2000
+676,31:27.96,Edith Masai,KEN,04.04.67,Bambous,12.08.2006
+677,31:27.99,Hou Juhua,CHN,67,Guangzhou,29.11.1987
+678,31:28.06,Wang Xiuting,CHN,16.02.65,Barcelona,07.08.1992
+679,31:28.07,Sally Chepyego,KEN,03.10.85,Kobe,20.04.2014
+680,31:28.12,Nyla Carroll,NZL,24.11.65,Hechtel,19.07.1997
+681,31:28.15,Masako Chiba,JPN,18.07.76,Kobe,21.04.1996
+682,31:28.19,Werknesh Kidane,ETH,21.11.81,Birmingham,23.06.2012
+683,31:28.20,Harumi Okamoto,JPN,07.02.98,Yamaguchi,08.12.2018
+684,31:28.21,Sabrina Mockenhaupt,GER,06.12.80,Helsinki,06.08.2005
+685,31:28.26,Hitomi Niiya,JPN,26.02.88,Kobe,22.04.2012
+685,31:28.26,Mercyline Chelangat,UGA,17.12.97,Eugene,16.07.2022
+687,31:28.28,Joyciline Jepkosgei,KEN,08.12.93,Durban,25.06.2016
+688,31:28.41,Benita Willis,AUS,06.05.79,Palo Alto,02.05.2003
+689,31:28.43,Sarah Lahti,SWE,18.02.95,Rio de Janeiro,12.08.2016
+690,31:28.66,Molly Huddle,USA,31.08.84,Palo Alto,01.05.2011
+691,31:28.69,Diane Nukuri,BDI,01.12.84,Rio de Janeiro,12.08.2016
+692,31:28.71,Mika Yoshikawa,JPN,16.09.84,Osaka,08.06.2012
+693,31:28.72,Mihaela Botezan,ROU,21.11.76,Saint-Denis,23.08.2003
+694,31:28.78,Marie Davenport,IRL,24.01.75,Palo Alto,30.04.2004
+695,31:28.81,Rina Nabeshima,JPN,16.12.93,Yamaguchi,08.12.2018
+696,31:28.83,Wei Li,CHN,29.06.72,Beijing,08.09.1993
+697,31:28.86,Hiromi Suzuki,JPN,06.12.68,Tokyo,05.10.1997
+698,31:28.88,Bai Xue,CHN,13.12.88,Nanjing,17.10.2005
+699,31:28.92,Francie Larrieu-Smith,USA,23.11.52,Austin,04.04.1991
+700,31:28.97,Deena Kastor,USA,14.02.73,Palo Alto,19.06.2003
+701,31:29.03,Kayoko Fukushi,JPN,25.03.82,Kobe,25.04.2010
+702,31:29.07,Bezunesh Bekele,ETH,29.01.83,Utrecht,18.06.2004
+703,31:29.22,Fionualla McCormack,IRL,24.09.84,Palo Alto,29.04.2012
+704,31:29.27,Kathrin Weßel,GER,14.08.67,Seoul,30.09.1988
+705,31:29.33,Sonia O'Sullivan,IRL,28.11.69,Budapest,19.08.1998
+706,31:29.38,Kayoko Fukushi,JPN,25.03.82,Ad-Dawhah,08.12.2006
+707,31:29.41,Aurora Cunha,POR,31.05.59,Oslo,05.07.1986
+708,31:29.43,Isabella Ochichi,KEN,28.10.79,Bambous,12.08.2006
+709,31:29.55,Irina Mikitenko,GER,23.08.72,Barakaldo,07.04.2001
+710,31:29.57,Julia Bleasdale,GBR,09.09.81,Palo Alto,29.04.2012
+711,31:29.6A,Eva Cherono,KEN,15.08.96,Nairobi,13.03.2021
+712,31:29.65,Olivera Jevtic,SRB,24.07.77,Sydney,30.09.2000
+713,31:29.66,Galina Bogomalova,RUS,15.10.77,Tula,26.07.2000
+713,31:29.66,Lucy Kabuu,KEN,24.03.84,Melbourne,21.03.2006
+715,31:29.69,Hilda Kibet,NED,27.03.81,Beijing,15.08.2008
+716,31:29.70,Uta Pippig,GER,07.09.65,Hengelo,20.06.1993
+717,31:29.71,Zinash Debebe,ETH,12.10.96,Hengelo,10.06.2017
+718,31:29.73,Tabitha Kamau,KEN,03.06.00,Tokyo,07.05.2022
+719,31:29.80,Natosha Rogers,USA,07.05.91,Eugene,27.05.2022
+720,31:29.81,Rose Chepchumba,KEN,14.03.79,Utrecht,17.06.2005
+721,31:29.91,Tegla Loroupe,KEN,09.05.73,Stuttgart,21.08.1993
+722,31:29.93,Laura Galván,MEX,05.10.91,Irvine,13.05.2021
+723,31:30.04,Emily Infeld,USA,21.03.90,Eugene,27.05.2022
+724,31:30.19,Sayaka Sato,JPN,27.05.94,Osaka,04.12.2020
+725,31:30.22,Emily Chebet,KEN,18.02.86,Melbourne,10.12.2011
+726,31:30.23,Madai Pérez,MEX,02.02.80,Palo Alto,04.05.2008
+727,31:30.25,Sally Kipyego,KEN,19.12.85,Irvine,13.05.2021
+728,31:30.31,Jennifer Rhines,USA,01.07.74,Palo Alto,04.05.2008
+729,31:30.34,Ririka Hironaka,JPN,24.11.00,Tokyo,07.05.2022
+730,31:30.37,Jennifer Rhines,USA,01.07.74,Eugene,23.06.2011
+731,31:30.39A,Brillian Kipkoech,KEN,09.03.95,Nairobi,22.08.2019
+732,31:30.5A,Alice Nawowuna,KEN,02.01.94,Nairobi,09.06.2017
+733,31:30.53,Lynn Jennings,USA,01.07.60,Stuttgart,21.08.1993
+734,31:30.58,Yasemin Can,TUR,11.12.96,Mersin,01.05.2016
+735,31:30.6,Lyudmila Biktasheva,RUS,25.07.74,Tula,08.07.2001
+735,31:30.60,Maria Conceição Ferreira,POR,13.03.62,Stuttgart,21.08.1993
+737,31:30.63,Samantha Harrison,GBR,01.02.95,London,14.05.2022
+738,31:30.71,Derebe Alemu,ETH,05.06.83,Utrecht,17.06.2005
+739,31:30.74,Fionualla McCormack,IRL,24.09.84,Amsterdam,06.07.2016
+740,31:30.82,Kayoko Fukushi,JPN,25.03.82,Tokyo,02.06.2005
+741,31:30.83,Lidiya Grigoryeva,RUS,21.01.74,Tula,26.07.2000
+742,31:30.86,Evelyn Wambui,KEN,04.04.86,Melbourne,21.03.2006
+743,31:30.89,Annette Peters,USA,31.05.65,Philadelphia,24.04.1997
+744,31:30.90,Ana Dulce Félix,POR,23.10.82,Berlin,15.08.2009
+745,31:30.92,Hikari Yoshimoto,JPN,02.08.90,Kobe,25.04.2010
+746,31:30.94,Kayoko Fukushi,JPN,25.03.82,Fukagawa,11.06.2008
+747,31:31.01,Doris Changeywo,KEN,12.12.84,Ostrava,12.06.2008
+748,31:31.08,Dong Li,CHN,09.12.73,Hiroshima,15.10.1994
+749,31:31.12,Junko Kataoka,JPN,13.06.70,Mito,07.05.1995
+749,31:31.12,Zhang Yingning,CHN,04.01.90,Beijing,15.08.2008
+749,31:31.12,Shalane Flanagan,USA,07.08.81,Sacramento,22.06.2017
+752,31:31.13,Yoko Shibui,JPN,14.03.79,Beijing,15.08.2008
+753,31:31.14,Wang Mingxia,CHN,06.06.71,Nanjing,08.05.1996
+754,31:31.17,Stacey Ndiwa,KEN,06.12.92,Asaba,04.08.2018
+755,31:31.18,Edith Masai,KEN,04.04.67,El Djezair,21.07.2007
+756,31:31.37,Ingrid Kristiansen,NOR,21.03.56,Oslo,02.07.1988
+757,31:31.52,Rina Nabeshima,JPN,16.12.93,Osaka,04.12.2020
+758,31:31.54,Wang Yongmei,CHN,03.10.68,Beijing,08.09.1993
+759,31:31.58,Galina Bogomalova,RUS,15.10.77,Tula,14.06.2006
+760,31:31.64,Xi Qiuhong,CHN,04.09.84,Nanjing,17.10.2005
+761,31:31.73,Leah Malot,KEN,07.06.72,Villeneuve d'Ascq,13.06.1999
+762,31:31.85,Masako Chiba,JPN,18.07.76,Pusan,15.05.1997
+763,31:31.87,Elana Meyer,RSA,10.10.66,Villeneuve d'Ascq,17.06.1995
+763,31:31.87,Lyudmila Biktasheva,RUS,25.07.74,Tula,03.08.2003
+763,31:31.87,Dong Xiaoqin,CHN,02.01.83,Palo Alto,04.05.2008
+766,31:31.92,Lineth Chepkurui,KEN,23.02.88,Birmingham,11.07.2009
+767,31:31.95,Yurika Nakamura,JPN,01.04.86,Kobe,27.04.2008
+768,31:31.96,Elana Meyer,RSA,10.10.66,Göteborg,09.08.1995
+769,31:31.97,Susan Krumins,NED,08.07.86,Palo Alto,02.05.2015
+770,31:32.02,Restituta Joseph,TAN,30.07.71,Villeneuve d'Ascq,13.06.1999
+771,31:32.04,Susan Chepkemei,KEN,25.06.75,Manchester,30.07.2002
+772,31:32.06,Merima Hashim,ETH,81,Sevilla,26.08.1999
+773,31:32.09,Kayoko Fukushi,JPN,25.03.82,Tottori,04.06.2004
+774,31:32.10,Miwako Yamanaka,JPN,24.05.78,Okayama,27.09.2003
+775,31:32.11,Maria Conceição Ferreira,POR,13.03.62,Braga,09.04.1994
+776,31:32.15,Feng Wenhui,CHN,19.07.72,Beijing,08.09.1993
+777,31:32.17,Katie McGregor,USA,02.09.77,Helsinki,26.07.2006
+778,31:32.19,Shalane Flanagan,USA,07.08.81,Berlin,15.08.2009
+779,31:32.20,Susie Power,AUS,26.03.75,Manchester,30.07.2002
+780,31:32.22,Joanne Pavey,GBR,20.09.73,Bilbao,03.06.2012
+781,31:32.23,Wang Xiuting,CHN,16.02.65,Beijing,08.09.1993
+782,31:32.24,Inga Abitova,RUS,06.03.82,Tula,14.06.2006
+783,31:32.25,Derartu Tulu,ETH,21.03.72,Belle vue Mauricia,27.06.1992
+783,31:32.25,Ednah Kurgat,USA,15.06.91,San Juan Capistrano,06.03.2022
+785,31:32.27,Harumi Hiroyama,JPN,02.09.68,Okayama,27.09.2003
+786,31:32.28,Fernanda Ribeiro,POR,23.06.69,Gateshead,27.06.2004
+787,31:32.42,Fernanda Ribeiro,POR,23.06.69,Budapest,19.08.1998
+788,31:32.43,Susan Krumins,NED,08.07.86,Rio de Janeiro,12.08.2016
+789,31:32.45A,Irene Kimais,KEN,10.10.98,Nairobi,22.08.2019
+790,31:32.49,Bai Xue,CHN,13.12.88,Wuhan,02.11.2007
+791,31:32.50,Wang Yanfang,CHN,10.07.71,Beijing,08.09.1993
+791,31:32.50,Hitomi Niiya,JPN,26.02.88,Melbourne,13.12.2018
+793,31:32.51,Berhane Adere,ETH,21.07.73,Sevilla,26.08.1999
+794,31:32.52,Lucy Kabuu,KEN,24.03.84,Shizuoka,30.04.2007
+795,31:32.53,Emily Sisson,USA,12.10.91,Palo Alto,05.05.2017
+796,31:32.63,Merima Denboba,ETH,21.08.74,Villeneuve d'Ascq,13.06.1999
+797,31:32.64,Lidia Simon,ROU,04.09.73,Budapest,19.08.1998
+798,31:32.69,Lucy Kabuu,KEN,24.03.84,Shizuoka,03.05.2004
+799,31:32.70,Berhane Adere,ETH,21.07.73,Villeneuve d'Ascq,17.06.2001
+800,31:32.82,Maria Conceição Ferreira,POR,13.03.62,Helsinki,13.08.1994
+801,31:32.88,Therese Johaug,NOR,25.06.88,Oslo,08.05.2021
+802,31:32.92,Sally Barsosio,KEN,21.03.78,Athínai,05.08.1997
+803,31:33.03,Maria Albertina Dias,POR,26.04.65,Stuttgart,21.08.1993
+803,31:33.03,Lonah Chemtai Salpeter,ISR,12.12.88,London,19.05.2018
+805,31:33.04,Camille Buscomb,NZL,11.07.90,Palo Alto,02.05.2019
+806,31:33.08,Olivera Jevtic,SRB,24.07.77,Tunis,12.09.2001
+807,31:33.19,Sonia O'Sullivan,IRL,28.11.69,Manchester,16.06.2002
+808,31:33.20,Lucy Kabuu,KEN,24.03.84,Kobe,22.04.2007
+809,31:33.22,Gotytom Gebreslase,ETH,15.01.95,Dubai,23.04.2016
+810,31:33.27,Lidiya Grigoryeva,RUS,21.01.74,Tula,14.06.2006
+810,31:33.27,Buze Diriba,ETH,09.02.94,Palo Alto,02.05.2015
+812,31:33.33,Yuka Takashima,JPN,12.05.88,Palo Alto,05.05.2017
+813,31:33.39,Emily Chebet,KEN,18.02.86,Bambous,12.08.2006
+814,31:33.42,Ana Dulce Félix,POR,23.10.82,Pontevedra,02.04.2011
+815,31:33.44,Joanne Pavey,GBR,20.09.73,Rio de Janeiro,12.08.2016
+816,31:33.46,Elana Meyer,RSA,10.10.66,Cape Town,22.12.1991
+817,31:33.49,Etalemahu Kidane,ETH,14.02.83,Valkenswaard,26.06.2007
+818,31:33.50,Janet Bawcom,USA,22.08.78,Palo Alto,29.04.2012
+819,31:33.51,Fernanda Ribeiro,POR,23.06.69,Leiria,06.04.1996
+820,31:33.58,Lyudmila Biktasheva,RUS,25.07.74,Tula,26.07.2000
+821,31:33.62,Ayako Suzuki,JPN,17.12.80,Palo Alto,02.05.2019
+822,31:33.69,Masako Chiba,JPN,18.07.76,Tokyo,05.10.1997
+823,31:33.76,Sally Chepyego,KEN,03.10.85,Fukuoka,21.09.2012
+824,31:33.77,Miriam Dattke,GER,24.06.98,Stockholm,04.05.2021
+825,31:33.82,Katie McGregor,USA,02.09.77,Carson,24.06.2005
+826,31:33.83,Emily Durgin,USA,15.05.94,San Juan Capistrano,06.05.2022
+827,31:33.92,Kathrin Weßel,GER,14.08.67,Barcelona,09.09.1989
+828,31:34.01,Megumi Oshima,JPN,04.09.75,Tottori,04.06.2004
+829,31:34.08,Harumi Hiroyama,JPN,02.09.68,Tottori,04.06.2004
+830,31:34.15,Mari Ozaki,JPN,16.07.75,Kobe,24.04.2005
+831,31:34.17,Inês Monteiro,POR,18.05.80,Ribeira Brava,06.06.2009
+831,31:34.17,Ana Dulce Félix,POR,23.10.82,Huelva,11.04.2015
+833,31:34.26,Olivera Jevtic,SRB,24.07.77,Budapest,19.08.1998
+834,31:34.35,Kayo Sugihara,JPN,24.02.83,Palo Alto,01.05.2011
+835,31:34.37,Kate O'Neill,USA,29.07.80,Palo Alto,30.04.2004
+836,31:34.39,Mikuni Yada,JPN,29.10.99,Osaka,04.12.2020
+837,31:34.61,Joanne Pavey,GBR,20.09.73,Amsterdam,06.07.2016
+838,31:34.79,Harumi Hiroyama,JPN,02.09.68,Tokyo,02.06.2005
+839,31:34.81,Shalane Flanagan,USA,07.08.81,Eugene,27.06.2008
+840,31:34.82,Maria Conceição Ferreira,POR,13.03.62,Rotterdam,12.06.1993
+841,31:34.83,Shalane Flanagan,USA,07.08.81,Moskva,11.08.2013
+842,31:34.84,Berhane Adere,ETH,21.07.73,Villeneuve d'Ascq,13.06.1999
+843,31:34.94,Honami Maeda,JPN,17.07.96,Fukagawa,08.07.2020
+844,31:35.01,Lyudmila Baranova,RUS,03.05.50,Krasnodar,29.05.1983
+845,31:35.08,Zhong Huandi,CHN,28.06.67,Tokyo,30.08.1991
+846,31:35.16,Olga Bondarenko,RUS,02.06.60,Bryansk,19.07.1987
+847,31:35.18,Hiromi Ominami,JPN,15.11.75,Tokyo,02.06.2005
+848,31:35.20,Kidsan Alema,ETH,29.07.95,Hengelo,08.06.2021
+849,31:35.22,Elise Cranny,USA,09.05.96,Eugene,26.06.2021
+850,31:35.25,Blake Russell,USA,24.07.75,Carson,24.06.2005
+851,31:35.27,Megumi Kinukawa,JPN,07.08.89,Kobe,22.04.2007
+852,31:35.3,Mary Slaney,USA,04.08.58,Eugene,16.07.1982
+853,31:35.46,Aurora Cunha,POR,31.05.59,Oslo,27.07.1985
+854,31:35.48,Jip Vastenburg,NED,21.03.94,Palo Alto,02.05.2015
+854,31:35.48,Yasemin Can,TUR,11.12.96,London,05.08.2017
+856,31:35.50,Lisa Uhl,USA,31.08.87,Palo Alto,29.04.2012
+857,31:35.52,Francie Larrieu-Smith,USA,23.11.52,Seoul,30.09.1988
+858,31:35.61,Olga Bondarenko,RUS,02.06.60,Krasnodar,29.05.1983
+859,31:35.63,Erika Kemp,USA,26.01.95,San Juan Capistrano,05.12.2020
+860,31:35.67,Kaede Hagitani,JPN,10.10.00,Tokyo,07.05.2022
+861,31:35.74,Elva Dryer,USA,26.09.71,Palo Alto,19.06.2003
+862,31:35.76,Yuka Takashima,JPN,12.05.88,Nagoya,24.06.2016
+863,31:35.77,Kate Reed,GBR,28.09.82,Palo Alto,04.05.2008
+864,31:35.81,Aheza Kiros Abeye,ETH,16.10.85,Bambous,12.08.2006
+864,31:35.81,Christelle Daunay,FRA,05.12.74,Bilbao,03.06.2012
+866,31:35.88,Kim Conley,USA,14.03.86,Palo Alto,05.05.2017
+867,31:35.90,Derartu Tulu,ETH,21.03.72,Atlanta,27.07.1996
+868,31:35.92,Olivera Jevtic,SRB,24.07.77,Ribeira Brava,06.06.2009
+868,31:35.92,Jessica Andrews,GBR,01.10.92,Rio de Janeiro,12.08.2016
+870,31:35.96,Daria Nauer,SUI,21.05.66,Helsinki,13.08.1994
+871,31:35.99,Wang Xiuting,CHN,16.02.65,Tokyo,30.08.1991
+872,31:36.00,Sally Barsosio,KEN,21.03.78,Atlanta,27.07.1996
+873,31:36.04,Ayumi Hagiwara,JPN,01.06.92,Osaka,04.12.2020
+874,31:36.12,Alice Nawowuna,KEN,02.01.94,Asaba,04.08.2018
+875,31:36.16,Alexi Pappas,GRE,29.03.90,Rio de Janeiro,12.08.2016
+876,31:36.19,Sakiho Tsutsui,JPN,19.01.96,Osaka,04.12.2020
+877,31:36.20,Everline Kimwei,KEN,25.08.87,Gifu,21.09.2007
+878,31:36.32,Fernanda Ribeiro,POR,23.06.69,Atlanta,27.07.1996
+879,31:36.33,Leah Malot,KEN,07.06.72,Saint-Denis,03.07.1999
+880,31:36.36,Andrea Seccafien,CAN,27.08.90,Tokyo,07.08.2021
+881,31:36.37A,Vivian Cheruiyot,KEN,11.09.83,Eldoret,30.06.2016
+882,31:36.4,Tegla Loroupe,KEN,09.05.73,Strasbourg,27.06.2000
+883,31:36.44,Yuka Takashima,JPN,12.05.88,Rio de Janeiro,12.08.2016
+884,31:36.45,Uta Pippig,GER,07.09.65,Barcelona,07.08.1992
+885,31:36.51,Paula Radcliffe,GBR,17.12.73,Budapest,19.08.1998
+886,31:36.54,Yukiko Akaba,JPN,18.10.79,Kobe,27.04.2008
+887,31:36.56,Asmae Leghzaoui,MAR,30.08.76,Avilés,28.07.2007
+888,31:36.76,Lyudmila Petrova,RUS,07.10.68,Palo Alto,02.05.2003
+888,31:36.76,Sabrina Mockenhaupt,GER,06.12.80,Bilbao,03.06.2012
+890,31:36.78,Irene Kwambai,KEN,25.10.78,El Djezair,21.07.2007
+891,31:36.87,Gladys Chesire,KEN,20.02.93,Brazzaville,16.09.2015
+892,31:36.88,Mamitu Daska,ETH,16.10.83,Utrecht,14.06.2009
+893,31:36.90,Kathy Butler,GBR,22.10.73,Watford,12.06.2004
+893,31:36.90,Hilda Kibet,NED,27.03.81,Barcelona,28.07.2010
+893,31:36.90,Darya Maslova,KGZ,06.05.95,Rio de Janeiro,12.08.2016
+896,31:37.03,Masako Chiba,JPN,18.07.76,Atlanta,27.07.1996
+896,31:37.03,Ana Dulce Félix,POR,23.10.82,Daegu,27.08.2011
+898,31:37.07,Doricah Obare,KEN,10.01.90,Kobe,25.04.2010
+899,31:37.14,Desireé Linden,USA,26.07.83,Eugene,23.06.2011
+900,31:37.20,Jennifer Rhines,USA,01.07.74,Carson,24.06.2005
+901,31:37.22,Betsy Saina,KEN,30.06.88,Palo Alto,28.04.2013
+902,31:37.24,Hitomi Miyai,JPN,18.03.85,Tokyo,02.06.2005
+903,31:37.26,Anne Marie Lauck,USA,07.03.69,Stuttgart,21.08.1993
+903,31:37.26,Carrie Verdon,USA,08.03.94,San Juan Capistrano,06.03.2022
+905,31:37.32,Yuka Takashima,JPN,12.05.88,Palo Alto,02.05.2015
+906,31:37.43,Veronica Inglese,ITA,22.11.90,Amsterdam,06.07.2016
+907,31:37.45,Marielle Hall,USA,28.01.92,Palo Alto,01.05.2016
+908,31:37.62,Merima Denboba,ETH,21.08.74,Saint-Denis,03.07.1999
+909,31:37.71,Yuka Ando,JPN,16.03.94,Osaka,04.12.2020
+910,31:37.72,Kara Goucher,USA,09.07.78,Eugene,27.06.2008
+911,31:37.82,Katie McGregor,USA,02.09.77,Palo Alto,29.04.2007
+912,31:37.91,Karoline Bjerkeli Grøvdal,NOR,14.06.90,Palo Alto,01.05.2016
+913,31:37.98,Dolshi Tesfu,ERI,17.06.99,Tokyo,07.08.2021
+914,31:37.99,Juliet Chekwel,UGA,25.05.90,Rubiera,24.04.2016
+915,31:38.02,Lyudmila Matveyeva,RUS,01.02.57,Kyiv,02.08.1988
+915,31:38.02,Masako Chiba,JPN,18.07.76,Villeneuve d'Ascq,13.06.1999
+915,31:38.02,Jessica Andrews,GBR,01.10.92,Amsterdam,06.07.2016
+918,31:38.03,Emily Sisson,USA,12.10.91,Palo Alto,02.05.2015
+919,31:38.04,Judi St. Hilaire,USA,05.09.59,Barcelona,07.08.1992
+920,31:38.07,Wang Junxia,CHN,09.01.73,Nanjing,26.10.1995
+921,31:38.08,Ayelech Worku,ETH,12.06.79,Villeneuve d'Ascq,17.06.2001
+922,31:38.15,Wang Jiali,CHN,01.02.86,Hefei,08.09.2011
+923,31:38.16,Everline Kimwei,KEN,25.08.87,Kobe,22.04.2007
+924,31:38.17,Wang Junxia,CHN,09.01.73,Beijing,05.06.1994
+925,31:38.18,Restituta Joseph,TAN,30.07.71,Villeneuve d'Ascq,17.06.2001
+926,31:38.33,Gelete Burka,ETH,23.01.86,Brazzaville,16.09.2015
+927,31:38.35,Zhang Yingning,CHN,04.01.90,Beijing,22.05.2008
+928,31:38.4A,Mercyline Chelangat,UGA,17.12.97,Kampala,03.03.2018
+929,31:38.42,Chiemi Takahashi,JPN,16.02.76,Tokyo,05.10.1997
+930,31:38.48,Irina Mikitenko,GER,23.08.72,Athínai,12.04.2003
+931,31:38.54,Sally Chepyego,KEN,03.10.85,Yamaguchi,10.10.2014
+932,31:38.59,Tomoko Hatori,JPN,28.05.81,Tottori,04.06.2004
+933,31:38.61,Buze Diriba,ETH,09.02.94,Palo Alto,01.05.2016
+934,31:38.63,Olga Bondarenko,RUS,02.06.60,Kyiv,02.08.1988
+935,31:38.64,Olga Bondarenko,RUS,02.06.60,Odessa,07.09.1983
+936,31:38.66,Shitaye Eshete,BRN,21.05.90,London,05.08.2017
+937,31:38.68,Irina Mikitenko,GER,23.08.72,Barakaldo,10.04.1999
+937,31:38.68,Shalane Flanagan,USA,07.08.81,Portland,10.06.2017
+939,31:38.70,Sally Chepyego,KEN,03.10.85,Kobe,24.04.2011
+939,31:38.70,Stella Chesang,UGA,01.12.96,Hengelo,17.07.2019
+941,31:38.71,Emily Infeld,USA,21.03.90,Palo Alto,02.05.2015
+942,31:38.75,Kathrin Weßel,GER,14.08.67,Helsinki,13.08.1994
+943,31:38.76,Tegla Loroupe,KEN,09.05.73,Osnabrück,24.05.1997
+944,31:38.80,Miyuki Uehara,JPN,22.11.95,Palo Alto,01.05.2016
+945,31:38.81,Maryanne Wangari,KEN,04.10.86,Shizuoka,03.05.2005
+946,31:38.84,Jane Wanjiku,KEN,14.06.79,Shizuoka,03.05.2005
+947,31:38.91,Hellen Kimaiyo,KEN,08.09.68,Barcelona,07.08.1992
+948,31:38.92,Irene Kwambai,KEN,25.10.78,Ostrava,12.06.2008
+949,31:38.94,Silvia Sommaggio,ITA,20.11.69,Hechtel,19.07.1997
+950,31:38.95,Jane Wanjiku,KEN,14.06.79,Kobe,16.10.2004
+951,31:38.96,Kathrin Weßel,GER,14.08.67,Tokyo,30.08.1991
+952,31:39.0A,Stella Chesang,UGA,01.12.96,Kampala,03.03.2018
+953,31:39.11,Philes Ongori,KEN,19.07.86,Kobe,22.04.2007
+953,31:39.11,Sara Moreira,POR,17.10.85,Oslo,04.06.2011
+955,31:39.15,Fernanda Ribeiro,POR,23.06.69,Athínai,05.08.1997
+956,31:39.20,Dulce María Rodríguez,MEX,14.08.72,Palo Alto,04.05.2008
+956,31:39.20,Molly Huddle,USA,31.08.84,Eugene,25.06.2015
+958,31:39.32,Akane Wakita,JPN,15.12.87,Kobe,22.04.2007
+958,31:39.32,Ai Hosoda,JPN,27.11.95,Abashiri,10.07.2021
+960,31:39.34,Sylvia Kibet,KEN,28.03.84,Helsinki,26.07.2006
+960,31:39.34,Alina Reh,GER,23.05.97,Gävle,12.07.2019
+962,31:39.35,Aurora Cunha,POR,31.05.59,Stuttgart,30.08.1986
+962,31:39.35,Yuko Kawakami,JPN,01.08.75,Naruto,12.06.1998
+964,31:39.38,Julia Mumbi,KEN,25.01.85,Kumagaya,17.05.2008
+965,31:39.39,Stephanie Bruce,USA,14.01.84,San Juan Capistrano,06.03.2022
+966,31:39.41,Mizuki Matsuda,JPN,31.05.95,Osaka,23.06.2017
+967,31:39.47,Jennifer Rhines,USA,01.07.74,Palo Alto,01.05.2005
+968,31:39.52,Ana Dias,POR,15.01.74,Barakaldo,10.04.1999
+969,31:39.57,Lucy Kabuu,KEN,24.03.84,Kobe,23.04.2006
+970,31:39.60,Sarah Inglis,GBR,28.08.91,London,14.05.2022
+971,31:39.63,Lonah Chemtai Salpeter,ISR,12.12.88,Tel Aviv,26.04.2018
+972,31:39.67,Jordan Hasay,USA,12.09.91,Palo Alto,04.05.2014
+972,31:39.67,Asnakech Awoke,ETH,01.11.95,Hengelo,08.06.2021
+974,31:39.69,Merima Hashim,ETH,81,Saint-Denis,03.07.1999
+975,31:39.73,Gotytom Gebreslase,ETH,15.01.95,Herzogenaurach,13.05.2016
+976,31:39.77,Chen Rong,CHN,18.05.88,Hefei,08.09.2011
+977,31:39.80,Harumi Hiroyama,JPN,02.09.68,Kobe,14.10.2001
+977,31:39.80,Yasemin Can,TUR,11.12.96,Bydgoszcz,14.07.2017
+979,31:39.81,Workitu Ayanu,ETH,19.04.87,Brazzaville,16.09.2015
+980,31:39.84,Sally Chepyego,KEN,03.10.85,Kobe,22.04.2007
+980,31:39.84,Song Xiaoxue,CHN,13.02.87,Wuhan,02.11.2007
+982,31:39.86,Rika Kaseda,JPN,02.03.99,Osaka,04.12.2020
+982,31:39.86,Alina Reh,GER,23.05.97,Pacé,28.05.2022
+984,31:39.87,Peninah Arusei,KEN,23.02.79,Beijing,15.08.2008
+985,31:39.89,Julia Mumbi,KEN,25.01.85,Yokohama,23.12.2004
+986,31:39.90,Weini Kelati Frezghi,USA,01.12.96,Eugene,27.05.2022
+987,31:39.93,Lynn Jennings,USA,01.07.60,Seoul,30.09.1988
+988,31:39.97,Uta Pippig,GER,07.09.65,Stuttgart,21.08.1993
+988,31:39.97,Rose Davies,AUS,21.12.99,Melbourne,26.01.2021
+990,31:39.98,Kayoko Fukushi,JPN,25.03.82,Marugame,24.09.2005
+991,31:40.10,Isobel Batt-Doyle,AUS,14.09.95,London,14.05.2022
+992,31:40.14,Elizabeth McColgan,GBR,24.05.64,Göteborg,09.08.1995
+992,31:40.14,Irina Timofeyeva,RUS,05.04.70,Tula,26.07.2000
+994,31:40.16,Iulia Olteanu,ROU,26.01.67,Atlanta,27.07.1996
+995,31:40.23,Wang Xiuting,CHN,16.02.65,Seoul,30.09.1988
+996,31:40.25,Kim Conley,USA,14.03.86,San Juan Capistrano,20.02.2021
+997,31:40.28,Sabrina Mockenhaupt,GER,06.12.80,Göteborg,07.08.2006
+998,31:40.31,Aniko Kalovics,HUN,13.05.77,Watford,05.07.2003
+999,31:40.34,Kazue Ogoshi,JPN,02.03.81,Tokyo,02.06.2005
+1000,31:40.38,Izumi Maki,JPN,10.12.68,Kobe,03.05.1992
+1000,31:40.38,Bai Xue,CHN,13.12.88,Beijing,22.05.2008
+1002,31:40.42,Annemari Sandell,FIN,02.01.77,Atlanta,27.07.1996
+1003,31:40.43,Berhane Adere,ETH,21.07.73,Saint-Denis,03.07.1999
+1004,31:40.48,Mercyline Chelangat,UGA,17.12.97,London,05.08.2017
+1005,31:40.51,Fernanda Ribeiro,POR,23.06.69,Stuttgart,21.08.1993
+1006,31:40.52,Berhane Adere,ETH,21.07.73,Sydney,30.09.2000
+1007,31:40.56,Delillah Asiago,KEN,24.02.72,Tokyo,16.06.1991
+1008,31:40.60,Ana Dulce Félix,POR,23.10.82,Ribeira Brava,06.06.2009
+1009,31:40.67,Therese Johaug,NOR,25.06.88,Oslo,11.06.2020
+1010,31:40.70,Kellyn Taylor,USA,22.07.86,Palo Alto,01.05.2016
+1011,31:40.73,Dominique Scott,RSA,24.06.92,Eugene,16.07.2022
+1012,31:40.80,Fernanda Ribeiro,POR,23.06.69,Camaiore,06.04.2002
+1013,31:40.88,Yelena Vyazova,UKR,18.04.60,Kyiv,02.08.1988
+1014,31:40.92,Uta Pippig,GER,07.09.65,Helsinki,27.06.1990
+1015,31:40.97,Alla Zhilyayeva,RUS,05.02.69,Cheboksary,23.07.2009
+1016,31:40.99A,Alice Nawowuna,KEN,02.01.94,Nairobi,27.05.2016
+1017,31:41.00,Harumi Okamoto,JPN,07.02.98,Kyoto,10.12.2021
+1018,31:41.03,Cristina Misaros,ROU,01.01.69,Helsinki,13.08.1994
+1019,31:41.09,Lydia Cheromei,KEN,11.05.77,Belle vue Mauricia,27.06.1992
+1020,31:41.1,Elana Meyer,RSA,10.10.66,Watford,22.07.2000
+1020,31:41.10,Madeleine Hills,AUS,15.05.87,Palo Alto,05.05.2017
+1022,31:41.13,Kathy Butler,GBR,22.10.73,Athínai,27.08.2004
+1023,31:41.16,Jennifer Rhines,USA,01.07.74,Palo Alto,03.05.2002
+1023,31:41.16,Dominique Scott,RSA,24.06.92,Irvine,13.05.2021
+1025,31:41.23,Rosemary Wanjiru,KEN,21.09.94,Akita,20.05.2017
+1026,31:41.25,Maryanne Wangari,KEN,04.10.86,Kobe,24.04.2005
+1027,31:41.26,Teyiba Erkasso,ETH,30.10.82,Barakaldo,10.07.2004
+1028,31:41.31,Eloise Wellings,AUS,09.11.82,Palo Alto,01.05.2011
+1028,31:41.31,Vivian Cheruiyot,KEN,11.09.83,Beijing,24.08.2015
+1030,31:41.32,Takako Kotorida,JPN,02.04.77,Kobe,22.04.2001
+1031,31:41.33,Libbie Hickman,USA,17.02.65,Eugene,26.06.1999
+1031,31:41.33,Miwako Yamanaka,JPN,24.05.78,Mito,06.05.2002
+1033,31:41.38,Marina Bastos,POR,07.07.71,Barakaldo,10.04.1999
+1034,31:41.42,Elizabeth McColgan,GBR,24.05.64,Edinburgh,28.07.1986
+1035,31:41.44,Kate Avery,GBR,10.10.91,Palo Alto,02.05.2015
+1036,31:41.47,Gloria Kite,KEN,29.12.98,Maia,02.06.2018
+1037,31:41.49,Yuki Saito,JPN,25.09.80,Tottori,04.06.2004
+1038,31:41.54,Sula Utura,ETH,08.02.90,Eugene,01.06.2012
+1039,31:41.59,Natasha Wodak,CAN,17.12.81,Palo Alto,02.05.2015
+1040,31:41.60,Hitomi Miyai,JPN,18.03.85,Kobe,24.04.2005
+1040,31:41.60,Chen Rong,CHN,18.05.88,Beijing,22.05.2008
+1042,31:41.62,Molly Huddle,USA,31.08.84,Eugene,02.07.2016
+1043,31:41.65,Ayako Suzuki,JPN,17.12.80,Osaka,23.06.2017
+1044,31:41.71,Chiemi Takahashi,JPN,16.02.76,Saint-Denis,03.07.1999
+1045,31:41.72,Julia Mumbi,KEN,25.01.85,Kobe,23.04.2006
+1046,31:41.74,Leah Malot,KEN,07.06.72,Villeneuve d'Ascq,17.06.2001
+1046,31:41.74,Ayuko Suzuki,JPN,08.10.91,Palo Alto,05.05.2017
+1048,31:41.77,Gelete Burka,ETH,23.01.86,Beijing,24.08.2015
+1049,31:41.8A,Alice Nawowuna,KEN,02.01.94,Nairobi,07.05.2016
+1049,31:41.80,Ayumi Hagiwara,JPN,01.06.92,Yamaguchi,10.10.2014
+1051,31:41.90,Noriko Matsuoka,JPN,02.05.79,Kawasaki,27.06.2008
+1052,31:41.91,Derartu Tulu,ETH,21.03.72,Villeneuve d'Ascq,17.06.1995
+1053,31:41.93,Masako Chiba,JPN,18.07.76,Athínai,05.08.1997
+1054,31:42.01,Ingrid Kristiansen,NOR,21.03.56,Barcelona,09.09.1989
+1054,31:42.01,Yoko Shibui,JPN,14.03.79,Saint-Denis,23.08.2003
+1056,31:42.02,Yekaterina Khramenkova,BLR,16.06.56,Kyiv,02.08.1988
+1056,31:42.02,Julia Bleasdale,GBR,09.09.81,Palo Alto,04.05.2014
+1056,31:42.02,Veronica Inglese,ITA,22.11.90,Palo Alto,01.05.2016
+1059,31:42.05,Kayoko Fukushi,JPN,25.03.82,Kanazawa,29.09.2001
+1060,31:42.06,Esther Chemtai,KEN,04.06.88,Ostrava,27.06.2013
+1061,31:42.14,Maria Guida,ITA,23.01.66,Helsinki,13.08.1994
+1062,31:42.18,Megumi Oshima,JPN,04.09.75,Athínai,27.08.2004
+1063,31:42.25,Caroline Nyakogwa,KEN,12.12.86,Eugene,01.06.2012
+1064,31:42.29,Shalane Flanagan,USA,07.08.81,Eugene,25.06.2015
+1065,31:42.43,Svetlana Guskova,MDA,19.08.59,Stuttgart,30.08.1986
+1066,31:42.51,Everline Kimwei,KEN,25.08.87,Kobe,15.10.2005
+1067,31:42.53,Veronique Collard,BEL,09.06.63,Lommel,25.04.1992
+1067,31:42.53,Everline Kimwei,KEN,25.08.87,Kumagaya,19.05.2007
+1069,31:42.58,Xing Huina,CHN,25.02.84,Busan,08.10.2002
+1070,31:42.60,Emily Infeld,USA,21.03.90,Eugene,25.06.2015
+1071,31:42.67,Julia Mumbi,KEN,25.01.85,Kobe,24.04.2005
+1072,31:42.70,Maria Albertina Dias,POR,26.04.65,Helsinki,30.06.1992
+1073,31:42.74,Megumi Oshima,JPN,04.09.75,Boston,29.06.2002
+1074,31:42.8,Lesley Lehane,USA,12.03.63,Dedham,11.06.1988
+1075,31:42.83,Rosario Murcia,FRA,23.09.64,Lommel,25.04.1992
+1076,31:42.88,Carrie Dimoff,USA,31.05.83,Palo Alto,02.05.2019
+1077,31:42.9A,Vicoty Chepngeno,KEN,12.11.93,Nairobi,13.03.2021
+1078,31:42.91,Jelena Prokopcuka,LAT,21.09.76,Gateshead,27.06.2004
+1078,31:42.91,Bezunesh Bekele,ETH,29.01.83,Bambous,12.08.2006
+1080,31:42.92,Julia Mumbi,KEN,25.01.85,Yamagata,26.09.2008
+1080,31:42.92,Rachel Schneider,USA,18.07.91,Eugene,26.06.2021
+1082,31:42.94,Ana Dias,POR,15.01.74,Ribeira Brava,06.06.2009
+1083,31:42.99,Yelena Vyazova,UKR,18.04.60,Stuttgart,30.08.1986
+1084,31:43.00,Jennifer Rhines,USA,01.07.74,Palo Alto,01.05.2011
+1085,31:43.01,Yuko Kawakami,JPN,01.08.75,Kobe,25.04.1999
+1086,31:43.02,Miki Ohira,JPN,28.06.81,Kobe,24.04.2005
+1087,31:43.05,Almensch Belete,BEL,26.07.89,Palo Alto,04.05.2014
+1088,31:43.07,Sonia O'Sullivan,IRL,28.11.69,Sydney,24.02.2000
+1089,31:43.08,Sarah Lancester,USA,01.12.87,Eugene,27.05.2022
+1090,31:43.12,Ancuta Bobocel,ROU,03.10.87,London,19.05.2018
+1091,31:43.14,Hayley McGregor,AUS,27.05.79,Melbourne,04.12.2003
+1092,31:43.18,Dominique Scott,RSA,24.06.92,Palo Alto,02.05.2019
+1093,31:43.20,Shalane Flanagan,USA,07.08.81,Des Moines,20.06.2013
+1094,31:43.22,Helena Sampaio,POR,09.10.75,Barakaldo,10.04.1999
+1095,31:43.25,Yuko Shimizu,JPN,13.07.85,Yokohama,24.12.2011
+1095,31:43.25,Kayoko Fukushi,JPN,25.03.82,Osaka,08.06.2012
+1097,31:43.26,Natasha Wodak,CAN,17.12.81,Palo Alto,02.05.2019
+1097,31:43.26,Isobel Batt-Doyle,AUS,14.09.95,Melbourne,26.01.2021
+1099,31:43.28,Merima Denboba,ETH,21.08.74,Heusden-Zolder,05.08.2000
+1100,31:43.29,Fatima Yvelain,FRA,31.12.69,Lisboa,01.04.2000
+1100,31:43.29,Lonah Chemtai Salpeter,ISR,12.12.88,Berlin,08.08.2018
+1102,31:43.34A,Sharon Lokedi,KEN,10.03.94,Nairobi,27.05.2021
+1103,31:43.36,Lieve Slegers,BEL,06.04.65,Lommel,25.04.1992
+1104,31:43.40,Juliet Chekwel,UGA,25.05.90,Marina di Carrara,22.04.2017
+1105,31:43.41,Hiromi Suzuki,JPN,06.12.68,Tokyo,11.06.1995
+1105,31:43.41,Werknesh Kidane,ETH,21.11.81,Villeneuve d'Ascq,17.06.2001
+1107,31:43.49,Emily Infeld,USA,21.03.90,Beijing,24.08.2015
+1108,31:43.50,Anne Marie Lauck,USA,07.03.69,Eugene,26.06.1999
+1109,31:43.51,Yelena Samokhvalova,RUS,21.11.80,Tula,03.08.2003
+1109,31:43.51,Karolina Nadolska,POL,06.09.81,Ostrava,27.06.2013
+1109,31:43.51,Ellie Pashley,AUS,10.12.88,Palo Alto,02.05.2019
+1112,31:43.55,Christien Toonstra,NED,22.06.66,Lommel,25.04.1992
+1113,31:43.58,Molly Huddle,USA,31.08.84,Beijing,24.08.2015
+1114,31:43.59,Dong Yanmei,CHN,16.02.77,Guangzhou,19.11.2001
+1115,31:43.60,Amy Begley,USA,11.01.78,Eugene,27.06.2008
+1116,31:43.69,Zhong Huandi,CHN,28.06.67,Fukuoka,15.05.1994
+1117,31:43.7,Masako Chiba,JPN,18.07.76,Nobeoka,11.11.1995
+1117,31:43.70,Verity Ockenden,GBR,31.08.91,Birmingham,05.06.2021
+1119,31:43.72,Selamawit Bayoulgn,ISR,24.03.94,Tel Aviv,22.04.2021
+1120,31:43.74,Hitomi Miyai,JPN,18.03.85,Helsinki,06.08.2005
+1121,31:43.79,Liz Costello,USA,23.02.88,Palo Alto,01.05.2016
+1122,31:43.80,Teresa Recio,ESP,07.07.63,Sevilla,26.08.1999
+1123,31:43.99,Harumi Hiroyama,JPN,02.09.68,Osaka,09.06.1996
+1124,31:44.02,Rina Nabeshima,JPN,16.12.93,Osaka,19.05.2019
+1125,31:44.06,Caroline Kipkirui,KEN,26.05.94,Portland,28.05.2021
+1126,31:44.12,Sabrina Mockenhaupt,GER,06.12.80,Regensburg,17.06.2006
+1127,31:44.13,Shiori Yano,JPN,11.02.95,Yamaguchi,08.12.2018
+1128,31:44.28,Zhu Yingying,CHN,18.08.88,Jinan,26.10.2009
+1129,31:44.29,Mizuki Noguchi,JPN,03.07.78,Naruto,13.05.2005
+1130,31:44.3,Teresa Recio,ESP,07.07.63,Gijón,12.08.2000
+1131,31:44.35,Stephanie Bruce,USA,14.01.84,Eugene,27.05.2022
+1132,31:44.38,Annette Peters,USA,31.05.65,Eugene,15.04.1995
+1133,31:44.42,Sally Kipyego,KEN,19.12.85,Beijing,24.08.2015
+1134,31:44.44,Hanami Sekine,JPN,26.02.96,Rio de Janeiro,12.08.2016
+1135,31:44.52,Sabrina Mockenhaupt,GER,06.12.80,Bergisch Gladbach,01.09.2011
+1136,31:44.57,Maria Albertina Dias,POR,26.04.65,Getxo,02.05.1993
+1137,31:44.69,Ingrid Kristiansen,NOR,21.03.56,Seoul,26.09.1988
+1138,31:44.73,Wang Qinghuan,CHN,22.12.66,Guangzhou,29.11.1987
+1139,31:44.74,Courtney Babcock,CAN,30.06.72,Palo Alto,02.05.2003
+1140,31:44.75,Ana Dulce Félix,POR,23.10.82,Helsinki,01.07.2012
+1141,31:44.79,Mao Kiyota,JPN,12.09.93,Palo Alto,02.05.2015
+1141,31:44.79,Stephanie Twell,GBR,17.08.89,Ad-Dawhah,28.09.2019
+1143,31:44.82,Irina Mikitenko,GER,23.08.72,Göteborg,07.08.2006
+1144,31:44.84,Christelle Daunay,FRA,05.12.74,Oslo,04.06.2011
+1145,31:44.86,Harumi Hiroyama,JPN,02.09.68,Kagoshima,05.10.1996
+1145,31:44.86,Riko Matsuzaki,JPN,24.12.92,Abashiri,16.07.2015
+1147,31:44.87,Yoshiko Ichikawa,JPN,18.04.76,Mito,06.05.2002
+1148,31:44.92,Obare Doricah,KEN,10.01.90,Palo Alto,28.04.2013
+1149,31:45.00,Evelyn Wambui,KEN,04.04.86,Utrecht,17.05.2007
+1150,31:45.02,Päivi Tikkanen,FIN,19.01.60,Helsinki,30.06.1992
+1150,31:45.02,Alla Zhilyayeva,RUS,05.02.69,Moskva,03.08.1998
+1150,31:45.02,Camille Buscomb,NZL,11.07.90,Palo Alto,05.05.2017
+1153,31:45.04,Pauline Kamulu,KEN,16.04.95,Osaka,20.09.2019
+1154,31:45.06,Mihaela Botezan,ROU,21.11.76,Bucuresti,09.06.2001
+1155,31:45.08,Deena Kastor,USA,14.02.73,Carson,24.06.2005
+1156,31:45.14,Susan Chepkemei,KEN,25.06.75,Radès,09.08.2002
+1156,31:45.14,Hayley Yelling-Higham,GBR,03.01.74,Watford,12.06.2004
+1156,31:45.14,Nadia Ejjafini,ITA,08.11.80,Bilbao,03.06.2012
+1159,31:45.16,Brenda Flores,MEX,04.09.91,Palo Alto,02.05.2015
+1160,31:45.24,Obare Doricah,KEN,10.01.90,Palo Alto,04.05.2014
+1161,31:45.27,Elaina Tabb,USA,17.12.91,San Juan Capistrano,05.12.2020
+1162,31:45.29,Ayumi Hagiwara,JPN,01.06.92,Palo Alto,28.04.2013
+1163,31:45.30,Stella Chesang,UGA,01.12.96,Gold Coast,09.04.2018
+1164,31:45.32,Gete Alemayehu,ETH,27.08.98,Maia,02.06.2018
+1165,31:45.4A,Alice Timbilil,KEN,01.02.83,Nairobi,25.06.2005
+1166,31:45.43,Lynn Jennings,USA,01.07.60,Roma,04.09.1987
+1167,31:45.46,Junko Kataoka,JPN,13.06.70,Tokyo,11.06.1995
+1168,31:45.48,Mari Ozaki,JPN,16.07.75,Kobe,23.04.2006
+1169,31:45.53,Annemari Sandell,FIN,02.01.77,Barakaldo,10.04.1999
+1170,31:45.57,Tatyana Aryasova,RUS,02.04.79,Beijing,15.08.2008
+1171,31:45.58,Elana Meyer,RSA,10.10.66,Cape Town,17.12.1992
+1172,31:45.63,Kathy Butler,GBR,22.10.73,Palo Alto,30.04.2004
+1173,31:45.67,Jia Chaofeng,CHN,16.11.88,Jinan,26.10.2009
+1174,31:45.74,Tegla Loroupe,KEN,09.05.73,Blankenburg,25.05.1995
+1175,31:45.75,Maria Conceição Ferreira,POR,13.03.62,Kapfenberg,23.06.1990
+1175,31:45.75,Everline Kimwei,KEN,25.08.87,Kita-Kyushu,13.05.2006
+1177,31:45.82,Miki Igarashi,JPN,22.08.71,Hiroshima,15.10.1994
+1177,31:45.82,Hikari Yoshimoto,JPN,02.08.90,Kobe,24.04.2011
+1177,31:45.82,Salomé Nyirarukundo,RWA,20.12.97,Durban,25.06.2016
+1180,31:45.83,Tabitha Kamau,KEN,03.06.00,Yamaguchi,05.12.2020
+1181,31:45.84,Takako Kotorida,JPN,02.04.77,Fukagawa,25.06.2003
+1182,31:45.85,María Luisa Larraga,ESP,10.12.70,Camaiore,06.04.2002
+1183,31:45.94,Nathalie De,Vos,BEL,10 Göteborg,07.08.2006
+1184,31:45.95,Derartu Tulu,ETH,21.03.72,Tokyo,27.08.1991
+1184,31:45.95,Andrea Seccafien,CAN,27.08.90,Melbourne,26.01.2021
+1186,31:45.98,Bezunesh Bekele,ETH,29.01.83,Valkenswaard,26.06.2007
+1187,31:46.00,Kathrin Weßel,GER,14.08.67,Potsdam,05.06.1991
+1188,31:46.05,Ashu Kasim,ETH,20.10.84,Utrecht,17.05.2007
+1189,31:46.09,Emily Infeld,USA,21.03.90,Eugene,02.07.2016
+1190,31:46.17,Brillian Kipkoech,KEN,09.03.95,Hengelo,06.06.2021
+1191,31:46.23,Shalane Flanagan,USA,07.08.81,Beijing,24.08.2015
+1192,31:46.25,Ayuko Suzuki,JPN,08.10.91,Osaka,19.05.2019
+1193,31:46.31,Maria Albertina Dias,POR,26.04.65,Basel,11.06.1995
+1193,31:46.31,Kazue Ogoshi,JPN,02.03.81,Boston,29.06.2002
+1195,31:46.32,Emily Lipari,USA,19.11.92,Eugene,27.05.2022
+1196,31:46.36,Stacey Ndiwa,KEN,06.12.92,Gold Coast,09.04.2018
+1197,31:46.37,Kimberley Smith,NZL,19.11.81,Palo Alto,28.04.2013
+1198,31:46.4,Griselda González,ESP,04.12.65,Gijón,12.08.2000
+1199,31:46.43,Natalya Sorokivskaya,KAZ,23.07.62,Kyiv,02.08.1988
+1199,31:46.43,Viorica Ghican,ROU,09.06.65,Duisburg,29.08.1989
+1199,31:46.43,Marisol Romero,MEX,26.11.83,Palo Alto,28.04.2013
+1202,31:46.47,Julia Vaquero,ESP,18.09.70,Budapest,19.08.1998
+1202,31:46.47,Krisztina Papp,HUN,17.12.82,Palo Alto,26.03.2010
+1204,31:46.49,Jill Hunter,GBR,14.10.66,Barcelona,07.08.1992
+1205,31:46.51,He Wuga,CHN,28.07.98,Palo Alto,29.04.2022
+1206,31:46.53,Kathy Butler,GBR,22.10.73,Watford,11.06.2005
+1207,31:46.57,Mari Ozaki,JPN,16.07.75,Fukagawa,25.06.2003
+1208,31:46.58,Ayumi Hagiwara,JPN,01.06.92,Abashiri,16.07.2015
+1209,31:46.61,Maria Albertina Machado,POR,25.12.61,Roma,04.09.1987
+1210,31:46.64,Kara Goucher,USA,09.07.78,Palo Alto,29.03.2013
+1211,31:46.71,Fionualla McCormack,IRL,24.09.84,London,03.08.2012
+1212,31:46.72,Olga Bondarenko,RUS,02.06.60,Tokyo,08.10.1988
+1213,31:46.75,Carrie Verdon,USA,08.03.94,Eugene,27.05.2022
+1214,31:46.83,Yelena Romanova,RUS,20.03.63,Split,31.08.1990
+1215,31:46.84,Shiori Yano,JPN,11.02.95,Osaka,04.12.2020
+1216,31:46.85,Alexi Pappas,USA,29.03.90,Palo Alto,01.05.2016
+1217,31:46.87,Samantha Harrison,GBR,01.02.95,München,15.08.2022
+1218,31:46.92,Kazue Ogoshi,JPN,02.03.81,Mito,06.05.2002
+1219,31:46.94,Lanni Marchant,CAN,11.04.84,Palo Alto,02.05.2015
+1220,31:46.98,Fernanda Ribeiro,POR,23.06.69,Getxo,02.05.1993
+1221,31:47.00,Megumi Oshima,JPN,04.09.75,Saint-Denis,23.08.2003
+1222,31:47.03,Natalya Berkut,UKR,30.05.75,Kyiv,01.07.2008
+1223,31:47.10,Lyudmila Biktasheva,RUS,25.07.74,Sydney,30.09.2000
+1224,31:47.11,Lisa Ondieki,AUS,12.05.60,Melbourne,15.12.1994
+1225,31:47.13,Pauline Kamulu,KEN,16.04.95,Akita,20.05.2017
+1226,31:47.14,Kseniya Agafonova,RUS,25.06.83,Zhukovskiy,14.07.2007
+1227,31:47.15,Kayoko Fukushi,JPN,25.03.82,Yokohama,06.06.2003
+1228,31:47.23,Sun Yingjie,CHN,03.10.77,Hefei,26.09.2004
+1228,31:47.23,Yoshimi Ozaki,JPN,01.07.81,Kobe,24.04.2005
+1230,31:47.26,Chiemi Takahashi,JPN,16.02.76,Kobe,25.04.1999
+1231,31:47.28,Yuko Kawakami,JPN,01.08.75,Kobe,23.04.2000
+1232,31:47.29A,Sandrafelis Tuei,KEN,20.01.98,Nairobi,27.05.2021
+1233,31:47.32,Elana Meyer,RSA,10.10.66,Stellenbosch,03.03.2000
+1234,31:47.37,Failuna Abdi Matanga,TAN,28.10.92,Hengelo,10.06.2017
+1235,31:47.38,Olga Bondarenko,RUS,02.06.60,Moskva,18.08.1985
+1235,31:47.38,Christien Toonstra,NED,22.06.66,Barcelona,07.08.1992
+1237,31:47.47,Mari Ozaki,JPN,16.07.75,Tottori,04.06.2004
+1238,31:47.5A,Ruth Chepngetich,KEN,08.08.94,Nairobi,26.04.2022
+1239,31:47.56,Kayoko Fukushi,JPN,25.03.82,Marugame,04.06.2010
+1240,31:47.59,Jennifer Rhines,USA,01.07.74,Daegu,27.08.2011
+1241,31:47.60,Kayo Sugihara,JPN,24.02.83,Oita,30.09.2006
+1242,31:47.63,Merima Denboba,ETH,21.08.74,Pontevedra,20.07.2003
+1243,31:47.67,Olga Bondarenko,RUS,02.06.60,Seoul,26.09.1988
+1243,31:47.67,Mika Yoshikawa,JPN,16.09.84,London,03.08.2012
+1245,31:47.70,Kathrin Weßel,GER,14.08.67,Split,31.08.1990
+1246,31:47.76,Carmen de Oliveira,BRA,17.08.65,Stuttgart,21.08.1993
+1246,31:47.76,Yasuko Kimura,JPN,06.01.76,Tokyo,11.06.1995
+1248,31:47.82,Yoshiko Fujinaga,JPN,15.08.81,Kobe,22.04.2001
+1248,31:47.82,Olivera Jevtic,SRB,24.07.77,München,06.08.2002
+1250,31:47.88,Kazue Ogoshi,JPN,02.03.81,Niigata,25.09.2004
+1251,31:47.89,Gunhild Haugen,NOR,01.06.72,Lisboa,01.04.2000
+1252,31:47.90,Maria Conceição Ferreira,POR,13.03.62,Getxo,02.05.1993
+1253,31:47.99,Yelena Vyazova,UKR,18.04.60,Seoul,26.09.1988
+1254,31:48.03A,Stacey Ndiwa,KEN,06.12.92,Nairobi,22.08.2019
+1255,31:48.05,Yelena Samokhvalova,RUS,21.11.80,Cheboksary,23.07.2009
+1256,31:48.07,Risper Biyaki Gesabwa,MEX,10.02.89,Portland,28.05.2021
+1257,31:48.11,Megumi Oshima,JPN,04.09.75,Kobe,23.04.2006
+1258,31:48.12,Tomoko Hatori,JPN,28.05.81,Fukushima,28.09.2002
+1259,31:48.18,Ayako Suzuki,JPN,17.12.80,Gifu,25.09.2015
+1260,31:48.19,Derartu Tulu,ETH,21.03.72,Brisbane,07.09.2001
+1261,31:48.21,Tsega Chekol Muluhabt,ETH,11.09.89,Ostrava,27.06.2013
+1262,31:48.22,Eri Makikawa,JPN,22.04.93,Palo Alto,02.05.2015
+1263,31:48.23,Anna Domoradskaya,UKR,17.11.53,Kyiv,27.07.1982
+1263,31:48.23,Naoko Takahashi,JPN,06.05.72,Osaka,09.06.1996
+1263,31:48.23,Sheila Chelangat,KEN,11.04.98,Tokyo,07.08.2021
+1266,31:48.24,Hisami Ishii,JPN,10.08.95,Abashiri,11.07.2016
+1267,31:48.28,Alina Gherasim,ROU,10.11.71,Saint-Denis,03.07.1999
+1267,31:48.28,Kazue Ogoshi,JPN,02.03.81,Fukushima,28.09.2002
+1269,31:48.31,Asha Gigi,ETH,15.10.73,Palo Alto,07.06.2003
+1269,31:48.31,Rei Ohara,JPN,10.08.90,Abashiri,16.07.2015
+1271,31:48.32,Ana Dias,POR,15.01.74,Athínai,12.04.2003
+1272,31:48.35,Emily Venters,USA,06.06.99,Palo Alto,31.03.2023
+1273,31:48.39,Yang Siju,CHN,19.04.73,Nanjing,26.10.1995
+1274,31:48.41,Mercyline Chelangat,UGA,17.12.97,Gold Coast,09.04.2018
+1275,31:48.50,Yumiko Hara,JPN,09.01.82,Kobe,14.10.2001
+1276,31:48.53,Abebech Afework,ETH,11.12.90,Eugene,01.06.2012
+1277,31:48.57,Ayelech Worku,ETH,12.06.79,Brisbane,07.09.2001
+1278,31:48.58,Magdalena Lewy Boulet,USA,01.08.73,Eugene,23.06.2011
+1279,31:48.59,Molly Huddle,USA,31.08.84,Palo Alto,01.05.2010
+1280,31:48.6A,Florence Kiplagat,KEN,27.02.87,Iten,31.05.2014
+1280,31:48.60,Eyerusalem Kuma,ETH,04.11.81,Brunswick,01.07.2000
+1282,31:48.63,Yelena Vyazova,UKR,18.04.60,Tokyo,08.10.1988
+1283,31:48.68,Lucy Kabuu,KEN,24.03.84,Helsinki,26.07.2006
+1284,31:48.71,Kim Conley,USA,14.03.86,Palo Alto,04.05.2014
+1285,31:48.72,Olivia Pratt,USA,21.01.94,San Juan Capistrano,05.12.2020
+1286,31:48.73,Yoko Shibui,JPN,14.03.79,Kobe,22.04.2001
+1287,31:48.81,Derartu Tulu,ETH,21.03.72,Edmonton,07.08.2001
+1287,31:48.81,Miyuki Uehara,JPN,22.11.95,Osaka,23.06.2017
+1289,31:48.85,Berhane Adere,ETH,21.07.73,Edmonton,07.08.2001
+1290,31:48.87,Yoko Shibui,JPN,14.03.79,Fukagawa,11.07.2007
+1291,31:48.88,Wang Xiuting,CHN,16.02.65,Roma,04.09.1987
+1292,31:48.89,Yoko Shibui,JPN,14.03.79,Kobe,23.04.2000
+1293,31:48.9A,Hawi Feysa,ETH,01.02.99,Hawassa,29.03.2022
+1293,31:48.90,Hanami Sekine,JPN,26.02.96,Palo Alto,01.05.2016
+1295,31:48.91,Mari Ozaki,JPN,16.07.75,Okayama,27.09.2003
+1296,31:48.92,Yoshimi Ozaki,JPN,01.07.81,Oita,30.09.2006
+1297,31:48.93,Derartu Tulu,ETH,21.03.72,Saint-Denis,10.06.1994
+1297,31:48.93,Yuka Hori,JPN,13.06.96,Yamaguchi,08.12.2018
+1299,31:48.94,Tatyana Pozdnyakova,UKR,04.03.56,Odessa,07.09.1983
+1300,31:48.95,Berhane Adere,ETH,21.07.73,Athínai,05.08.1997
+1300,31:48.95,Yumi Sato,JPN,22.12.76,Tokyo,02.06.2005
+1302,31:49.01,Mao Ichiyama,JPN,29.05.97,Palo Alto,05.05.2017
+1302,31:49.01,Molly Grabill,USA,31.08.92,Eugene,27.05.2022
+1304,31:49.03,Joanne Pavey,GBR,20.09.73,Helsinki,01.07.2012
+1305,31:49.13,Mari Ozaki,JPN,16.07.75,Niigata,25.09.2004
+1305,31:49.13,Philes Ongori,KEN,19.07.86,Kobe,23.04.2006
+1307,31:49.15,Kazue Ogoshi,JPN,02.03.81,Fukagawa,25.06.2003
+1307,31:49.15,Harumi Hiroyama,JPN,02.09.68,Oita,30.09.2006
+1309,31:49.23,Deena Kastor,USA,14.02.73,Palo Alto,29.04.2012
+1310,31:49.29,Yuki Saito,JPN,25.09.80,Okayama,27.09.2003
+1310,31:49.29,Hayley Yelling-Higham,GBR,03.01.74,Utrecht,30.05.2008
+1310,31:49.29,Dolshi Tesfu,ERI,17.06.99,Eugene,16.07.2022
+1313,31:49.40,Mara Yamauchi,GBR,13.08.73,Melbourne,21.03.2006
+1314,31:49.41,Lidiya Grigoryeva,RUS,21.01.74,Saint-Denis,23.08.2003
+1315,31:49.44,Olga Bondarenko,RUS,02.06.60,Kyiv,28.08.1983
+1315,31:49.44,Masako Chiba,JPN,18.07.76,Kobe,20.04.1997
+1317,31:49.46,Elizabeth McColgan,GBR,24.05.64,Stuttgart,30.08.1986
+1317,31:49.46,Lauren Hurley,USA,26.01.88,San Juan Capistrano,06.03.2022
+1319,31:49.47,Sun Yingjie,CHN,03.10.77,Guangzhou,19.11.2001
+1319,31:49.47,Constantina Dita,ROU,23.01.70,Göteborg,07.08.2006
+1319,31:49.47,Yelena Sokolova,RUS,27.12.79,Cheboksary,23.07.2009
+1322,31:49.58,Yesenia Centeno,ESP,27.06.71,Pontevedra,20.07.2003
+1323,31:49.59,Terumi Asoshina,JPN,02.08.82,Okayama,27.09.2003
+1324,31:49.6,Natalya Sorokivskaya,KAZ,23.07.62,Kyiv,24.06.1988
+1325,31:49.71,Tigist Moreda,ETH,68,Helsinki,30.06.1992
+1326,31:49.73,Alemitu Heroye,ETH,09.05.95,Beijing,24.08.2015
+1327,31:49.81,Beatrice Mutai,KEN,19.04.87,Gold Coast,09.04.2018
+1328,31:49.87,Dong Li,CHN,09.12.73,Beijing,05.06.1994
+1329,31:49.88A,Helen Obiri,KEN,13.12.89,Nairobi,24.06.2022
+1330,31:49.89,Noriko Matsuoka,JPN,02.05.79,Oita,30.09.2006
+1331,31:49.91,Ana Dias,POR,15.01.74,Berlin,15.08.2009
+1332,31:49.92A,Nancy Rotich,KEN,24.12.87,Nairobi,27.05.2021
+1333,31:49.97,Benita Willis,AUS,06.05.79,Sydney,27.02.2004
+1334,31:49.98,Getenesh Wami,ETH,11.12.74,Edmonton,07.08.2001
+1335,31:49.99,Alisha Williams,USA,05.02.82,Palo Alto,02.05.2015
+1336,31:50.06,Paula Radcliffe,GBR,17.12.73,Edmonton,07.08.2001
+1337,31:50.08,Anchialem Haymanot,ETH,09.05.01,Hengelo,06.06.2022
+1338,31:50.10,Hellen Kimaiyo,KEN,08.09.68,Jena,28.05.1992
+1339,31:50.13,Mizuki Noguchi,JPN,03.07.78,Kobe,23.04.2006
+1339,31:50.13A,Sheila Chepkirui,KEN,27.12.90,Nairobi,24.06.2022
+1341,31:50.15,Yelena Sokolova,RUS,27.12.79,Kazan,17.07.2008
+1342,31:50.17,Natsuki Sekiya,JPN,17.05.97,Yamaguchi,08.12.2018
+1343,31:50.18,Mizuki Noguchi,JPN,03.07.78,Fukushima,28.09.2002
+1343,31:50.18,Natasha Wodak,CAN,17.12.81,Gold Coast,09.04.2018
+1345,31:50.22,Alice Timbilil,KEN,01.02.83,Sydney,30.09.2000
+1345,31:50.22A,Margaret Kipkemboi,KEN,09.02.93,Nairobi,24.06.2022
+1347,31:50.35,Sabrina Mockenhaupt,GER,06.12.80,London,03.08.2012
+1348,31:50.36,Ingrid Kristiansen,NOR,21.03.56,Tokyo,27.08.1991
+1348,31:50.36,Susie Power,AUS,26.03.75,Brisbane,07.09.2001
+1350,31:50.39,Wang Dongmei,CHN,03.12.73,Beijing,08.09.1993
+1350,31:50.39,Haruko Okamoto,JPN,19.08.74,Tokyo,10.06.2001
+1352,31:50.40,Maria Guida,ITA,23.01.66,Barakaldo,10.04.1999
+1353,31:50.43,Hitomi Niiya,JPN,26.02.88,Osaka,19.05.2019
+1354,31:50.45,Yoko Miyauchi,JPN,19.06.83,Kobe,22.04.2007
+1355,31:50.47,Preeja Sreedharan,IND,13.03.82,Guangzhou,21.11.2010
+1356,31:50.49,Marie Davenport,IRL,24.01.75,Athínai,27.08.2004
+1357,31:50.50A,Jane Nyaboke,KEN,03.04.02,Nairobi,27.05.2021
+1358,31:50.51,Sue Lee,CAN,07.05.60,Seoul,30.09.1988
+1359,31:50.53,Noriko Matsuoka,JPN,02.05.79,Kobe,23.04.2000
+1360,31:50.56,Mari Ozaki,JPN,16.07.75,Tokyo,10.06.2001
+1361,31:50.58,Keira D'Amato,USA,21.10.84,Palo Alto,29.04.2022
+1362,31:50.63,Ren Xiujuan,CHN,14.09.74,Athínai,05.08.1997
+1363,31:50.75,Celia Sullohern,AUS,05.07.92,Gold Coast,09.04.2018
+1364,31:50.85,Hayley Yelling-Higham,GBR,03.01.74,Palo Alto,30.04.2004
+1364,31:50.85,Ayumi Hagiwara,JPN,01.06.92,Kobe,20.04.2014
+1366,31:50.89,Hiromi Ominami,JPN,15.11.75,Tottori,10.06.2000
+1367,31:50.90,Sun Yingjie,CHN,03.10.77,Shijiazhuang,23.05.2004
+1368,31:50.93,Marie Yamagishi,JPN,16.10.85,Kobe,23.04.2006
+1369,31:50.97,Tegla Loroupe,KEN,09.05.73,Villeneuve d'Ascq,17.06.2001
+1369,31:50.97,Yasuyo Iwamoto,JPN,08.09.76,Kanazawa,29.09.2001
+1371,31:50.98,Zhong Huandi,CHN,28.06.67,Beijing,27.09.1990
+1371,31:50.98,Sinead Diver,AUS,17.02.77,Melbourne,13.12.2018
+1373,31:51.05,Deena Kastor,USA,14.02.73,Sacramento,14.07.2000
+1374,31:51.1A,Pauline Korikwiang,KEN,01.03.88,Nairobi,21.06.2018
+1375,31:51.13,Mizuki Noguchi,JPN,03.07.78,Tokyo,10.06.2001
+1376,31:51.19,Winfridah Kebaso,KEN,16.04.85,Kobe,11.10.2008
+1377,31:51.21,Marleen Renders,BEL,24.12.68,Sevilla,26.08.1999
+1378,31:51.26,Katie McGregor,USA,02.09.77,Palo Alto,30.04.2004
+1379,31:51.27,Lynn Nelson,USA,08.01.62,Indianapolis,22.07.1988
+1380,31:51.29,Bezunesh Bekele,ETH,29.01.83,Uden,03.07.2004
+1381,31:51.32,Olha Skrypak,UKR,02.12.90,Helsinki,01.07.2012
+1382,31:51.35,Betsy Saina,KEN,30.06.88,Beijing,24.08.2015
+1383,31:51.36,Uta Pippig,GER,07.09.65,Oslo,06.07.1991
+1384,31:51.39A,Tirunesh Dibaba,ETH,01.10.85,Nairobi,31.07.2010
+1385,31:51.40,Kathrin Weßel,GER,14.08.67,Seoul,26.09.1988
+1386,31:51.41,Kathrin Weßel,GER,14.08.67,Koblenz,16.05.1996
+1387,31:51.42,Sue Lee,CAN,07.05.60,Seoul,26.09.1988
+1387,31:51.42,Gotytom Gebreslase,ETH,15.01.95,Sollentuna,27.06.2013
+1389,31:51.44,Kavita Raut,IND,05.05.85,Guangzhou,21.11.2010
+1390,31:51.47,Maria Conceição Ferreira,POR,13.03.62,Reims,03.07.1991
+1390,31:51.47,Dominique Scott,RSA,24.06.92,Rio de Janeiro,12.08.2016
+1392,31:51.53,Meraf Bahta,SWE,24.06.89,Hengelo,06.06.2022
+1393,31:51.66,Sarah Pagano,USA,23.07.91,Palo Alto,02.05.2019
+1394,31:51.68,Annette Sergent,FRA,17.11.62,Split,31.08.1990
+1395,31:51.7A,Margaret Kipkemboi,KEN,09.02.93,Nairobi,15.04.2022
+1396,31:51.71,Kylie Risk,AUS,28.11.73,Abbotsford,01.06.1996
+1397,31:51.75,Dera Dida,ETH,26.10.96,London,05.08.2017
+1398,31:51.80,Yumiko Hara,JPN,09.01.82,Fukagawa,25.06.2003
+1399,31:51.84,Erin Finn,USA,19.11.94,Palo Alto,01.05.2016
+1400,31:51.86,Alia Mohamed Saeed,UAE,18.05.91,Incheon,27.09.2014
+1401,31:51.90A,Irene Cheptai,KEN,04.02.92,Nairobi,22.08.2019
+1402,31:51.91,Joanne Pavey,GBR,20.09.73,Birmingham,26.06.2010
+1402,31:51.91,Yuriko Kobayashi,JPN,12.12.88,Fukuoka,21.09.2012
+1404,31:51.98,Elvan Abeylegesse,TUR,11.09.82,Pescara,30.06.2009
+1405,31:52.02,Francie Larrieu-Smith,USA,23.11.52,Seoul,26.09.1988
+1406,31:52.03A,Irene Cheptai,KEN,04.02.92,Nairobi,24.06.2022
+1407,31:52.04,Maria Manuela Machado,POR,09.08.63,Seoul,26.09.1988
+1408,31:52.08,Tabitha Kamau,KEN,03.06.00,Osaka,24.09.2021
+1409,31:52.09,Iris Biba-Pöschl,GER,27.05.64,Oslo,01.07.1989
+1410,31:52.11,Dorota Gruca,POL,05.12.70,Police,08.05.2004
+1410,31:52.11,Vanessa Fraser,USA,27.07.95,San Juan Capistrano,06.03.2022
+1412,31:52.15,Alla Zhilyayeva,RUS,05.02.69,Göteborg,09.08.1995
+1413,31:52.18,Wang Xiuting,CHN,16.02.65,Beijing,27.09.1990
+1414,31:52.2,Petra Wassiluk,GER,27.10.69,Strasbourg,27.06.2000
+1415,31:52.29,Alia Mohamed Saeed,UAE,18.05.91,Wuhan,07.06.2015
+1416,31:52.32,Molly Huddle,USA,31.08.84,Des Moines,21.06.2018
+1417,31:52.34,Sayaka Sato,JPN,27.05.94,Osaka,24.09.2021
+1418,31:52.37,Marina Ivanova,RUS,19.01.82,Zhukovskiy,14.07.2007
+1419,31:52.39,Tegla Loroupe,KEN,09.05.73,Sankt Peterburg,25.07.1994
+1420,31:52.40,Sabrina Mockenhaupt,GER,06.12.80,Borna,20.05.2004
+1421,31:52.42,Mizuki Matsuda,JPN,31.05.95,Yamaguchi,22.06.2018
+1422,31:52.43,Naruha Sato,JPN,02.10.97,Kyoto,11.12.2021
+1423,31:52.44,Esther Wanjiru,KEN,27.03.77,Tokyo,05.10.1997
+1424,31:52.45,Noriko Matsuoka,JPN,02.05.79,Tottori,10.06.2000
+1425,31:52.50,Rie Matsuoka,JPN,09.03.77,Tottori,10.06.2000
+1426,31:52.54,Yuko Kawakami,JPN,01.08.75,Mito,06.05.1996
+1426,31:52.54,Kayoko Fukushi,JPN,25.03.82,Fukuoka,21.09.2012
+1428,31:52.55,Ana Dulce Félix,POR,23.10.82,Ostrava,27.06.2013
+1428,31:52.55,Susan Krumins,NED,08.07.86,Berlin,08.08.2018
+1430,31:52.58,Iulia Olteanu,ROU,26.01.67,Tokyo,27.08.1991
+1431,31:52.59,Dong Li,CHN,09.12.73,Beijing,08.09.1993
+1431,31:52.59,Chiemi Takahashi,JPN,16.02.76,Sydney,30.09.2000
+1433,31:52.65,Takako Kotorida,JPN,02.04.77,Busan,08.10.2002
+1434,31:52.75,Lyudmila Petrova,RUS,07.10.68,Tula,26.07.2000
+1435,31:52.85,Aurora Cunha,POR,31.05.59,Knarvik,04.09.1983
+1436,31:52.86,Clémence Calvin,FRA,17.05.90,Skopje,07.06.2014
+1437,31:52.94,Laura Thweatt,USA,17.12.88,Palo Alto,01.04.2016
+1437,31:52.94,Carrie Verdon,USA,08.03.94,San Juan Capistrano,04.03.2023
+1439,31:52.98,Esther Wanjiru,KEN,27.03.77,Mito,05.05.1998
+1440,31:52.99,Aheza Kiros Abeye,ETH,16.10.85,Stockholm,30.05.2009
+1441,31:53.01,Beleynesh Oljira,ETH,26.06.90,Beijing,24.08.2015
+1442,31:53.07,Yuri Kano,JPN,27.10.78,Niigata,25.09.2004
+1443,31:53.09,Ding Changqin,CHN,27.11.89,Incheon,27.09.2014
+1444,31:53.12,Fernanda Marques,POR,15.04.66,Helsinki,13.08.1994
+1445,31:53.13,Wang Xiuting,CHN,16.02.65,Tokyo,27.08.1991
+1446,31:53.14,Natasha Wodak,CAN,17.12.81,Rio de Janeiro,12.08.2016
+1447,31:53.21,Takako Kotorida,JPN,02.04.77,Fukagawa,30.06.2004
+1448,31:53.27,Wang Xiuting,CHN,16.02.65,Tokyo,16.06.1991
+1448,31:53.27,Shitaya Eshete Habtegebrel,BRN,29.05.90,Guangzhou,21.11.2010
+1450,31:53.31,Anne Audain,NZL,01.11.55,Edinburgh,28.07.1986
+1451,31:53.35,Miachiko Tanaka,JPN,15.12.72,Sendai,16.05.1998
+1452,31:53.36,Wendy Sly,GBR,05.11.59,Tokyo,08.10.1988
+1452,31:53.36,Adriana Fernández,MEX,04.04.71,Walnut,20.04.1996
+1454,31:53.38,Sally Barsosio,KEN,21.03.78,Atlanta,02.08.1996
+1454,31:53.38,Blandine Bitzner-Ducret,FRA,01.12.65,Barakaldo,10.04.1999
+1456,31:53.40,Naomi Sakashita,JPN,25.05.75,Mito,06.05.1996
+1457,31:53.44,Eloise Wellings,AUS,09.11.82,Leiden,11.06.2016
+1458,31:53.46,Philes Ongori,KEN,19.07.86,Berkeley,24.04.2009
+1459,31:53.53,Zhanna Tursunova,RUS,23.10.57,Kyiv,24.06.1984
+1460,31:53.55,Maria Guida,ITA,23.01.66,Pietrasanta,05.05.1996
+1461,31:53.57,Ayumi Hashimoto,JPN,17.06.83,Kobe,25.04.2004
+1462,31:53.61,Constantina Dita,ROU,23.01.70,München,06.08.2002
+1462,31:53.61,Hayley Yelling-Higham,GBR,03.01.74,Watford,11.06.2005
+1464,31:53.68,Yumiko Hara,JPN,09.01.82,Kanazawa,29.09.2001
+1464,31:53.68,Pauline Kamulu,KEN,16.04.95,Saitama,18.05.2019
+1466,31:53.69,Kasumi Nishihara,JPN,01.03.89,Kobe,20.04.2014
+1467,31:53.7,Miwako Yamanaka,JPN,24.05.78,Toyonaka,13.11.2001
+1468,31:53.72,Lornah Kiplagat,NED,01.05.74,Istanbul,12.04.2008
+1469,31:53.78,Liu Min,CHN,29.11.83,Guangzhou,19.11.2001
+1470,31:53.82,Nyla Carroll,NZL,24.11.65,Mito,05.05.1997
+1471,31:53.83,Wanda Panfil,POL,26.01.59,Oslo,06.07.1991
+1472,31:53.89,Paige Stoner,USA,31.01.96,Irvine,13.05.2021
+1473,31:53.92,Chiemi Takahashi,JPN,16.02.76,Mito,05.05.1997
+1474,31:53.96,Zhu Xiaolin,CHN,20.04.84,Beijing,22.05.2008
+1475,31:54.0,Akemi Matsuno,JPN,27.04.68,Kumamoto,29.04.1989
+1476,31:54.01,Hiromi Suzuki,JPN,06.12.68,Göteborg,09.08.1995
+1477,31:54.03,Sylvia Mosqueda,USA,08.04.66,Walnut,20.04.1996
+1478,31:54.05,Kathrin Weßel,GER,14.08.67,Tokyo,27.08.1991
+1479,31:54.06,Lyudmila Biktasheva,RUS,25.07.74,Brisbane,07.09.2001
+1480,31:54.16,Rosa María Morató,ESP,19.06.79,Manresa,13.03.2010
+1481,31:54.20,Aliphine Tuliamuk,KEN,05.04.89,Palo Alto,01.04.2016
+1482,31:54.24,Ana Dias,POR,15.01.74,Camaiore,06.04.2002
+1483,31:54.29,Annemari Sandell,FIN,02.01.77,Göteborg,09.08.1995
+1484,31:54.32,Susan Krumins,NED,08.07.86,Beijing,24.08.2015
+1485,31:54.41,Yumi Sato,JPN,22.12.76,Kobe,24.04.2005
+1486,31:54.43,Mattie Suver,USA,10.09.87,Palo Alto,02.05.2015
+1487,31:54.44,Lynn Jennings,USA,01.07.60,Tokyo,30.08.1991
+1487,31:54.44,Miki Ohira,JPN,28.06.81,Kobe,25.04.2004
+1489,31:54.46,Kumiko Takemoto,JPN,25.11.78,Kobe,23.04.2000
+1490,31:54.50,Sara Hall,USA,15.04.83,Eugene,26.06.2021
+1491,31:54.57,Susan Hobson,AUS,13.03.58,Mito,06.05.1996
+1492,31:54.58A,Pauline Korikwiang,KEN,01.03.88,Nairobi,27.05.2021
+1493,31:54.59,Kayo Sugihara,JPN,24.02.83,Kobe,22.04.2007
+1494,31:54.6,Merima Hashim,ETH,81,Gijón,12.08.2000
+1495,31:54.62,Natosha Rogers,USA,07.05.91,Sacramento,22.06.2017
+1496,31:54.63,Laura Galván,MEX,05.10.91,San Juan Capistrano,05.12.2020
+1497,31:54.64,Gemma Barrachina,ESP,10.04.86,Manresa,13.03.2010
+1498,31:54.65,Maria Conceição Ferreira,POR,13.03.62,Valencia,12.06.1994
+1499,31:54.67,Elizabeth McColgan,GBR,24.05.64,Tokyo,27.08.1991
+1500,31:54.77,Marielle Hall,USA,28.01.92,Eugene,02.07.2016
+1501,31:54.78,Katie McGregor,USA,02.09.77,Palo Alto,19.06.2003
+1502,31:54.83,Jessica Tonn,USA,15.02.92,Palo Alto,03.05.2018
+1503,31:54.86,Wei Yanan,CHN,06.12.81,Guangzhou,19.11.2001
+1504,31:54.87,Sarah Lahti,SWE,18.02.95,Palo Alto,01.05.2016
+1505,31:54.88,Rachel Cliff,CAN,01.04.88,Palo Alto,02.05.2019
+1506,31:54.89,Hiromi Suzuki,JPN,06.12.68,Atlanta,27.07.1996
+1507,31:54.91,Marina Bastos,POR,07.07.71,Gateshead,27.06.2004
+1508,31:54.95,Carolyn Schuwalow,AUS,10.08.65,Melbourne,10.12.1991
+1509,31:55.01,Trihas Gebre,ESP,29.04.90,Burjassot,13.04.2019
+1510,31:55.02,Raisa Sadreydinova,RUS,09.05.50,Kyiv,27.07.1982
+1511,31:55.03,Emily Durgin,USA,15.05.94,Eugene,27.05.2022
+1512,31:55.04,Kathrin Weßel,GER,14.08.67,Göteborg,09.08.1995
+1512,31:55.04,Kaede Hagitani,JPN,10.10.00,Gifu,23.09.2022
+1514,31:55.06,Izumi Maki,JPN,10.12.68,Barcelona,07.08.1992
+1514,31:55.06,Mika Yoshikawa,JPN,16.09.84,Niigata,10.10.2011
+1516,31:55.08,Ikumi Wakamatsu,JPN,22.06.74,Kobe,25.04.1999
+1517,31:55.11,Miachiko Tanaka,JPN,15.12.72,Stockholm,26.06.1997
+1518,31:55.12,Paige Stoner,USA,31.01.96,Eugene,27.05.2022
+1519,31:55.15,Benita Willis,AUS,06.05.79,Helsinki,06.08.2005
+1519,31:55.15,Yoko Shibui,JPN,14.03.79,Kobe,22.04.2007
+1521,31:55.17A,Natasha Wodak,CAN,17.12.81,Lima,06.08.2019
+1522,31:55.19,Hiromi Masudo,JPN,18.07.76,Mito,05.05.1997
+1523,31:55.24,Megumi Oshima,JPN,04.09.75,Yokohama,06.06.2003
+1524,31:55.26,Riko Matsuzaki,JPN,24.12.92,Palo Alto,01.05.2016
+1525,31:55.30,Angela Tooby,GBR,24.10.60,Roma,04.09.1987
+1526,31:55.31,Wang Xueqin,CHN,01.01.91,Hefei,08.09.2011
+1527,31:55.32,Hiromi Ominami,JPN,15.11.75,Tottori,04.06.2004
+1528,31:55.34,Desi Jisa Mokonin,BRN,12.07.97,London,05.08.2017
+1529,31:55.35,Maria Guida,ITA,23.01.66,Atlanta,27.07.1996
+1530,31:55.41,Tirunesh Dibaba,ETH,01.10.85,Osaka,25.08.2007
+1531,31:55.43,Winfridah Kebaso,KEN,16.04.85,Kobe,21.10.2006
+1532,31:55.45A,Caroline Nyaga,KEN,10.07.93,Nairobi,27.05.2021
+1533,31:55.46,Kaitlin Goodman,USA,31.01.87,Palo Alto,05.05.2017
+1534,31:55.47,Natasha Wodak,CAN,17.12.81,London,05.08.2017
+1534,31:55.47A,Ruth Chepngetich,KEN,08.08.94,Nairobi,09.04.2022
+1536,31:55.48,Mao Ichiyama,JPN,29.05.97,Osaka,23.06.2017
+1537,31:55.50A,Meselech Melkamu,ETH,19.04.85,Nairobi,31.07.2010
+1538,31:55.51,Kerstin Preßler,GER,02.02.62,Dortmund,19.07.1990
+1539,31:55.53,Meryem Erdogan,TUR,24.04.90,Marseille,05.06.2010
+1540,31:55.54,Kayoko Fukushi,JPN,25.03.82,Guangzhou,21.11.2010
+1541,31:55.55,Jill Hunter,GBR,14.10.66,Tokyo,27.08.1991
+1542,31:55.56,Jessica Augusto,POR,08.11.81,Skopje,07.06.2014
+1543,31:55.59,Kayoko Fukushi,JPN,25.03.82,Kobe,28.04.2002
+1544,31:55.60,Valeriya Zinenko,UKR,06.11.95,München,15.08.2022
+1545,31:55.61,Caroline Sang,USA,13,27.05.2022
+1546,31:55.65,Clair Fearnley,AUS,07.03.75,Sydney,24.02.2000
+1547,31:55.66,Fernanda Marques,POR,15.04.66,Helsinki,30.06.1992
+1547,31:55.66,Cao Mojie,CHN,10.04.92,Shenyang,11.09.2013
+1549,31:55.67,Chen Qingmei,CHN,04.04.63,Tokyo,08.10.1988
+1549,31:55.67,Derartu Tulu,ETH,21.03.72,Barcelona,01.08.1992
+1549,31:55.67,Ayumi Hagiwara,JPN,01.06.92,Incheon,27.09.2014
+1552,31:55.68,Uta Pippig,GER,07.09.65,Tokyo,30.08.1991
+1552,31:55.68,Gwen Jorgensen,USA,25.04.86,Palo Alto,30.03.2018
+1554,31:55.69,Merima Denboba,ETH,21.08.74,Trento,31.05.2000
+1554,31:55.69A,Joyce Chepkemoi,KEN,03.05.95,Nairobi,20.04.2022
+1556,31:55.72,Elaina Tabb,USA,17.12.91,Palo Alto,02.05.2019
+1557,31:55.73,Julia Mumbi,KEN,25.01.85,Kobe,13.10.2007
+1558,31:55.76,Megumi Oshima,JPN,04.09.75,Fukushima,28.09.2002
+1559,31:55.8,Iris Biba-Pöschl,GER,27.05.64,Ludwigshafen,30.04.1992
+1559,31:55.8A,Vivian Cheruiyot,KEN,11.09.83,Nairobi,15.07.2011
+1559,31:55.80,Jill Hunter,GBR,14.10.66,Helsinki,27.06.1990
+1559,31:55.80,Susanna Sullivan,USA,13.05.90,San Juan Capistrano,04.03.2023
+1563,31:55.81,Yuka Takashima,JPN,12.05.88,Abashiri,06.07.2014
+1564,31:55.83,Natalya Popkova,RUS,21.09.88,Moskva,11.06.2012
+1565,31:55.93,Karolina Szabo,HUN,17.11.61,Stuttgart,30.08.1986
+1566,31:55.94,Kerryn McCann,AUS,02.05.67,Melbourne,06.12.1999
+1567,31:55.95,Ana Dulce Félix,POR,23.10.82,Burjassot,13.04.2019
+1568,31:55.97,Annette Sergent,FRA,17.11.62,Tokyo,27.08.1991
+1568,31:55.97,Iris Biba-Pöschl,GER,27.05.64,Stockholm,26.06.1997
+1570,31:55.99,Klara Kashapova,RUS,29.01.70,Helsinki,13.08.1994
+1571,31:56.0A,Agnes Tirop,KEN,23.10.95,Nairobi,23.06.2017
+1571,31:56.00,Colleen de Reuck,RSA,13.04.64,Cape Town,19.04.1996
+1571,31:56.00,Kazue Ogoshi,JPN,02.03.81,Palo Alto,01.05.2005
+1574,31:56.01,Lyubov Konyukhova,RUS,56,Kyiv,24.06.1984
+1574,31:56.01,Harumi Hiroyama,JPN,02.09.68,Kanazawa,29.09.2001
+1576,31:56.02,Anna Domoradskaya,UKR,17.11.53,Kyiv,24.06.1984
+1577,31:56.07,Viktoriya Klimina,RUS,01.03.76,Tula,14.06.2005
+1578,31:56.09,Sabrina Mockenhaupt,GER,06.12.80,Zeulenroda,05.05.2007
+1579,31:56.1,Rakiya Maraoui-Quétier,FRA,12.09.67,Strasbourg,27.06.2000
+1580,31:56.11,Rina Yamazaki,JPN,06.05.88,Yamaguchi,10.10.2014
+1581,31:56.21,Rose Wanjiru,KEN,11.09.81,Yokohama,06.06.2003
+1582,31:56.23,Rahab Ndungu,KEN,19.10.78,Watford,05.07.2003
+1583,31:56.30,Maria Albertina Dias,POR,26.04.65,Leiria,06.04.1996
+1584,31:56.33,Natalya Artyomova,RUS,05.01.63,Kyiv,02.08.1988
+1585,31:56.35,Jenny Lund,AUS,11.07.61,Melbourne,10.12.1991
+1586,31:56.36,Aniko Kalovics,HUN,13.05.77,Nyíregyháza,09.05.2004
+1587,31:56.4A,Irene Cheptai,KEN,04.02.92,Nairobi,23.06.2017
+1588,31:56.41,Winfridah Kebaso,KEN,16.04.85,Kushiro,17.06.2006
+1589,31:56.42,Lucia Yisak,ETH,28.10.71,Tokyo,27.08.1991
+1590,31:56.43,Sarah Pagano,USA,23.07.91,Palo Alto,03.05.2018
+1591,31:56.45,Zhong Huandi,CHN,28.06.67,Tokyo,10.06.1994
+1592,31:56.47,Zheng Guixia,CHN,24.06.73,Kanazawa,29.09.2001
+1593,31:56.48,Ikumi Wakamatsu,JPN,22.06.74,Tokyo,10.06.2001
+1593,31:56.48,Susanna Sullivan,USA,13.05.90,San Juan Capistrano,06.05.2022
+1595,31:56.49,Agata Balsamo,ITA,11.10.70,Trento,31.05.2000
+1596,31:56.52,Lynn Jennings,USA,01.07.60,Tokyo,27.08.1991
+1596,31:56.52,Alice Wright,GBR,03.11.94,Palo Alto,02.05.2019
+1598,31:56.56,Agata Balsamo,ITA,11.10.70,Lisboa,01.04.2000
+1599,31:56.57,Medhin Beyene,ETH,05.04.02,Hengelo,08.06.2021
+1600,31:56.59,Philes Ongori,KEN,19.07.86,Palo Alto,29.04.2007
+1600,31:56.59,Katrina Coogan,USA,15.11.93,Irvine,13.05.2021
+1602,31:56.61,Nora Leticia Rocha,MEX,18.12.67,Palo Alto,29.04.2007
+1603,31:56.62,Inés Melchor,PER,30.08.86,Palo Alto,02.05.2015
+1604,31:56.66,Svetlana Guskova,MDA,19.08.59,Leningrad,08.06.1986
+1605,31:56.68,Marielle Hall,USA,28.01.92,Des Moines,21.06.2018
+1606,31:56.69,Angela Tooby,GBR,24.10.60,Stuttgart,30.08.1986
+1607,31:56.70,Pauline Kamulu,KEN,16.04.95,Fukagawa,07.07.2016
+1608,31:56.72,Sally Kipyego,KEN,19.12.85,Palo Alto,29.04.2007
+1609,31:56.74,Carole Rouillard,CAN,15.03.60,Tokyo,27.08.1991
+1609,31:56.74,Alia Mohamed Saeed,UAE,18.05.91,Rio de Janeiro,12.08.2016
+1611,31:56.77,Tegla Loroupe,KEN,09.05.73,Hechtel,19.07.1997
+1611,31:56.77,Eyerusalem Kuma,ETH,04.11.81,Brazzaville,17.07.2004
+1613,31:56.78,Franziska Moser-Rochat,SUI,17.08.66,Barakaldo,10.04.1999
+1613,31:56.78,Nami Kurosawa,JPN,26.12.78,Kanazawa,29.09.2001
+1615,31:56.80,Kerstin Preßler,GER,02.02.62,Roma,04.08.1987
+1615,31:56.80,Liu Ruihuan,CHN,29.06.92,Shenyang,11.09.2013
+1615,31:56.80,Jessica Judd,GBR,07.01.95,Tokyo,07.08.2021
+1618,31:56.81,Mari Ozaki,JPN,16.07.75,Kobe,25.04.2004
+1618,31:56.81,Yuka Takashima,JPN,12.05.88,Yamaguchi,10.10.2014
+1620,31:56.84,Dominique Scott,RSA,24.06.92,Palo Alto,01.05.2016
+1621,31:56.86,Rachel Cliff,CAN,01.04.88,Palo Alto,03.05.2018
+1622,31:56.90,Helena Javornik,SLO,26.03.66,Athínai,12.04.2003
+1622,31:56.90,Joanne Pavey,GBR,20.09.73,Watford,14.06.2008
+1624,31:56.92,Yuki Mitsunobu,JPN,09.11.92,Abashiri,16.07.2015
+1624,31:56.92,Tsehay Gemechu,ETH,12.12.98,Rabat,29.08.2019
+1626,31:56.93,Akemi Matsuno,JPN,27.04.68,Beijing,27.09.1990
+1627,31:56.94,Masako Chiba,JPN,18.07.76,Kitakyushu,08.05.1999
+1627,31:56.94,Libbie Hickman,USA,17.02.65,Sydney,30.09.2000
+1629,31:56.97,Yvonne Murray,GBR,04.10.64,Victoria,24.08.1994
+1630,31:57.0,Galina Zakharova,RUS,07.09.56,Chelyabinsk,03.09.1982
+1630,31:57.00,Yelena Vyazova,UKR,18.04.60,Leningrad,08.06.1986
+1630,31:57.00,Deena Kastor,USA,14.02.73,Indianapolis,21.06.2007
+1633,31:57.01,Olivia Pratt,USA,21.01.94,San Juan Capistrano,06.05.2022
+1634,31:57.02,Masae Ueoka,JPN,06.10.72,Tokyo,05.10.1997
+1634,31:57.02,Gunhild Haugen,NOR,01.06.72,München,06.08.2002
+1634,31:57.02,Jane Wanjiku,KEN,14.06.79,Kushiro,17.06.2006
+1634,31:57.02,Jessica Augusto,POR,08.11.81,Lisboa,29.03.2014
+1638,31:57.03,Nadia Ejjafini,ITA,08.11.80,London,03.08.2012
+1639,31:57.04,Dulce María Rodríguez,MEX,14.08.72,Palo Alto,29.04.2007
+1640,31:57.10,Merima Denboba,ETH,21.08.74,Villeneuve d'Ascq,17.06.2001
+1641,31:57.15,Marie-Louise Hamrin,SWE,19.04.57,Helsinki,17.08.1990
+1642,31:57.19,Lynn Jennings,USA,01.07.60,Sacramento,16.06.1995
+1643,31:57.23,Izumi Maki,JPN,10.12.68,Tokyo,27.08.1991
+1643,31:57.23,Sabrina Mockenhaupt,GER,06.12.80,Oslo,04.06.2011
+1643,31:57.23,Darya Maslova,KGZ,06.05.95,London,05.08.2017
+1646,31:57.24,Delillah Asiago,KEN,24.02.72,Kobe,03.05.1992
+1647,31:57.26,Amy Rudolph,USA,18.09.73,Palo Alto,29.04.2007
+1648,31:57.35,Grace Kimanzi,KEN,01.03.92,Fukagawa,09.07.2015
+1649,31:57.38,Jennifer Rhines,USA,01.07.74,Palo Alto,21.06.2002
+1649,31:57.38,Alina Prokopyeva,RUS,16.08.85,Moskva,11.06.2012
+1651,31:57.41,Sally Barsosio,KEN,21.03.78,Sydney,30.09.2000
+1652,31:57.42,Sitora Khamidova,UZB,12.05.89,London,05.08.2017
+1653,31:57.43,Maria Albertina Dias,POR,26.04.65,Villeneuve d'Ascq,17.06.1995
+1654,31:57.44,Yukiko Akaba,JPN,18.10.79,Hiroshima,25.06.2009
+1655,31:57.49,Aster Bacha,ETH,30.09.83,Villeneuve d'Ascq,17.06.2001
+1656,31:57.50,Megumi Seike,JPN,26.02.87,Kobe,13.10.2007
+1657,31:57.54,Irene Kwambai,KEN,25.10.78,Brazzaville,17.07.2004
+1658,31:57.56,Anne Audain,NZL,01.11.55,Auckland,17.03.1987
+1658,31:57.56,Päivi Tikkanen,FIN,19.01.60,Helsinki,27.06.1990
+1658,31:57.56,Chelsea Blaase,USA,10.04.94,Palo Alto,03.05.2018
+1661,31:57.58,Hiromi Ominami,JPN,15.11.75,Kobe,25.04.2004
+1662,31:57.64,Sylvia Mosqueda,USA,08.04.66,Walnut,17.04.2004
+1663,31:57.66,Rose Wanjiru,KEN,11.09.81,Kumagaya,19.05.2018
+1664,31:57.67,Olivera Jevtic,SRB,24.07.77,Sevilla,26.08.1999
+1665,31:57.71,Irina Mikitenko,GER,23.08.72,Menden,03.05.2008
+1666,31:57.72,Molly Grabill,USA,31.08.92,San Juan Capistrano,06.03.2022
+1667,31:57.76,Makiko Kawashima,JPN,05.08.77,Okayama,27.09.2003
+1668,31:57.77,Takako Kotorida,JPN,02.04.77,Kobe,28.04.2002
+1668,31:57.77,Sitora Hamidova,UZB,12.05.89,Rio de Janeiro,12.08.2016
+1670,31:57.8A,Sally Kipyego,KEN,19.12.85,Nairobi,15.07.2011
+1670,31:57.80,Svetlana Guskova,MDA,19.08.59,Moskva,09.06.1985
+1672,31:57.81,Momoka Kawaguchi,JPN,28.06.98,Kyoto,10.12.2022
+1673,31:57.82,Ayuko Suzuki,JPN,08.10.91,Yamaguchi,22.06.2018
+1674,31:57.83,Lynn Jennings,USA,01.07.60,Eugene,16.06.1993
+1675,31:57.84,Izumi Maki,JPN,10.12.68,Oslo,06.07.1991
+1676,31:57.85,Yelena Samokhvalova,RUS,21.11.80,Helsinki,06.08.2005
+1676,31:57.85,Sula Utura,ETH,08.02.90,Hengelo,17.06.2015
+1676,31:57.85,Carrie Dimoff,USA,31.05.83,Palo Alto,30.03.2018
+1676,31:57.85A,Alice Nawowuna,KEN,02.01.94,Nairobi,09.04.2022
+1680,31:57.87,Marleen Renders,BEL,24.12.68,Hechtel,19.07.1997
+1681,31:57.90,Claudia Lokar,GER,09.02.64,Minden,09.08.1995
+1682,31:57.91,Mao Ichiyama,JPN,29.05.97,Palo Alto,03.05.2018
+1683,31:57.92,Moeno Nakamura,JPN,21.03.90,Abashiri,11.07.2016
+1684,31:57.94,Hiromi Masudo,JPN,18.07.76,Fukuoka,10.05.1997
+1684,31:57.94,Sara Slattery,USA,02.10.81,Helsinki,26.07.2006
+1686,31:57.95,Wei Li,CHN,29.06.72,Nanjing,08.05.1996
+1686,31:57.95,Kaori Morita,JPN,19.09.95,Yamaguchi,08.12.2018
+1686,31:57.95,Zeineba Yimer,ETH,17.06.98,Rabat,29.08.2019
+1689,31:57.97,Juliet Chekwel,UGA,25.05.90,Gold Coast,09.04.2018
+1690,31:57.98,Katie McGregor,USA,02.09.77,Palo Alto,02.05.2003
+1690,31:57.98,Derebe Alemu,ETH,05.06.83,Barakaldo,10.07.2004
+1692,31:57.99,Naoko Takahashi,JPN,06.05.72,Naruto,12.06.1998
+1692,31:57.99,Diane Nukuri,BDI,01.12.84,Palo Alto,01.05.2016
+1694,31:58.00,Jessica Andrews,GBR,01.10.92,London,21.05.2016
+1695,31:58.05,Mari Ozaki,JPN,16.07.75,Kobe,25.04.1999
+1696,31:58.08,Benita Willis,AUS,06.05.79,Melbourne,21.03.2006
+1697,31:58.14,Elva Dryer,USA,26.09.71,Sacramento,16.07.2004
+1698,31:58.17,Kaede Hagitani,JPN,10.10.00,Fukagawa,22.06.2022
+1699,31:58.21,Philes Ongori,KEN,19.07.86,Yamagata,26.09.2008
+1700,31:58.23,Gebeyanesh Ayele,ETH,01.05.95,Hengelo,10.06.2017
+1701,31:58.24,Carolyne Jepkosgei,KEN,91,Tel Aviv,24.04.2019
+1702,31:58.25,Marie-Louise Hamrin,SWE,19.04.57,Split,31.08.1990
+1702,31:58.25,Isobel Batt-Doyle,AUS,14.09.95,San Juan Capistrano,06.05.2022
+1704,31:58.33,Jordan Hasay,USA,12.09.91,Palo Alto,01.05.2016
+1705,31:58.34,Jennifer Rhines,USA,01.07.74,Sacramento,14.07.2000
+1705,31:58.34,Jiang Xiaoli,CHN,06.04.89,Shenyang,11.09.2013
+1707,31:58.36,Sun Yingjie,CHN,03.10.77,Guangzhou,08.04.2003
+1707,31:58.36,Amy Cragg,USA,21.01.84,Eugene,22.06.2012
+1709,31:58.37A,Jackline Chepngeno,KEN,16.01.93,Nairobi,27.05.2016
+1710,31:58.39,Liz Yelling,GBR,05.12.74,Manchester,30.07.2002
+1711,31:58.43,Susie Power,AUS,26.03.75,Melbourne,14.12.2002
+1712,31:58.44,Derebe Alemu,ETH,05.06.83,Valkenswaard,26.06.2007
+1713,31:58.45,Konjit Tilahun,ETH,22.09.87,Kobe,13.10.2007
+1714,31:58.46,Yuki Munehisa,JPN,15.12.97,Abashiri,11.07.2016
+1715,31:58.47,Molly Huddle,USA,31.08.84,Des Moines,25.07.2019
+1716,31:58.49,Tomoko Hatori,JPN,28.05.81,Tokyo,02.06.2005
+1717,31:58.50,Flomena Cheyech,KEN,05.07.82,Kobe,11.10.2008
+1718,31:58.52,Olga Kravtsova,BLR,25.06.81,Grodno,05.07.2007
+1718,31:58.52,Ayumi Hagiwara,JPN,01.06.92,Kobe,21.04.2019
+1720,31:58.54,Kim Conley,USA,14.03.86,Sacramento,06.12.2015
+1721,31:58.59,Wakana Itsuki,JPN,07.04.94,Kyoto,10.12.2022
+1722,31:58.63,Hellen Kimaiyo,KEN,08.09.68,Barcelona,01.08.1992
+1722,31:58.63,Farida Fatès,FRA,02.02.62,Leiria,06.04.1996
+1724,31:58.68,Libbie Hickman,USA,17.02.65,Sacramento,14.07.2000
+1725,31:58.71,Doricah Obare,KEN,10.01.90,Fukushima,17.05.2014
+1725,31:58.71,Yuka Ando,JPN,16.03.94,Abashiri,11.07.2016
+1727,31:58.73,Mika Yoshikawa,JPN,16.09.84,Kobe,22.04.2012
+1728,31:58.76,Klara Kashapova,RUS,29.01.70,Tula,26.07.2000
+1729,31:58.77,Atsuko Morigaki,JPN,04.09.76,Fukuoka,10.05.1997
+1730,31:58.78,Dera Dida,ETH,26.10.96,Rabat,29.08.2019
+1731,31:58.82,Zhong Huandi,CHN,28.06.67,Tokyo,27.08.1991
+1732,31:58.84,Lyudmila Petrova,RUS,07.10.68,Atlanta,27.07.1996
+1733,31:58.86,Esther Wanjiru,KEN,27.03.77,Mito,06.05.1996
+1734,31:58.88,Pauline Kamulu,KEN,16.04.95,Chitose,17.07.2021
+1734,31:58.88,Marielle Hall,USA,28.01.92,Eugene,27.05.2022
+1736,31:58.90,Kylie Risk,AUS,28.11.73,Melbourne,06.12.1999
+1737,31:58.93,Yoshiko Fujinaga,JPN,15.08.81,Kobe,23.04.2000
+1738,31:58.95,Kazue Ogoshi,JPN,02.03.81,Brunswick,01.07.2000
+1739,31:58.97,Rino Goshima,JPN,29.10.97,Tokyo,07.05.2022
+1740,31:58.99,Anna Rohrer,USA,27.02.98,Palo Alto,31.03.2017
+1741,31:59.00A,Risper Biyaki Gesabwa,MEX,10.02.89,Lima,06.08.2019
+1742,31:59.01,Terumi Asoshina,JPN,02.08.82,Tokyo,02.06.2005
+1743,31:59.06,Aki Fujikawa,JPN,14.11.78,Yokohama,06.06.2003
+1744,31:59.09,Natosha Rogers,USA,07.05.91,Eugene,26.06.2021
+1745,31:59.1A,Priscah Cherono,KEN,27.06.80,Nairobi,15.07.2011
+1745,31:59.1A,Alice Nawowuna,KEN,02.01.94,Nairobi,21.06.2018
+1747,31:59.11,Simone Alves da,Silva,BRA,1 Buenos Aires,05.06.2011
+1748,31:59.12,Yang Siju,CHN,19.04.73,Nanjing,08.05.1996
+1748,31:59.12,Mizuki Matsuda,JPN,31.05.95,Osaka,23.09.2016
+1750,31:59.13,Maria Conceição Ferreira,POR,13.03.62,Tokyo,27.08.1991
+1751,31:59.18,Michiko Ogawa,JPN,30.12.83,Tokyo,02.06.2005
+1752,31:59.21,Asmae Leghzaoui,MAR,30.08.76,Sydney,30.09.2000
+1752,31:59.21,Natosha Rogers,USA,07.05.91,Eugene,22.06.2012
+1754,31:59.23,Alia Gray,USA,12.11.88,Palo Alto,01.05.2016
+1755,31:59.27,Kathy Butler,GBR,22.10.73,Walnut,20.04.2001
+1756,31:59.28,Mizuki Noguchi,JPN,03.07.78,Yokohama,06.06.2003
+1757,31:59.29,Marie Davenport,IRL,24.01.75,Palo Alto,03.05.2002
+1758,31:59.32,Alina Gherasim,ROU,10.11.71,Camaiore,06.04.2002
+1759,31:59.36A,Linet Masai,KEN,05.12.89,Nairobi,31.07.2010
+1760,31:59.37,Adanech Zekiros,ETH,26.03.82,Sollentuna,28.06.2005
+1761,31:59.41,Kazue Ogoshi,JPN,02.03.81,Tottori,10.06.2000
+1762,31:59.44,Makena Morely,USA,21.11.96,Eugene,27.05.2022
+1763,31:59.46,Amy Begley,USA,11.01.78,Portland,31.05.2008
+1764,31:59.49,Jeralyn Poe,USA,8,Juan Capistrano,06.05.2022
+1765,31:59.5A,Pauline Korikwiang,KEN,01.03.88,Nairobi,15.07.2011
+1766,31:59.54,Mizuki Matsuda,JPN,31.05.95,London,05.08.2017
+1767,31:59.55,Mari Ozaki,JPN,16.07.75,Kobe,16.10.2004
+1768,31:59.56,Kiyomi Ogawa,JPN,15.09.81,Tokyo,02.06.2005
+1769,31:59.60,Harumi Hiroyama,JPN,02.09.68,Mito,09.05.2000
+1769,31:59.60,Yuka Takashima,JPN,12.05.88,Kyoto,10.12.2022
+1771,31:59.63,Silvia Sommaggio,ITA,20.11.69,Barakaldo,10.04.1999
+1772,31:59.64,Sayoko Sato,JPN,23.10.77,Kobe,21.04.2019
+1773,31:59.69,Shalane Flanagan,USA,07.08.81,Eugene,22.06.2012
+1774,31:59.70,Raisa Smekhnova,BLR,16.09.50,Kyiv,24.06.1984
+1775,31:59.72,Misaki Kato,JPN,15.06.91,Osaka,23.09.2016
+1776,31:59.80,Yuka Hori,JPN,13.06.96,Osaka,23.06.2017
+1777,31:59.81,Elva Dryer,USA,26.09.71,Saint-Denis,23.08.2003
+1778,31:59.87,Chiemi Takahashi,JPN,16.02.76,Kobe,22.04.2001
+1779,31:59.88,Stephanie Bruce,USA,14.01.84,Palo Alto,31.03.2017
+1780,31:59.89,Nozomi Tanaka,JPN,04.09.99,Kyoto,17.01.2021
+1781,31:59.91,Naomi Sakashita,JPN,25.05.75,Kobe,22.04.2001
+1782,31:59.93,Wang Yanfang,CHN,10.07.71,Shanghai,19.10.1997
+1782,31:59.93,Zhou Chunxiu,CHN,15.11.78,Jinan,26.10.2009
+1784,31:59.94,Workitu Ayanu,ETH,19.04.87,Utrecht,17.06.2005
+1784,31:59.94,Kaori Morita,JPN,19.09.95,Yamaguchi,09.12.2017
+1786,31:59.98,Tatyana Golovchenko,UKR,13.02.80,Ferrara,07.04.2007
+1787,32:00.02,Sally Chepyego,KEN,03.10.85,Kobe,21.04.2013
+1788,32:00.03,Kazue Ogoshi,JPN,02.03.81,Kakogawa,20.05.2000
+1788,32:00.03,Rachel Cliff,CAN,01.04.88,London,05.08.2017
+1790,32:00.05,Liu Lijuan,CHN,01.04.88,Wuhan,02.11.2007
+1791,32:00.08,Tomoko Ishii,JPN,14.10.83,Fukagawa,29.06.2005
+1792,32:00.11,Rocio Rios,ESP,13.03.69,Leiria,06.04.1996
+1793,32:00.15,Hanae Tanaka,JPN,12.02.90,Yamaguchi,10.10.2014
+1794,32:00.17,Anne Audain,NZL,01.11.55,Wellington,09.12.1989
+1795,32:00.24,Tatyana Pozdnyakova,UKR,04.03.56,Tokyo,27.08.1991
+1796,32:00.25,Iulia Olteanu,ROU,26.01.67,La Celle-Saint-Cloud,16.06.1996
+1796,32:00.25,Pauline Wanguru Kiragu,KEN,26.08.80,Kushiro,17.06.2006
+1796,32:00.25,Eri Makikawa,JPN,22.04.93,Kobe,20.04.2014
+1799,32:00.26,Charlotte Teske,FRG,23.11.49,Knarvik,04.09.1983
+1800,32:00.27,Wang Yongmei,CHN,03.10.68,Tokyo,27.08.1991
+1801,32:00.32,Everline Kimwei,KEN,25.08.87,Shizuoka,30.04.2007
+1802,32:00.37,Anne Marie Lauck,USA,07.03.69,Eugene,16.06.1993
+1802,32:00.37,Yukiko Akaba,JPN,18.10.79,Beijing,15.08.2008
+1804,32:00.38,Catherina McKiernan,IRL,30.11.69,Atlanta,02.08.1996
+1805,32:00.4,Margaret Atodonyang,KEN,10.10.78,Strasbourg,27.06.2000
+1806,32:00.42A,Lilian Chebii,KEN,02.06.94,Nairobi,09.04.2022
+1807,32:00.43,Hayley Yelling-Higham,GBR,03.01.74,Gateshead,27.06.2004
+1808,32:00.46,Erin Finn,USA,19.11.94,Sacramento,22.06.2017
+1809,32:00.52,Kathrin Weßel,GER,14.08.67,Trier,15.05.1993
+1810,32:00.55,Sonja Stolic,SRB,21.04.80,München,06.08.2002
+1810,32:00.55,Karissa Schweizer,USA,04.05.96,Palo Alto,30.03.2018
+1812,32:00.72,Deena Kastor,USA,14.02.73,Eugene,26.06.1999
+1813,32:00.73,Ayumi Hagiwara,JPN,01.06.92,Fukuoka,21.09.2012
+1814,32:00.75,Megumi Oshima,JPN,04.09.75,Tokyo,10.06.2001
+1815,32:00.76,Uta Pippig,GER,07.09.65,Tokyo,27.08.1991
+1815,32:00.76,Minami Yamanouchi,JPN,21.12.92,Osaka,19.05.2019
+1817,32:00.78,Leah Malot,KEN,07.06.72,Radès,09.08.2002
+1818,32:00.85,Sabrina Mockenhaupt,GER,06.12.80,Athínai,27.08.2004
+1819,32:00.91,Elva Dryer,USA,26.09.71,Carson,24.06.2005
+1820,32:00.93,Tegla Loroupe,KEN,09.05.73,Athínai,05.08.1997
+1821,32:00.94,Kim Conley,USA,14.03.86,Palo Alto,29.04.2012
+1822,32:00.95,Florina Pana,ROU,20.01.73,Bucuresti,04.07.1999
+1823,32:01.0A,Alice Nawowuna,KEN,02.01.94,Nairobi,26.04.2022
+1824,32:01.01,Margaret Maury,FRA,15.05.74,Maribor,03.04.2004
+1825,32:01.04,Miki Igarashi,JPN,22.08.71,Tokyo,27.08.1991
+1825,32:01.04,Naomi Sakashita,JPN,25.05.75,Tottori,10.06.2000
+1825,32:01.04,Kathy Butler,GBR,22.10.73,Göteborg,07.08.2006
+1825,32:01.04,Madeleine Hills,AUS,15.05.87,Gold Coast,09.04.2018
+1829,32:01.05,Kathrin Weßel,GER,14.08.67,Oslo,04.07.1987
+1830,32:01.07,Yoshimi Ozaki,JPN,01.07.81,Kawasaki,27.06.2008
+1831,32:01.13,Risper Biyaki Gesabwa,MEX,10.02.89,Irvine,13.05.2021
+1832,32:01.16,Dolshi Tesfu,ERI,17.06.99,Hengelo,06.06.2022
+1833,32:01.17,Wanda Panfil,POL,26.01.59,Seattle,26.07.1990
+1833,32:01.17,Sylvia Mosqueda,USA,08.04.66,Watford,12.06.2004
+1835,32:01.23,Maria Conceição Ferreira,POR,13.03.62,Villeneuve d'Ascq,17.06.1995
+1835,32:01.23,Kaori Yoshida,JPN,04.08.81,Kanazawa,29.09.2001
+1837,32:01.25,Yuko Kawakami,JPN,01.08.75,Bangkok,14.12.1998
+1837,32:01.25,Lauren Paquette,USA,27.06.86,San Juan Capistrano,05.12.2020
+1837,32:01.25,Hina Yanagitari,JPN,21.02.00,Kyoto,10.12.2022
+1840,32:01.28,Madeline Alm,USA,09.01.93,San Juan Capistrano,06.03.2022
+1841,32:01.34,Teyiba Erkasso,ETH,30.10.82,Saint-Maur,16.06.2006
+1842,32:01.42,Sara Moreira,POR,17.10.85,Skopje,07.06.2014
+1843,32:01.43,Kiyomi Ogawa,JPN,15.09.81,Kanazawa,29.09.2001
+1843,32:01.43,Hayley Yelling-Higham,GBR,03.01.74,Utrecht,17.05.2007
+1845,32:01.51,Esther Wanjiru,KEN,27.03.77,Osaka,09.06.1996
+1846,32:01.52,Hiromi Katayama,JPN,15.12.74,Fukuoka,10.05.1997
+1846,32:01.52,Laura Thweatt,USA,17.12.88,San Juan Capistrano,06.03.2022
+1848,32:01.57,Mariko Hara,JPN,27.12.70,Tokyo,10.06.1994
+1848,32:01.57,Alina Alekseyeva,RUS,16.08.85,Cheboksary,23.07.2009
+1850,32:01.60,Lara Tamsett,AUS,12.10.88,Palo Alto,29.04.2012
+1851,32:01.61,Yang Siju,CHN,19.04.73,Athínai,05.08.1997
+1852,32:01.67,Ednah Kurgat,USA,15.06.91,Eugene,27.05.2022
+1853,32:01.68,Nyla Carroll,NZL,24.11.65,Melbourne,14.12.1995
+1854,32:01.73,Naomi Sakashita,JPN,25.05.75,Tokyo,10.06.2001
+1855,32:01.74,Kaori Morita,JPN,19.09.95,Kobe,21.04.2019
+1856,32:01.75,Maria Guida,ITA,23.01.66,Villeneuve d'Ascq,25.06.1995
+1857,32:01.76,Ikumi Wakamatsu,JPN,22.06.74,Kitakyushu,09.05.1998
+1858,32:01.79,Marleen Renders,BEL,24.12.68,Seraing,26.07.2000
+1858,32:01.79,Liz Costello,USA,23.02.88,Palo Alto,02.05.2015
+1860,32:01.8,Fernanda Marques,POR,15.04.66,Braga,26.07.1994
+1860,32:01.8A,Irene Kwambai,KEN,25.10.78,Nairobi,25.06.2005
+1860,32:01.80,Marleen Renders,BEL,24.12.68,Jambes,16.07.1998
+1860,32:01.80,Yukari Sahaku,JPN,05.11.88,Hiroshima,25.06.2009
+1864,32:01.83,Gulshat Fazlitdinova,RUS,28.08.92,Moskva,11.06.2013
+1865,32:01.86,Anne Marie Lauck,USA,07.03.69,Sacramento,14.07.2000
+1866,32:01.88,Naomi Yoshida,JPN,14.04.69,Mito,07.05.1995
+1867,32:01.91,Junko Kataoka,JPN,13.06.70,Fukuoka,23.09.1994
+1868,32:01.96,Konjit Tilahun,ETH,22.09.87,Fukagawa,11.07.2007
+1868,32:01.96A,Irene Kimais,KEN,10.10.98,Nairobi,16.05.2021
+1870,32:02.00,Asnakech Awoke,ETH,01.11.95,Hengelo,06.06.2022
+1871,32:02.03,Christelle Daunay,FRA,05.12.74,Ribeira Brava,06.06.2009
+1872,32:02.05,Kara Goucher,USA,09.07.78,Osaka,25.08.2007
+1873,32:02.06,Esther Wanjiru,KEN,27.03.77,Gifu,13.06.1999
+1873,32:02.06,Kiyomi Ogawa,JPN,15.09.81,Fukagawa,29.06.2005
+1875,32:02.07,Kim Conley,USA,14.03.86,Sacramento,26.06.2014
+1876,32:02.09,Ababel Yeshaneh,ETH,22.07.91,Moskva,11.08.2013
+1877,32:02.10A,Perine Nengampi,KEN,89,Nairobi,27.05.2021
+1878,32:02.13,Maria Albertina Machado,POR,25.12.61,Seoul,30.09.1988
+1879,32:02.15,Kayo Sugihara,JPN,24.02.83,Kawasaki,27.06.2008
+1880,32:02.16,Makiko Kawashima,JPN,05.08.77,Kanazawa,29.09.2001
+1881,32:02.19,Emily Sisson,USA,12.10.91,Des Moines,25.07.2019
+1881,32:02.19,Molly Seidel,USA,12.07.94,Portland,28.05.2021
+1883,32:02.2A,Alice Timbilil,KEN,01.02.83,Eldoret,22.05.1999
+1883,32:02.2,Maria Abel,ESP,23.10.74,Gijón,12.08.2000
+1885,32:02.21,Wang Xiuting,CHN,16.02.65,Oslo,02.07.1988
+1886,32:02.22,Alexi Pappas,USA,29.03.90,Palo Alto,02.05.2015
+1887,32:02.28,Trina Painter,USA,25.06.66,Walnut,20.04.1996
+1888,32:02.32,Adriana Fernández,MEX,04.04.71,Abbotsford,10.06.2007
+1889,32:02.37,Nadia Dandolo,ITA,11.09.62,Split,31.08.1990
+1889,32:02.37,Elana Meyer,RSA,10.10.66,Villeneuve d'Ascq,17.06.2001
+1891,32:02.38,Hiromi Ominami,JPN,15.11.75,Helsinki,06.08.2005
+1891,32:02.38,Liv Westphal,FRA,22.12.93,London,06.07.2019
+1893,32:02.39,Grace Kimanzi,KEN,01.03.92,Osaka,21.09.2018
+1894,32:02.41,Hiromi Suzuki,JPN,06.12.68,Kobe,03.05.1992
+1895,32:02.44,Olga Bondarenko,RUS,02.06.60,Moskva,12.06.1993
+1896,32:02.48,Linet Masai,KEN,05.12.89,London,21.05.2016
+1897,32:02.53A,Irene Kimais,KEN,10.10.98,Nairobi,24.06.2022
+1898,32:02.55,Marleen Renders,BEL,24.12.68,La Celle-Saint-Cloud,16.06.1996
+1899,32:02.58,Kiyomi Ogawa,JPN,15.09.81,Kobe,24.04.2005
+1900,32:02.61,Eloise Wellings,AUS,09.11.82,Melbourne,05.12.2015
+1901,32:02.65,Mao Ichiyama,JPN,29.05.97,Fukagawa,08.07.2020
+1902,32:02.67,Natalya Puchkova,RUS,28.01.87,Moskva,11.06.2013
+1903,32:02.74,Kellyn Taylor,USA,22.07.86,Des Moines,25.07.2019
+1904,32:02.76,Jeralyn Poe,USA,3rB,Juan Capistrano,06.03.2022
+1905,32:02.78,Doricah Obare,KEN,10.01.90,Kumagaya,20.09.2013
+1906,32:02.80,Tara Welling,USA,14.06.89,Palo Alto,01.04.2016
+1907,32:02.81,Naoko Takahashi,JPN,06.05.72,Kagoshima,05.10.1996
+1908,32:02.86,Lidiya Vasilevskaya,RUS,01.04.73,Tula,26.07.2000
+1909,32:02.89,Dorthe Rasmussen,DEN,27.01.60,Knarvik,04.09.1983
+1910,32:02.92,Alina Prokopyeva,RUS,16.08.85,Moskva,11.06.2013
+1911,32:02.94,Berhane Adere,ETH,21.07.73,Villeneuve d'Ascq,17.06.1995
+1912,32:02.95,Naomi Yoshida,JPN,14.04.69,Tokyo,10.06.1994
+1913,32:02.96,Jelena Prokopcuka,LAT,21.09.76,Villeneuve d'Ascq,17.06.2001
+1914,32:02.99,Yelena Nagovitsyna,RUS,07.12.82,Moskva,11.06.2013
+1915,32:03.0A,Sharon Cherop,KEN,16.03.84,Nairobi,15.07.2011
+1915,32:03.0A,Yalemzerf Yehualaw,ETH,03.08.99,Addis Abeba,16.01.2021
+1915,32:03.00,Mari Ozaki,JPN,16.07.75,Tottori,10.06.2000
+1918,32:03.02,Lidiya Grigoryeva,RUS,21.01.74,Zhukovskiy,14.07.2007
+1919,32:03.03,Jip Vastenburg,NED,21.03.94,Beijing,24.08.2015
+1920,32:03.06,Annette Peters,USA,31.05.65,Walnut,14.04.2000
+1921,32:03.07,Nadezhda Galyamova,UKR,22.07.59,Split,31.08.1990
+1921,32:03.07,Alisha Williams,USA,05.02.82,Palo Alto,29.04.2012
+1923,32:03.17,Mari Ozaki,JPN,16.07.75,Kawasaki,27.06.2008
+1924,32:03.18,Doricah Obare,KEN,10.01.90,Palo Alto,02.05.2015
+1925,32:03.21,Susanna Sullivan,USA,13.05.90,San Juan Capistrano,06.03.2022
+1926,32:03.22,Fernanda Ribeiro,POR,23.06.69,Barakaldo,02.04.2005
+1927,32:03.26,Yukako Goto,JPN,16.09.73,Kanazawa,29.09.2001
+1928,32:03.28,Jordan Hasay,USA,12.09.91,Sacramento,26.06.2014
+1928,32:03.28,Grace Kimanzi,KEN,01.03.92,Kobe,21.04.2019
+1930,32:03.3,Kayoko Fukushi,JPN,25.03.82,Munakata,26.12.2001
+1930,32:03.30,Everlyn Kemboi,KEN,2r1,Alto,31.03.2023
+1932,32:03.35,Harumi Hiroyama,JPN,02.09.68,Toyama,01.10.1995
+1933,32:03.37,Lynn Jennings,USA,01.07.60,Oslo,27.07.1985
+1933,32:03.37,Isabel Barreiro,ESP,26.04.99,Burjassot,25.03.2023
+1935,32:03.38,Misaki Kato,JPN,15.06.91,Osaka,24.09.2021
+1936,32:03.39,Trihas Gebre,ETH,29.04.90,Ostrava,27.06.2013
+1937,32:03.40,Chiemi Takahashi,JPN,16.02.76,Tokyo,10.06.2001
+1937,32:03.40,Rina Nabeshima,JPN,16.12.93,Kumagaya,18.09.2020
+1939,32:03.42,Olga Appell,USA,02.08.63,Walnut,16.04.1994
+1940,32:03.43,Sairi Maeda,JPN,07.11.91,Yamaguchi,10.10.2014
+1941,32:03.45,Beth Potter,GBR,27.12.91,Palo Alto,01.04.2016
+1942,32:03.46,Mihaela Botezan,ROU,21.11.76,Edmonton,07.08.2001
+1942,32:03.46,Lisa Uhl,USA,31.08.87,Eugene,22.06.2012
+1944,32:03.48,Naruha Sato,JPN,02.10.97,Kyoto,10.12.2022
+1945,32:03.55,Charlotte Purdue,GBR,10.06.91,Palo Alto,29.04.2012
+1946,32:03.57,Karolina Nadolska,POL,06.09.81,Skopje,07.06.2014
+1946,32:03.57,Sara Moreira,POR,17.10.85,Minsk,10.06.2017
+1948,32:03.60,Alina Gherasim,ROU,10.11.71,Bucuresti,20.07.1997
+1948,32:03.60,Petra Wassiluk,GER,27.10.69,Troisdorf,17.08.1997
+1950,32:03.62,Makenna Myler,USA,4,28.05.2021
+1951,32:03.63,Francie Larrieu-Smith,USA,23.11.52,Indianapolis,22.07.1988
+1952,32:03.68A,Irene Kimais,KEN,10.10.98,Nairobi,20.04.2022
+1953,32:03.71,Tomoko Ishii,JPN,14.10.83,Kobe,24.04.2005
+1954,32:03.76,Maria Albertina Dias,POR,26.04.65,Tokyo,27.08.1991
+1954,32:03.76,Flomena Cheyech,KEN,05.07.82,Kobe,26.04.2009
+1956,32:03.78,Megumi Fujiwara,JPN,19.06.69,Kobe,03.05.1992
+1957,32:03.79,Anne-Marie Blaney,USA,09.09.93,Irvine,13.05.2021
+1958,32:03.80,Desta Burka,ETH,17.04.01,Gifu,23.09.2022
+1959,32:03.81,Colleen de Reuck,RSA,13.04.64,Athínai,05.08.1997
+1959,32:03.81,Joanne Pavey,GBR,20.09.73,Osaka,25.08.2007
+1961,32:03.85A,Linet Masai,KEN,05.12.89,Nairobi,25.06.2010
+1961,32:03.85,Aheza Kiros Abeye,ETH,16.10.85,Eugene,01.06.2012
+1963,32:03.88,Katharina Steinruck,GER,22.08.89,Pacé,28.05.2022
+1964,32:03.93,Maria Albertina Dias,POR,26.04.65,Barcelona,07.08.1992
+1965,32:03.95,Izumi Maki,JPN,10.12.68,Tokyo,14.06.1992
+1965,32:03.95,Amy Cragg,USA,21.01.84,Eugene,25.06.2015
+1965,32:03.95,Michi Numata,JPN,06.05.89,Abashiri,16.07.2015
+1968,32:03.96,Sally Chepyego,KEN,03.10.85,Gifu,25.09.2015
+1969,32:03.99,Rocio Rios,ESP,13.03.69,Athínai,12.04.2003
+1969,32:03.99,Hayley Yelling-Higham,GBR,03.01.74,Watford,05.07.2003
+1971,32:04.00,Jip Vastenburg,NED,21.03.94,Amsterdam,06.07.2016
+1972,32:04.04,Christelle Daunay,FRA,05.12.74,Marseille,05.06.2010
+1973,32:04.06,Kayoko Fukushi,JPN,25.03.82,Hiroshima,25.06.2009
+1974,32:04.08,Jane Wanjiku,KEN,14.06.79,Kobe,21.10.2006
+1975,32:04.09,Megumi Oshima,JPN,04.09.75,Bucuresti,20.06.1998
+1976,32:04.11,Felista Wanjuku,KEN,18.02.90,Kumagaya,22.05.2016
+1977,32:04.12,Kazue Ogoshi,JPN,02.03.81,Amagasaki,16.05.2003
+1978,32:04.21,Lanni Marchant,CAN,11.04.84,Rio de Janeiro,12.08.2016
+1979,32:04.26,Mari Ozaki,JPN,16.07.75,Hiroshima,25.06.2009
+1980,32:04.27,Esther Wanjiru,KEN,27.03.77,Mito,07.05.1995
+1980,32:04.27,Yasuko Hashimoto,JPN,12.08.75,Fukushima,28.09.2002
+1982,32:04.30,Kiyomi Ogawa,JPN,15.09.81,Marugame,24.09.2005
+1983,32:04.32,Xing Huina,CHN,25.02.84,Changsha,29.10.2006
+1984,32:04.34,Maria Curatolo,ITA,12.10.63,Stuttgart,30.08.1986
+1985,32:04.37,Naomi Sakashita,JPN,25.05.75,Mito,07.05.1995
+1985,32:04.37,Sairi Maeda,JPN,07.11.91,Abashiri,06.07.2014
+1987,32:04.38,Amy-Eloise Markovc,GBR,05.08.95,Birmingham,05.06.2021
+1988,32:04.39,Lindsay Flanagan,USA,24.01.91,Irvine,13.05.2021
+1989,32:04.40,Midori Fumoto,JPN,18.12.71,Hiratsuka,18.10.1992
+1990,32:04.41,Kiyomi Ogawa,JPN,15.09.81,Oita,30.09.2006
+1990,32:04.41,Preeja Sreedharan,IND,13.03.82,Watford,14.06.2008
+1992,32:04.42,Dong Yanmei,CHN,16.02.77,Nanjing,26.10.1995
+1993,32:04.44,Christelle Daunay,FRA,05.12.74,Moskva,11.08.2013
+1994,32:04.46,Zhong Huandi,CHN,28.06.67,Barcelona,01.08.1992
+1995,32:04.52,Wang Qinghuan,CHN,22.12.66,Seoul,26.09.1988
+1995,32:04.52,Isobel Batt-Doyle,AUS,14.09.95,Birmingham,03.08.2022
+1997,32:04.53,Delillah Asiago,KEN,24.02.72,Tokyo,27.08.1991
+1998,32:04.57,Viktoriya Klimina,RUS,01.03.76,Barakaldo,02.04.2005
+1999,32:04.58,Yuka Suzuki,JPN,14.09.99,Kumagaya,17.09.2021
+2000,32:04.59,Emma Bates,USA,08.07.92,Irvine,13.05.2021
+2001,32:04.60,Kumi Araki,JPN,11.10.65,Kobe,03.05.1992
+2002,32:04.63,Beth Potter,GBR,27.12.91,London,20.05.2017
+2003,32:04.64,Leah Malot,KEN,07.06.72,Lisboa,20.06.1998
+2004,32:04.67,Rahab Watetu,KEN,28.11.80,Kobe,21.10.2006
+2004,32:04.67A,Margaret Kipkemboi,KEN,09.02.93,Nairobi,22.08.2019
+2004,32:04.67,Wakana Itsuki,JPN,07.04.94,Osaka,24.09.2021
+2007,32:04.74,Sarah Inglis,GBR,28.08.91,Birmingham,03.08.2022
+2008,32:04.78,Annette Sergent,FRA,17.11.62,Oslo,02.07.1988
+2009,32:04.79,Megumi Seike,JPN,26.02.87,Kawasaki,27.06.2008
+2010,32:04.81,Ana Dias,POR,15.01.74,Sandefjord,03.06.2000
+2011,32:04.83A,Betsy Saina,KEN,30.06.88,Eldoret,30.06.2016
+2012,32:04.86,Irina Mikitenko,GER,23.08.72,Borna,20.05.2004
+2013,32:04.88,Lyudmila Baranova,RUS,03.05.50,Kyiv,27.07.1982
+2014,32:04.89,Merima Denboba,ETH,21.08.74,Lisboa,20.06.1998
+2014,32:04.89,Harumi Hiroyama,JPN,02.09.68,Shizuoka,03.05.2005
+2016,32:04.94,Lyudmila Petrova,RUS,07.10.68,Edmonton,07.08.2001
+2017,32:04.96,Yelena Mazovka,BLR,30.06.67,Gomel,22.06.1996
+2018,32:04.99,Rika Kaseda,JPN,02.03.99,Isahaya,11.10.2020
+2019,32:05.02,Yoshiko Ichikawa,JPN,18.04.76,Mito,05.05.1998
+2020,32:05.04,Sally Chepyego,KEN,03.10.85,Kobe,22.04.2012
+2021,32:05.05,Mao Kiyota,JPN,12.09.93,Abashiri,11.07.2016
+2021,32:05.05,Stephanie Bruce,USA,14.01.84,Des Moines,21.06.2018
+2023,32:05.06A,Elizabeth Rumokol,KEN,26.03.83,Eldoret,13.06.2009
+2023,32:05.06,Abebech Afework,ETH,11.12.90,Ostrava,31.05.2011
+2025,32:05.08,Rahab Watetu,KEN,28.11.80,Kushiro,17.06.2006
+2025,32:05.08,Fionualla McCormack,IRL,24.09.84,Palo Alto,01.04.2016
+2027,32:05.12,Irene Jepchumba,KEN,10.10.98,Rabat,29.08.2019
+2028,32:05.14,Deena Kastor,USA,14.02.73,Eugene,23.06.2001
+2029,32:05.23,Mizuki Noguchi,JPN,03.07.78,Tottori,10.06.2000
+2030,32:05.25,Paula Herrero,ESP,12.06.96,Burjassot,25.03.2023
+2031,32:05.29,Berhane Adere,ETH,21.07.73,Athínai,02.08.1997
+2031,32:05.29,Fionualla McCormack,IRL,24.09.84,London,06.07.2019
+2033,32:05.31,Sayaka Sato,JPN,27.05.94,Abashiri,15.07.2020
+2034,32:05.32,Laurie Henes,USA,16.04.70,Sacramento,16.06.1995
+2035,32:05.33,Claudia Lokar,GER,09.02.64,Saint-Denis,11.06.1993
+2036,32:05.34,Mizuki Noguchi,JPN,03.07.78,Kobe,28.04.2002
+2037,32:05.37,Beth Potter,GBR,27.12.91,London,21.05.2016
+2038,32:05.40,Cathy O'Brien,USA,19.07.67,Seattle,26.07.1990
+2039,32:05.42,Klara Kashapova,RUS,29.01.70,Sankt Peterburg,25.07.1994
+2039,32:05.42,Grace Kimanzi,KEN,01.03.92,Saitama,18.05.2019
+2041,32:05.44,Maura Viceconte,ITA,03.10.67,Barakaldo,10.04.1999
+2042,32:05.45,Elana Meyer,RSA,10.10.66,Barcelona,01.08.1992
+2043,32:05.47,Susan Hobson,AUS,13.03.58,Melbourne,10.12.1991
+2044,32:05.48,Yuka Ando,JPN,16.03.94,Kyoto,17.01.2021
+2045,32:05.49,Yuko Kawakami,JPN,01.08.75,Lisboa,20.06.1998
+2045,32:05.49,Hilda Kibet,NED,27.03.81,Istanbul,12.04.2008
+2047,32:05.52,Yuka Hori,JPN,13.06.96,Yamaguchi,22.06.2018
+2048,32:05.54,Fionualla McCormack,IRL,24.09.84,Helsinki,01.07.2012
+2049,32:05.60,Kayoko Fukushi,JPN,25.03.82,Kobe,15.10.2005
+2050,32:05.64,Anne Marie Lauck,USA,07.03.69,Philadelphia,25.04.1996
+2051,32:05.65,Fernanda Ribeiro,POR,23.06.69,Athínai,02.08.1997
+2052,32:05.68,Sally Barsosio,KEN,21.03.78,Athínai,02.08.1997
+2052,32:05.68,Doricah Obare,KEN,10.01.90,Kumagaya,16.05.2015
+2054,32:05.71,Yuko Kawakami,JPN,01.08.75,Gifu,13.06.1999
+2055,32:05.72,Kazue Ogoshi,JPN,02.03.81,Amagasaki,12.05.2002
+2056,32:05.73,Getenesh Wami,ETH,11.12.74,Athínai,02.08.1997
+2057,32:05.75,Rosanna Munerotto,ITA,03.12.62,Tokyo,27.08.1991
+2058,32:05.76,Olga Nazarkina,RUS,01.06.70,Seattle,26.07.1990
+2058,32:05.76,Masako Chiba,JPN,18.07.76,Athínai,02.08.1997
+2060,32:05.78,Amy Davis,USA,15.02.97,San Juan Capistrano,06.03.2022
+2061,32:05.82,Carla Salomé Rocha,POR,25.04.90,London,21.05.2016
+2062,32:05.84,Winfridah Kebaso,KEN,16.04.85,Miyoshi,13.05.2006
+2062,32:05.84,Chelsea Reilly,USA,09.05.89,Sacramento,06.12.2015
+2064,32:05.87,Misaki Kato,JPN,15.06.91,Yamaguchi,10.10.2014
+2065,32:05.88,Anne Audain,NZL,01.11.55,Auckland,01.03.1988
+2065,32:05.88,Kasumi Nishihara,JPN,01.03.89,Kitami,06.07.2013
+2067,32:05.9A,Brillian Kipkoech,KEN,09.03.95,Nairobi,13.03.2021
+2067,32:05.90,Genet Yalew,ETH,31.12.92,Ostrava,31.05.2011
+2069,32:05.93,Yelena Vyazova,UKR,18.04.60,Bryansk,19.07.1987
+2070,32:05.98,Yamna Belkacem,FRA,20.02.74,Villeneuve d'Ascq,17.06.2001
+2071,32:06.0A,Pauline Korikwiang,KEN,01.03.88,Nairobi,06.06.2018
+2072,32:06.01,Wanda Panfil,POL,26.01.59,Split,31.08.1990
+2073,32:06.02,Elana Meyer,RSA,10.10.66,Victoria,24.08.1994
+2073,32:06.02,Wang Yanrong,CHN,16.10.76,Kanazawa,29.09.2001
+2073,32:06.02,Sabrina Mockenhaupt,GER,06.12.80,Barcelona,28.07.2010
+2076,32:06.04,Mizuki Matsuda,JPN,31.05.95,Nagoya,24.06.2016
+2077,32:06.05,Carla Salomé Rocha,POR,25.04.90,Rio de Janeiro,12.08.2016
+2078,32:06.11,Emma Bates,USA,08.07.92,San Juan Capistrano,06.03.2022
+2079,32:06.12,Yang Siju,CHN,19.04.73,Athínai,02.08.1997
+2080,32:06.14,Colette Murphy,USA,11.05.65,Philadelphia,28.04.1988
+2080,32:06.14,Sally Chepyego,KEN,03.10.85,Kumagaya,20.09.2013
+2080,32:06.14,Sara Moreira,POR,17.10.85,Beijing,24.08.2015
+2080,32:06.14,Mao Ichiyama,JPN,29.05.97,Yamaguchi,09.12.2017
+2084,32:06.19,Derartu Tulu,ETH,21.03.72,Sydney,27.09.2000
+2084,32:06.19,Jessica Tonn,USA,15.02.92,Palo Alto,02.05.2019
+2086,32:06.22,Obare Doricah,KEN,10.01.90,Palo Alto,05.05.2017
+2087,32:06.23,Clémence Calvin,FRA,17.05.90,Palo Alto,01.05.2016
+2088,32:06.3,Akemi Matsuno,JPN,27.04.68,Kumamoto,13.05.1990
+2089,32:06.31,Emily Sisson,USA,12.10.91,Des Moines,21.06.2018
+2090,32:06.32,Genevieve Gregson,AUS,04.08.89,Melbourne,26.01.2021
+2091,32:06.35,Asmae Leghzaoui,MAR,30.08.76,Edmonton,07.08.2001
+2092,32:06.38,Natalya Sorokivskaya,KAZ,23.07.62,Leningrad,08.06.1986
+2092,32:06.38,Masako Chiba,JPN,18.07.76,Toyama,01.10.1995
+2094,32:06.40,Yuka Izumi,JPN,18.01.85,Oita,30.09.2006
+2095,32:06.41,Yelena Tolstoguzova,RUS,17.06.62,Seattle,26.07.1990
+2095,32:06.41,Tegla Loroupe,KEN,09.05.73,Sydney,27.09.2000
+2097,32:06.42,Hiromi Suzuki,JPN,06.12.68,Tokyo,10.06.1994
+2097,32:06.42,Berhane Adere,ETH,21.07.73,Lisboa,20.06.1998
+2097,32:06.42,Yukiko Okamoto,JPN,29.11.74,Sendai,08.10.2000
+2100,32:06.43,Fernanda Ribeiro,POR,23.06.69,Sydney,27.09.2000
+2100,32:06.43,Molly Grabill,USA,31.08.92,San Juan Capistrano,06.05.2022
+2102,32:06.45,Dorthe Rasmussen,DEN,27.01.60,Lommel,25.04.1992
+2102,32:06.45,Amy Begley,USA,11.01.78,Des Moines,24.06.2010
+2104,32:06.46,Mizuki Matsuda,JPN,31.05.95,Kumagaya,18.09.2020
+2105,32:06.48,Kasumi Nishihara,JPN,01.03.89,Niigata,26.06.2015
+2106,32:06.5,Maria Albertina Dias,POR,26.04.65,Caceras,08.04.1995
+2107,32:06.51,Maria Conceição Ferreira,POR,13.03.62,Lisboa,15.07.1989
+2108,32:06.54,Olivera Jevtic,SRB,24.07.77,Sydney,27.09.2000
+2108,32:06.54,Kiyomi Ogawa,JPN,15.09.81,Kobe,22.04.2007
+2110,32:06.63,Alina Reh,GER,23.05.97,Pliezhausen,07.05.2022
+2111,32:06.64,Jordan Hasay,USA,12.09.91,Palo Alto,28.04.2013
+2112,32:06.67,Päivi Tikkanen,FIN,19.01.60,Tokyo,27.08.1991
+2113,32:06.68,Jessica Augusto,POR,08.11.81,Daegu,27.08.2011
+2114,32:06.70,Kumi Tanabe,JPN,02.04.81,Amagasaki,12.05.2002
+2114,32:06.70,Yuka Takashima,JPN,12.05.88,Kitami,06.07.2013
+2116,32:06.71,Allie Ostrander,USA,24.12.96,Palo Alto,29.03.2019
+2117,32:06.73,Yelena Romanova,RUS,20.03.63,Tokyo,27.08.1991
+2117,32:06.73,Hikari Yoshimoto,JPN,02.08.90,Guangzhou,21.11.2010
+2119,32:06.74A,Eveline Chirchir,KEN,10.05.98,Nairobi,22.08.2019
+2120,32:06.76,Rosanna Munerotto,ITA,03.12.62,Seoul,26.09.1988
+2121,32:06.79,Sayuri Oka,JPN,19.09.90,Kumagaya,20.09.2013
+2122,32:06.82,Natosha Rogers,USA,07.05.91,Portland,11.06.2016
+2123,32:06.85,Desireé Linden,USA,26.07.83,Palo Alto,01.05.2010
+2124,32:06.87,Maggie Montoya,USA,02.05.95,San Juan Capistrano,05.12.2020
+2125,32:06.89,Kimberley Smith,NZL,19.11.81,Osaka,25.08.2007
+2125,32:06.89,Sula Utura,ETH,08.02.90,Zhukovskiy,03.07.2011
+2127,32:06.92,Kayoko Fukushi,JPN,25.03.82,Kobe,30.06.2006
+2128,32:06.94,Madoka Ogi,JPN,26.10.83,Kobe,23.04.2006
+2129,32:06.96,Yelena Samokhvalova,RUS,21.11.80,Tula,25.06.2004
+2130,32:06.98,Fernanda Marques,POR,15.04.66,Maia,23.05.1992
+2131,32:06.99,Chantal Dällenbach,FRA,24.10.62,La Celle-Saint-Cloud,16.06.1996
+2132,32:07.0A,Pauline Njeri,KEN,28.07.85,Nairobi,15.07.2011
+2132,32:07.00,Dong Zhaoxia,CHN,13.11.74,Nanjing,08.05.1996
+2132,32:07.00,Blake Russell,USA,24.07.75,Helsinki,06.08.2005
+2135,32:07.01,Mahomi Muranaka,JPN,31.10.66,Osaka,09.06.1996
+2136,32:07.08,Risa Takenaka,JPN,06.01.90,Abashiri,06.07.2014
+2137,32:07.11,Anna Matsuda,JPN,18.04.94,Yamaguchi,09.12.2017
+2138,32:07.13,Maria Albertina Dias,POR,26.04.65,Seoul,30.09.1988
+2139,32:07.16,Mari Ozaki,JPN,16.07.75,Kobe,23.04.2000
+2140,32:07.17,Sue Lee,CAN,07.05.60,Oslo,04.07.1987
+2141,32:07.19,Elaine van Blunk,USA,11.09.64,Eugene,16.06.1993
+2142,32:07.20,Aliphine Tuliamuk,KEN,05.04.89,Palo Alto,28.04.2013
+2143,32:07.23,Darya Maslova,KGZ,06.05.95,Jakarta,25.08.2018
+2144,32:07.25,Elizabeth McColgan,GBR,24.05.64,Barcelona,01.08.1992
+2144,32:07.25,Eri Yamaguchi,JPN,14.01.73,Tottori,10.06.2000
+2144,32:07.25,Kate O'Neill,USA,29.07.80,Sacramento,16.07.2004
+2147,32:07.26,Eri Yamaguchi,JPN,14.01.73,Gifu,13.06.1999
+2147,32:07.26,Ayalew Wude,ETH,04.07.87,Zhukovskiy,03.07.2011
+2149,32:07.28,Uta Pippig,GER,07.09.65,Barcelona,01.08.1992
+2149,32:07.28,Valeriya Zinenko,UKR,06.11.95,Pacé,28.05.2022
+2151,32:07.29,Midori Fumoto,JPN,18.12.71,Kobe,03.05.1992
+2152,32:07.31,Pauline Wanguru Kiragu,KEN,26.08.80,Shizuoka,03.05.2008
+2153,32:07.36,Paige Stoner,USA,31.01.96,Palo Alto,29.03.2019
+2154,32:07.37,Yuka Ando,JPN,16.03.94,Palo Alto,02.05.2015
+2155,32:07.38,Galina Ivanova,RUS,11.03.76,Cheboksary,23.07.2009
+2156,32:07.41,Joan Benoit,USA,16.05.57,Los Angeles,17.06.1984
+2156,32:07.41,Mai Ito,JPN,23.05.84,Kitami,06.07.2013
+2158,32:07.42,Christien Toonstra,NED,22.06.66,Barcelona,01.08.1992
+2158,32:07.42,Iulia Olteanu,ROU,26.01.67,Lisboa,01.04.2000
+2160,32:07.43,Anne Marie Lauck,USA,07.03.69,Sacramento,16.06.1995
+2160,32:07.43,Yuka Miyazaki,JPN,21.08.92,Fukagawa,09.07.2015
+2162,32:07.44,Natalie Harvey,AUS,19.01.75,Sandefjord,03.06.2000
+2163,32:07.49,Martine Oppliger,SUI,19.10.57,Roma,04.09.1987
+2163,32:07.49,Dong Zhaoxia,CHN,13.11.74,Kobe,26.04.1998
+2165,32:07.50,Aurora Cunha,POR,31.05.59,Canberra,05.10.1985
+2165,32:07.50,Joyce Chepchumba,KEN,06.11.70,Saint-Denis,03.07.1999
+2167,32:07.54,Fernanda Ribeiro,POR,23.06.69,Lisboa,28.06.2008
+2168,32:07.55,Ren Xiujuan,CHN,14.09.74,Guangzhou,19.11.2001
+2169,32:07.56,Ai Inoue,JPN,13.01.90,Abashiri,11.07.2016
+2170,32:07.58,Yuko Manabe,JPN,08.02.79,Tottori,10.06.2000
+2171,32:07.62,Nathalie De,Vos,BEL,3 Ferrara,07.04.2007
+2171,32:07.62,Carla Salomé Rocha,POR,25.04.90,Maia,12.07.2017
+2173,32:07.64,Karolina Szabo,HUN,17.11.61,Budapest,01.06.1986
+2174,32:07.65,Miki Igarashi,JPN,22.08.71,Fukuoka,23.09.1994
+2175,32:07.66,Reiko Tosa,JPN,11.06.76,Shizuoka,03.05.2005
+2176,32:07.68,Harumi Hiroyama,JPN,02.09.68,Sydney,27.09.2000
+2177,32:07.69,Adriana Fernández,MEX,04.04.71,Palo Alto,04.05.2008
+2178,32:07.7,Lyudmila Petrova,RUS,07.10.68,Moskva,25.06.1996
+2178,32:07.70,Yuko Shimizu,JPN,13.07.85,Palo Alto,28.04.2013
+2178,32:07.70,Keiko Nogami,JPN,06.12.85,Kitakyushu,19.05.2018
+2181,32:07.74,Lynn Jennings,USA,01.07.60,Indianapolis,22.07.1988
+2182,32:07.76,Yuko Kawakami,JPN,01.08.75,Kobe,26.04.1998
+2183,32:07.77,Kasumi Nishihara,JPN,01.03.89,Palo Alto,01.05.2016
+2184,32:07.78,Isabel Checa,ESP,27.12.82,Vigo,12.07.2008
+2185,32:07.79,Zeyituna Husan,ETH,19.01.99,Isahaya,11.10.2020
+2186,32:07.80,Salomé Nyirarukundo,RWA,20.12.97,Rio de Janeiro,12.08.2016
+2187,32:07.82,Valentina Galimova,RUS,11.05.86,Moskva,11.06.2012
+2188,32:07.84,Ayumi Hashimoto,JPN,17.06.83,Niigata,25.09.2004
+2188,32:07.84,Amy Begley,USA,11.01.78,Palo Alto,04.05.2008
+2190,32:07.90,Mara Yamauchi,GBR,13.08.73,Göteborg,07.08.2006
+2191,32:07.91,Izumi Maki,JPN,10.12.68,Barcelona,01.08.1992
+2191,32:07.91,Yuka Takashima,JPN,12.05.88,Niigata,26.06.2015
+2193,32:07.94,Mari Ozaki,JPN,16.07.75,Kobe,27.04.2008
+2193,32:07.94,Rachel Cliff,CAN,01.04.88,Portland,10.06.2017
+2195,32:07.95,Maria Albertina Dias,POR,26.04.65,Maia,18.07.1989
+2196,32:07.98,Emiko Kojima,JPN,04.07.79,Nobeoka,03.05.1998
+2197,32:08.0A,Joyce Chepkirui,KEN,20.08.88,Nairobi,10.07.2015
+2197,32:08.00,Miki Igarashi,JPN,22.08.71,Tokyo,14.06.1992
+2197,32:08.00,Harumi Hiroyama,JPN,02.09.68,Shizuoka,03.10.1999
+2197,32:08.00,Yelena Nagovitsyna,RUS,07.12.82,Zhukovskiy,03.07.2011
+2201,32:08.01,Chiemi Takahashi,JPN,16.02.76,Kobe,26.04.1998
+2202,32:08.02,Sula Utura,ETH,08.02.90,Hengelo,29.06.2016
+2203,32:08.03,Rie Matsuoka,JPN,09.03.77,Fukushima,28.09.2002
+2204,32:08.04,Katie McGregor,USA,02.09.77,Eugene,25.06.2009
+2205,32:08.06,Honami Maeda,JPN,17.07.96,Kumagaya,18.09.2020
+2206,32:08.09,Yoshimi Ozaki,JPN,01.07.81,Tokyo,02.06.2005
+2206,32:08.09,Akane Sekino,JPN,28.07.90,Takamatsu,26.11.2017
+2206,32:08.09,Caroline Kurgat,KEN,20.04.93,Palo Alto,29.03.2019
+2209,32:08.15A,Getenesh Wami,ETH,11.12.74,Johannesburg,17.09.1999
+2210,32:08.18A,Jackline Chepngeno,KEN,16.01.93,Nairobi,10.07.2015
+2211,32:08.19,Mika Okunaga,JPN,27.10.82,Tokyo,02.06.2005
+2212,32:08.21,Aheza Kiros Abeye,ETH,16.10.85,Ostrava,31.05.2011
+2213,32:08.26,Amanda Vestri,USA,01.09.99,Palo Alto,31.03.2023
+2214,32:08.32,Malin Wästlund,SWE,27.04.64,Oslo,02.07.1988
+2214,32:08.32,Eloise Wellings,AUS,09.11.82,Melbourne,09.12.2010
+2214,32:08.32,Courtney Smith,USA,01.05.96,Palo Alto,01.04.2016
+2217,32:08.39,Chelsea Blaase,USA,10.04.94,Palo Alto,01.04.2016
+2218,32:08.45,Narumi Kobayashi,JPN,17.04.00,Fukuroi,03.05.2021
+2219,32:08.46,Riko Matsuzaki,JPN,24.12.92,Yamaguchi,09.12.2017
+2220,32:08.51,Mahomi Muranaka,JPN,31.10.66,Tokyo,10.06.1994
+2220,32:08.51,Alisha Williams,USA,05.02.82,Eugene,22.06.2012
+2222,32:08.52,Sabrina Mockenhaupt,GER,06.12.80,München,06.08.2002
+2223,32:08.54,Jane Ngotho,KEN,29.11.69,Hengelo,25.06.1991
+2223,32:08.54,Gemma Barrachina,ESP,10.04.86,Lisboa,24.03.2012
+2225,32:08.57,Maitane Melero,ESP,20.02.83,Pacé,28.05.2022
+2226,32:08.59,Rei Ohara,JPN,10.08.90,Niigata,26.06.2015
+2227,32:08.60,Elena Murgoci,ROU,20.05.60,Bucuresti,03.07.1993
+2228,32:08.64,Harumi Okamoto,JPN,07.02.98,Osaka,21.09.2018
+2229,32:08.65,Eri Makikawa,JPN,22.04.93,Abashiri,06.07.2014
+2230,32:08.67,Helena Sampaio,POR,09.10.75,Lisboa,01.04.2000
+2230,32:08.67,Narumi Kobayashi,JPN,17.04.00,Abashiri,15.07.2020
+2232,32:08.70,Cristina Ruiz,ESP,16.01.99,Burjassot,25.03.2023
+2233,32:08.72,Carmen de Oliveira,BRA,17.08.65,Hengelo,20.06.1993
+2234,32:08.73,Rei Ohara,JPN,10.08.90,Kitami,06.07.2013
+2235,32:08.74,Derartu Tulu,ETH,21.03.72,Kobe,29.04.1991
+2235,32:08.74,Izumi Maki,JPN,10.12.68,Hiratsuka,18.10.1992
+2235,32:08.74,Claudia Lokar,GER,09.02.64,Helsinki,13.08.1994
+2235,32:08.74,Tomomi Tanaka,JPN,25.01.88,Fukagawa,09.07.2015
+2239,32:08.75,Wang Xiaoxia,CHN,21.08.76,Nanjing,08.05.1996
+2240,32:08.76,Ursula Jeitziner,SUI,14.03.72,Koblenz,16.05.1996
+2240,32:08.76,Liu Ruihuan,CHN,29.06.92,Suzhou,31.05.2013
+2240,32:08.76,Rochelle Kanuho,USA,04.07.90,Sacramento,06.12.2015
+2243,32:08.77,Gwyn Coogan,USA,21.08.65,Sankt Peterburg,25.07.1994
+2244,32:08.82,Nora Leticia Rocha,MEX,18.12.67,Burnaby,03.06.2000
+2245,32:08.84,Mikie Takanaka,JPN,06.10.80,Fukagawa,25.06.2003
+2246,32:08.92,Jip Vastenburg,NED,21.03.94,Rio de Janeiro,12.08.2016
+2247,32:08.96,Moira Stewartová,CZE,09.06.95,Pacé,28.05.2022
+2248,32:08.97,Chiemi Takahashi,JPN,16.02.76,Toyama,01.10.1995
+2249,32:09.02,Aniko Kalovics,HUN,13.05.77,Istanbul,12.04.2008
+2250,32:09.08,Carole Rouillard,CAN,15.03.60,Seoul,26.09.1988
+2251,32:09.1,Maria Manuela Machado,POR,09.08.63,Maia,20.07.1994
+2251,32:09.10,Mika Yoshikawa,JPN,16.09.84,Fukuoka,21.09.2012
+2251,32:09.10,Weini Kelati Frezghi,ERI,01.12.96,Clovis,09.05.2019
+2254,32:09.12,Naomi Sakashita,JPN,25.05.75,Osaka,09.06.1996
+2254,32:09.12,Mikuni Yada,JPN,29.10.99,Isahaya,11.10.2020
+2256,32:09.13,Odile Ohier,FRA,19.11.63,Reims,03.07.1991
+2256,32:09.13,Nicole Aish,USA,18.03.76,Palo Alto,30.04.2004
+2258,32:09.14,Tatiele Roberta de,Carvalho,BRA,2 Portland,11.06.2016
+2259,32:09.15,Helena Javornik,SLO,26.03.66,Saint-Denis,23.08.2003
+2259,32:09.15,Tara Erdmann,USA,14.06.89,Eugene,22.06.2012
+2259,32:09.15,Wakana Itsuki,JPN,07.04.94,Gifu,23.09.2022
+2262,32:09.16,Mai Ito,JPN,23.05.84,Kumagaya,20.09.2013
+2263,32:09.20,Sharon Lokedi,KEN,10.03.94,Eugene,07.06.2018
+2264,32:09.21,Yamna Belkacem,FRA,20.02.74,Edmonton,07.08.2001
+2265,32:09.25,Ikumi Wakamatsu,JPN,22.06.74,Sendai,08.10.2000
+2266,32:09.26,Silvia Weissteiner,ITA,13.07.79,Göteborg,07.08.2006
+2267,32:09.28,Natalya Berkut,UKR,30.05.75,Donetsk,04.07.2007
+2268,32:09.29,Yelena Samokhvalova,RUS,21.11.80,Kazan,17.07.2008
+2269,32:09.31,Christelle Daunay,FRA,05.12.74,Gateshead,27.06.2004
+2269,32:09.31,Mao Ichiyama,JPN,29.05.97,Osaka,25.09.2020
+2271,32:09.35,Joyce Chepkirui,KEN,20.08.88,Glasgow,29.07.2014
+2272,32:09.37,Leah Malot,KEN,07.06.72,Reims,27.06.1997
+2272,32:09.37,Maria Mettler,USA,14.03.99,San Juan Capistrano,05.12.2020
+2274,32:09.38,Jane Ngotho,KEN,29.11.69,Tokyo,27.08.1991
+2275,32:09.41,Beleynesh Oljira,ETH,26.06.90,Zhukovskiy,03.07.2011
+2276,32:09.43,Delillah Asiago,KEN,24.02.72,Oslo,06.07.1991
+2277,32:09.44,Haruka Yamaguchi,JPN,07.07.87,Abashiri,10.07.2021
+2278,32:09.46,Nadezhda Ilyina,RUS,02.04.64,Warstein,07.07.1993
+2279,32:09.48,Florence Kiplagat,KEN,27.02.87,Glasgow,29.07.2014
+2280,32:09.49,Noriko Ura,JPN,28.07.76,Osaka,09.06.1996
+2280,32:09.49,Annette Peters,USA,31.05.65,Sacramento,14.07.2000
+2280,32:09.49,Riko Matsuzaki,JPN,24.12.92,Osaka,22.09.2017
+2283,32:09.50,Genet Getaneh,ETH,06.01.86,Valkenswaard,26.06.2007
+2284,32:09.53,Marina Bastos,POR,07.07.71,Lisboa,01.04.2000
+2285,32:09.54,Anna Arnaudo,ITA,18.10.00,Pacé,28.05.2022
+2286,32:09.56,Colleen de Reuck,RSA,13.04.64,Athínai,02.08.1997
+2287,32:09.57,Vanessa Fraser,USA,27.07.95,San Juan Capistrano,05.12.2020
+2288,32:09.58,Miki Igarashi,JPN,22.08.71,Barcelona,07.08.1992
+2289,32:09.6,Olga Appell,MEX,02.08.63,Walnut,17.04.1992
+2290,32:09.64,Kerstin Preßler,GER,02.02.62,Jena,28.05.1992
+2291,32:09.67,Megumi Oshima,JPN,04.09.75,Tokyo,02.06.2005
+2291,32:09.67,Ashu Kasim Rabo,ETH,20.10.84,El Djezair,21.07.2007
+2291,32:09.67,Trihas Gebre,ESP,29.04.90,Rio de Janeiro,12.08.2016
+2294,32:09.69,Natasha Wodak,CAN,17.12.81,Burnaby,13.06.2019
+2295,32:09.70,Maria Conceição Ferreira,POR,13.03.62,Maia,27.07.1991
+2295,32:09.70,Tegla Loroupe,KEN,09.05.73,Hengelo,20.06.1993
+2297,32:09.71,Delillah Asiago,KEN,24.02.72,Gifu,06.10.1991
+2298,32:09.76,Yukiko Okamoto,JPN,29.11.74,Toyama,01.10.1995
+2299,32:09.80,Ayumi Hagiwara,JPN,01.06.92,Kumagaya,20.09.2013
+2300,32:09.82,Fatima Yvelain,FRA,31.12.69,Braga,28.06.2002
+2300,32:09.82,Kaitlin Goodman,USA,31.01.87,Palo Alto,03.04.2015
+2300,32:09.82,Carrie Verdon,USA,08.03.94,San Juan Capistrano,05.12.2020
+2300,32:09.82,Doreen Chesang,UGA,16.10.90,Maia,08.05.2021
+2300,32:09.82,Lauren Ryan,AUS,15.03.98,San Juan Capistrano,04.03.2023
+2305,32:09.84,Kasumi Nishihara,JPN,01.03.89,Palo Alto,04.05.2014
+2306,32:09.87,Yelena Vyazova,UKR,18.04.60,Moskva,23.06.1992
+2306,32:09.87,Ayumi Hagiwara,JPN,01.06.92,Palo Alto,29.03.2019
+2308,32:09.88,Salina Kosgei,KEN,16.11.76,Braga,28.06.2002
+2309,32:09.89,Allie Kieffer,USA,16.09.87,Portland,10.06.2017
+2310,32:09.90,Miki Ohira,JPN,28.06.81,Oita,30.09.2006
+2311,32:09.91,Misaki Nishida,JPN,07.08.91,Osaka,04.12.2020
+2312,32:09.94,Ma Ningning,CHN,01.06.76,Jinan,02.06.1993
+2312,32:09.94,Yuko Saito,JPN,24.09.78,Tokyo,02.06.2005
+2314,32:09.95,Marina Bastos,POR,07.07.71,Barakaldo,05.04.1997
+2314,32:09.95,Yoko Yagi,JPN,14.04.80,Utrecht,17.06.2005
+2314,32:09.95,Wang Xueqin,CHN,01.01.91,Shenyang,11.09.2013
+2317,32:09.97,Yuko Kawakami,JPN,01.08.75,Shizuoka,03.10.1999
+2318,32:09.99,Stephanie Bruce,USA,14.01.84,Des Moines,25.07.2019

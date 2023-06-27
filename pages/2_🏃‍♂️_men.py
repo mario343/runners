@@ -2,6 +2,8 @@ import streamlit as st
 import streamlit.components.v1 as components
 st.set_page_config(
     layout='wide',
+    page_title="Biegacze",
+    page_icon="🏃‍♂️"
 )
 
 
@@ -40,50 +42,58 @@ def add_bg_from_url():
 add_bg_from_url()
 
 
+def open_html(distance, name, height):
+    file_path = f"./men/{distance}/{name}.html"
+    with open(file_path, 'r', encoding='utf-8') as file:
+        source_code = file.read()
+    return components.html(source_code, height=height)
+
+
 st.header("# Wyniki mężczyzn 🏃‍♂️")
 st.sidebar.markdown("# Mężczyźni 🏃‍♂️")
-tab100, tab200, tab400, tab800, tab1500, tab3000, tab5000, tab10000, tab_half_marathon, tab_marathon = st.tabs(
-    ["100m", "200m", "400m", "800m", "1500m", "3000m", "5000m", "10000m", "half marathon", "marathon"])
+tab100, tab400, tab800, tab10000,  tab_marathon = st.tabs(
+    ["100m", "400m", "800m", "10000m", "maraton"])
 with tab100:
     st.header("100m")
     with st.expander(label="Najlepszy czas w danym roku", expanded=False):
-        best_time_yr = open(
-            "./men/100/best_of_every_season.html", 'r', encoding='utf-8')
-        source_code = best_time_yr.read()
-        components.html(source_code, height=600)
+        open_html("100", "best_of_every_season", 600)
     with st.expander(label="Progresja rekordów świata", expanded=False):
-        wr = open("./men/100/WR_progression.html", 'r', encoding='utf-8')
-        source_code = wr.read()
-        components.html(source_code, height=600)
+        open_html("100", "WR_progression", 600)
     with st.expander(label="Usain Bolt vs przeciętny człowiek", expanded=False):
         gif_file = "./men/100/animation.gif"
         st.image(gif_file, caption='GIF File', use_column_width=False)
     with st.expander(label="Wiatr a czas", expanded=False):
-        Wind = open("./men/100/wind.html", 'r', encoding='utf-8')
-        source_code = Wind.read()
-        components.html(source_code, height=600)
+        open_html("100", "wind", 600)
     with st.expander(label="Kraje a liczba rekordów", expanded=False):
-        bubbles = open("./men/100/country_bubbles.html", 'r', encoding='utf-8')
-        source_code = bubbles.read()
-        components.html(source_code, height=600)
+        open_html("100", "country_bubbles", 600)
     with st.expander(label="Liczba biegaczy a kraje", expanded=False):
-        rnrs_per_country = open(
-            "./men/100/Runners_per_country.html", 'r', encoding='utf-8')
-        source_code = rnrs_per_country.read()
-        components.html(source_code, height=800)
+        open_html("100", "Runners_per_country", 600)
     with st.expander(label="PB a wiek", expanded=False):
-        personal_best_graph = open(
-            "./men/100/personal_best_graph.html", 'r', encoding='utf-8')
-        source_code = personal_best_graph.read()
-        components.html(source_code, height=600)
+        open_html("100", "personal_best_graph", 600)
     with st.expander(label="Najlepsze wyniki sprinterów w zależności od wieku", expanded=False):
-        heatmap = open("./men/100/heatmap.html", 'r', encoding='utf-8')
-        source_code = heatmap.read()
-        components.html(source_code, height=600)
-with tab200:
-    st.header("100m")
-
+        open_html("100", "heatmap", 600)
 with tab400:
-    st.header("100m")
+    st.header("400m")
+    with st.expander(label="Top 10 - liczba rekordów na według kraju", expanded=False):
+        open_html("400", "top_10_countries", 600)
+
 with tab800:
-    st.header("100m")
+    st.header("800m")
+    with st.expander(label="Top 10 - liczba rekordów na według kraju", expanded=False):
+        open_html("800", "top_10_countries", 600)
+with tab10000:
+    st.header("10000m")
+    with st.expander(label="Top 10 - liczba rekordów na według kraju", expanded=False):
+        open_html("10000", "top_10_countries", 600)
+with tab_marathon:
+    st.header("Maraton")
+    with st.expander(label="Najlepszy czas w danym roku", expanded=False):
+        open_html("marathon", "best_of_every_season", 600)
+    with st.expander(label="Progresja rekordów świata", expanded=False):
+        open_html("marathon", "WR_progression", 600)
+    with st.expander(label="Liczba biegaczy a kraje", expanded=False):
+        open_html("marathon", "Runners_per_country", 600)
+    with st.expander(label="PB a wiek", expanded=False):
+        open_html("marathon", "personal_best_graph", 600)
+    with st.expander(label="Top 10 - liczba rekordów według kraju", expanded=False):
+        open_html("marathon", "top_10_countries", 600)

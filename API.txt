@@ -1,0 +1,28 @@
+Data that was used in the project:
+http://www.alltime-athletics.com/index.html
+
+to be more specific:
+
+    for men:
+    http://www.alltime-athletics.com/m_100ok.htm
+    http://www.alltime-athletics.com/m_200ok.htm
+    http://www.alltime-athletics.com/m_400ok.htm
+    http://www.alltime-athletics.com/m_800ok.htm
+    http://www.alltime-athletics.com/m_1500ok.htm
+    http://www.alltime-athletics.com/m_3000ok.htm
+    http://www.alltime-athletics.com/m_5000ok.htm
+    http://www.alltime-athletics.com/m_10kok.htm
+    http://www.alltime-athletics.com/mhmaraok.htm
+    http://www.alltime-athletics.com/mmaraok.htm
+
+    for women:
+    http://www.alltime-athletics.com/w_100ok.htm
+    http://www.alltime-athletics.com/w_200ok.htm
+    http://www.alltime-athletics.com/w_400ok.htm
+    http://www.alltime-athletics.com/w_800ok.htm
+    http://www.alltime-athletics.com/w_1500ok.htm
+    http://www.alltime-athletics.com/w_3000ok.htm
+    http://www.alltime-athletics.com/w_5000ok.htm
+    http://www.alltime-athletics.com/w_10kok.htm
+    http://www.alltime-athletics.com/whmaraok.htm
+    http://www.alltime-athletics.com/wmaraok.htm

@@ -56,44 +56,44 @@ tab100, tab400, tab800, tab10000,  tab_marathon = st.tabs(
 with tab100:
     st.header("100m")
     with st.expander(label="Najlepszy czas w danym roku", expanded=False):
-        open_html("100", "best_of_every_season", 600)
+        open_html("100", "best_of_every_season", 800)
     with st.expander(label="Progresja rekordów świata", expanded=False):
-        open_html("100", "WR_progression", 600)
+        open_html("100", "WR_progression", 800)
     with st.expander(label="Usain Bolt vs przeciętny człowiek", expanded=False):
         gif_file = "./men/100/animation.gif"
         st.image(gif_file, caption='GIF File', use_column_width=False)
     with st.expander(label="Wiatr a czas", expanded=False):
-        open_html("100", "wind", 600)
+        open_html("100", "wind", 800)
     with st.expander(label="Kraje a liczba rekordów", expanded=False):
-        open_html("100", "country_bubbles", 600)
+        open_html("100", "country_bubbles", 800)
     with st.expander(label="Liczba biegaczy a kraje", expanded=False):
-        open_html("100", "Runners_per_country", 600)
+        open_html("100", "Runners_per_country", 800)
     with st.expander(label="PB a wiek", expanded=False):
-        open_html("100", "personal_best_graph", 600)
+        open_html("100", "personal_best_graph", 800)
     with st.expander(label="Najlepsze wyniki sprinterów w zależności od wieku", expanded=False):
-        open_html("100", "heatmap", 600)
+        open_html("100", "heatmap", 800)
 with tab400:
     st.header("400m")
     with st.expander(label="Top 10 - liczba rekordów na według kraju", expanded=False):
-        open_html("400", "top_10_countries", 600)
+        open_html("400", "top_10_countries", 800)
 
 with tab800:
     st.header("800m")
     with st.expander(label="Top 10 - liczba rekordów na według kraju", expanded=False):
-        open_html("800", "top_10_countries", 600)
+        open_html("800", "top_10_countries", 800)
 with tab10000:
     st.header("10000m")
     with st.expander(label="Top 10 - liczba rekordów na według kraju", expanded=False):
-        open_html("10000", "top_10_countries", 600)
+        open_html("10000", "top_10_countries", 800)
 with tab_marathon:
     st.header("Maraton")
     with st.expander(label="Najlepszy czas w danym roku", expanded=False):
-        open_html("marathon", "best_of_every_season", 600)
+        open_html("marathon", "best_of_every_season", 800)
     with st.expander(label="Progresja rekordów świata", expanded=False):
-        open_html("marathon", "WR_progression", 600)
+        open_html("marathon", "WR_progression", 800)
     with st.expander(label="Liczba biegaczy a kraje", expanded=False):
-        open_html("marathon", "Runners_per_country", 600)
+        open_html("marathon", "Runners_per_country", 800)
     with st.expander(label="PB a wiek", expanded=False):
-        open_html("marathon", "personal_best_graph", 600)
+        open_html("marathon", "personal_best_graph", 800)
     with st.expander(label="Top 10 - liczba rekordów według kraju", expanded=False):
-        open_html("marathon", "top_10_countries", 600)
+        open_html("marathon", "top_10_countries", 800)

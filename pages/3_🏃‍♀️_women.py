@@ -15,7 +15,7 @@ def add_bg_from_url():
             background-image: url("https://i.guim.co.uk/img/media/c723050bc6abfe76f3774bfd3f1e058274e5b4dc/0_87_4000_2401/master/4000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=f0e75c2dbf730c752e5b39f9c5a96779");
             background-attachment: fixed;
             background-size: 55%;
-            background-position: calc(630px) calc(40% + 0px);
+            background-position: calc(250px) calc(40% + 0px);
         }
         .css-cxvtz3::after {
             content: '';

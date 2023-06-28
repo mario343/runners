@@ -17,7 +17,7 @@ def add_bg_from_url():
             background-image: url("https://upload.wikimedia.org/wikipedia/commons/d/d2/Men_100m_final_1960_Olympics.jpg");
             background-attachment: fixed;
             background-size: cover;
-           background-position: calc(1790px) calc(50% + 200px);
+           background-position: calc(1790px) calc(50%);
          }}
          .css-cxvtz3::after {{
             content: '';
@@ -73,3 +73,22 @@ rain(
     falling_speed=8,
     animation_length="infinite",
 )
+
+footer = """<style>
+.footer {
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+</style>
+<div class="footer">
+    <p>Projekt stworzony przez: Mariusza Wilka, Jakuba Żuchowicza, Julie Zezule.</p>
+</div>
+"""
+
+st.markdown(footer, unsafe_allow_html=True)

@@ -1,6 +1,8 @@
 import streamlit as st
+import streamlit.components.v1 as components
 
 st.set_page_config(
+    layout='wide',
     page_title="Biegaczki",
     page_icon="🏃‍♀️"
 
@@ -42,5 +44,48 @@ def add_bg_from_url():
 add_bg_from_url()
 
 
+def open_html(distance, name, height):
+    file_path = f"./women/{distance}/{name}.html"
+    with open(file_path, 'r', encoding='utf-8') as file:
+        source_code = file.read()
+    return components.html(source_code, height=height)
+
+
 st.markdown("# Wyniki kobiet 🏃‍♀️")
 st.sidebar.markdown("# Kobiety 🏃‍♀️")
+tab100,  tab800, tab10000, tab_half_marathon,  tab_marathon = st.tabs(
+    ["100m", "800m", "10000m", "pół_maraton", "maraton"])
+with tab100:
+    st.header("100m")
+    with st.expander(label="Najlepszy czas w danym roku", expanded=False):
+        open_html("100", "best_of_every_season", 800)
+    with st.expander(label="Wiatr a czas", expanded=False):
+        open_html("100", "wind", 800)
+    with st.expander(label="Kraje a liczba rekordów", expanded=False):
+        open_html("100", "country_bubbles", 800)
+    with st.expander(label="PB a wiek", expanded=False):
+        open_html("100", "personal_best_graph", 800)
+with tab800:
+    st.header("800m")
+    with st.expander(label="Top 10 - liczba najlepszych wyników na 800m według kraju", expanded=False):
+        open_html("800", "top_10_countries", 800)
+    with st.expander(label="Progresja rekordów świata", expanded=False):
+        open_html("800", "WR_progression", 800)
+with tab10000:
+    st.header("10000m")
+    with st.expander(label="Top 10 - liczba najlepszych wyników na 10000m według kraju", expanded=False):
+        open_html("10000", "top_10_countries", 800)
+    with st.expander(label="Progresja rekordów świata", expanded=False):
+        open_html("10000", "WR_progression", 800)
+with tab_half_marathon:
+    st.header("Półmaraton")
+with tab_marathon:
+    st.header("Maraton")
+    with st.expander(label="Najlepszy czas w danym roku", expanded=False):
+        open_html("marathon", "best_of_every_season", 800)
+    with st.expander(label="Progresja rekordów świata", expanded=False):
+        open_html("marathon", "WR_progression", 800)
+    with st.expander(label="Liczba biegaczy a kraje", expanded=False):
+        open_html("marathon", "Runners_per_country", 800)
+    with st.expander(label="PB a wiek", expanded=False):
+        open_html("marathon", "personal_best_graph", 800)

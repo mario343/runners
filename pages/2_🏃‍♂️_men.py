@@ -103,3 +103,5 @@ with tab_marathon:
         open_html("marathon", "personal_best_graph", 800)
     with st.expander(label="Top 10 - liczba najlepszych wyników dla maratonu według kraju", expanded=False):
         open_html("marathon", "top_10_countries", 800)
+    with st.expander(label="Najlepsze wyniki maratończyków w zależności od wieku", expanded=False):
+        open_html("marathon", "heatmap", 800)

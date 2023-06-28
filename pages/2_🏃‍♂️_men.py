@@ -74,17 +74,23 @@ with tab100:
         open_html("100", "heatmap", 800)
 with tab400:
     st.header("400m")
-    with st.expander(label="Top 10 - liczba rekordów na według kraju", expanded=False):
+    with st.expander(label="Top 10 - liczba najlepszych wyników na 400m według kraju", expanded=False):
         open_html("400", "top_10_countries", 800)
+    with st.expander(label="Progresja rekordów świata", expanded=False):
+        open_html("400", "WR_progression", 800)
 
 with tab800:
     st.header("800m")
-    with st.expander(label="Top 10 - liczba rekordów na według kraju", expanded=False):
+    with st.expander(label="Top 10 - liczba najlepszych wyników na 800m według kraju", expanded=False):
         open_html("800", "top_10_countries", 800)
+    with st.expander(label="Progresja rekordów świata", expanded=False):
+        open_html("800", "WR_progression", 800)
 with tab10000:
     st.header("10000m")
-    with st.expander(label="Top 10 - liczba rekordów na według kraju", expanded=False):
+    with st.expander(label="Top 10 - liczba najlepszych wyników na 10000m według kraju", expanded=False):
         open_html("10000", "top_10_countries", 800)
+    with st.expander(label="Progresja rekordów świata", expanded=False):
+        open_html("10000", "WR_progression", 800)
 with tab_marathon:
     st.header("Maraton")
     with st.expander(label="Najlepszy czas w danym roku", expanded=False):
@@ -95,5 +101,5 @@ with tab_marathon:
         open_html("marathon", "Runners_per_country", 800)
     with st.expander(label="PB a wiek", expanded=False):
         open_html("marathon", "personal_best_graph", 800)
-    with st.expander(label="Top 10 - liczba rekordów według kraju", expanded=False):
+    with st.expander(label="Top 10 - liczba najlepszych wyników dla maratonu według kraju", expanded=False):
         open_html("marathon", "top_10_countries", 800)
